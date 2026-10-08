@@ -338,7 +338,15 @@ def fetch_korean_festivals(today: str) -> list[dict]:
                      sigungu=str(it.get("sigungucode") or ""), ko=True)
             out[p["id"]] = p
             kept += 1
-        print(f"  KorService2 festivals {region}: {kept}/{len(items)} upcoming")
+        latest = max((str(it.get("eventenddate") or "") for it in items), default="-")
+        print(f"  KorService2 festivals {region}: {kept}/{len(items)} upcoming (latest end {latest})")
+    if not out:
+        # Diagnostic: is the gap regional, or does the API have no upcoming festivals at all?
+        try:
+            _, nationwide = call("KorService2", "searchFestival2", eventStartDate=today, numOfRows=1, pageNo=1)
+            print(f"  KorService2 festivals starting today or later, nationwide: {nationwide}")
+        except ApiError as e:
+            print(f"::warning::KorService2 nationwide festival check: {e}")
     festivals = sorted(out.values(), key=lambda f: (f["start"], f["end"]))
     for f in festivals[:150]:
         try:
