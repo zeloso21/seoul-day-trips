@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Seoul Day Trips — Gyeonggi &amp; Incheon</title>
+<meta name="description" content="Day trips from Seoul: attractions, food, festivals and photos in Gyeonggi-do and Incheon, with directions from Seoul.">
+<link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="assets/vendor/leaflet/MarkerCluster.css">
+<link rel="stylesheet" href="assets/vendor/leaflet/MarkerCluster.Default.css">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗺️</text></svg>">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#top" data-i18n="brand">Seoul Day Trips</a>
+  <nav class="nav" aria-label="Sections">
+    <a href="#explore" data-i18n="nav.explore">Explore</a>
+    <a href="#festivals" data-i18n="nav.festivals">Festivals</a>
+    <a href="#gallery" data-i18n="nav.gallery">Photos</a>
+    <a href="#getting-there" data-i18n="nav.access">Getting there</a>
+  </nav>
+  <div class="lang" role="group" aria-label="Language">
+    <button type="button" data-lang="en">EN</button>
+    <button type="button" data-lang="ja">日本語</button>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <h1 data-i18n="hero.title">Beyond Seoul, within an hour</h1>
+    <p data-i18n="hero.lead">Fortresses, islands, art villages and seaside markets in Gyeonggi-do and Incheon — all reachable by subway, train or bus.</p>
+    <p class="updated" id="updated"></p>
+  </section>
+
+  <section id="explore" class="section">
+    <h2 data-i18n="explore.title">Explore</h2>
+    <div class="filters">
+      <div class="chips" id="region-chips" role="group" aria-label="Region"></div>
+      <div class="chips" id="category-chips" role="group" aria-label="Category"></div>
+      <div class="row">
+        <select id="city" aria-label="City"></select>
+        <input id="search" type="search" autocomplete="off" data-i18n-placeholder="explore.search" placeholder="Search places">
+      </div>
+      <p class="count" id="count" aria-live="polite"></p>
+    </div>
+    <div id="map" class="map" role="region" aria-label="Map"></div>
+    <div class="cards" id="cards"></div>
+    <button type="button" class="more" id="more" data-i18n="explore.more">Show more</button>
+  </section>
+
+  <section id="festivals" class="section">
+    <h2 data-i18n="festivals.title">Festivals &amp; events</h2>
+    <p class="muted" data-i18n="festivals.lead">Upcoming and ongoing festivals in Gyeonggi-do and Incheon. Dates can change — check the official site before you go.</p>
+    <div class="chips" id="festival-chips" role="group" aria-label="Region"></div>
+    <div id="festival-list" class="festival-list"></div>
+  </section>
+
+  <section id="gallery" class="section">
+    <h2 data-i18n="gallery.title">Photo gallery</h2>
+    <div class="chips" id="photo-chips" role="group" aria-label="Region"></div>
+    <div id="photo-grid" class="photo-grid"></div>
+  </section>
+
+  <section id="getting-there" class="section">
+    <h2 data-i18n="access.title">Getting there from Seoul</h2>
+    <div id="access-tips" class="tips"></div>
+    <div id="access-list" class="access-list"></div>
+  </section>
+</main>
+
+<dialog id="lightbox" class="lightbox">
+  <button type="button" class="close" aria-label="Close">×</button>
+  <img alt="">
+  <p class="caption"></p>
+</dialog>
+
+<footer class="footer">
+  <p>Source: Korea Tourism Organization (KOGL)</p>
+  <p class="muted"><span data-i18n="footer.note">Information may change. Please confirm opening hours and dates before visiting.</span> · Map © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a> contributors</p>
+</footer>
+
+<script src="assets/vendor/leaflet/leaflet.js"></script>
+<script src="assets/vendor/leaflet/leaflet.markercluster.js"></script>
+<script src="assets/i18n.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
