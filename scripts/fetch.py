@@ -167,13 +167,34 @@ def call_all(service: str, op: str, page_size: int = 100, max_pages: int = 30, *
     return out
 
 
+def in_region(item: dict, region: str) -> bool:
+    """True unless the item's own codes say it belongs somewhere else."""
+    area, ldong = str(item.get("areacode") or ""), str(item.get("lDongRegnCd") or "")
+    if not area and not ldong:
+        return True
+    return AREA_TO_REGION.get(area) == region or LDONG_TO_REGION.get(ldong) == region
+
+
 def call_region(service: str, op: str, region: str, **params) -> list[dict]:
-    """Query by legacy areaCode; fall back to lDongRegnCd if the service returns nothing."""
+    """Query by legacy areaCode AND by lDongRegnCd and merge the results.
+
+    Newer records may carry only the legal-dong code, so filtering by areaCode alone
+    misses them (seen with searchFestival2). Items whose own codes point to another
+    region are dropped, in case a service ignores one of the filters.
+    """
     codes = REGIONS[region]
-    items = call_all(service, op, areaCode=codes["areaCode"], **params)
-    if not items:
-        items = call_all(service, op, lDongRegnCd=codes["lDongRegnCd"], **params)
-    return items
+    merged: dict[str, dict] = {}
+    for area in ({"areaCode": codes["areaCode"]}, {"lDongRegnCd": codes["lDongRegnCd"]}):
+        try:
+            items = call_all(service, op, **area, **params)
+        except ApiError:
+            if not merged and "lDongRegnCd" in area:
+                raise
+            continue
+        for it in items:
+            if in_region(it, region):
+                merged.setdefault(str(it.get("contentid")), it)
+    return list(merged.values())
 
 
 # ---------------------------------------------------------------- normalisation
@@ -213,8 +234,8 @@ def to_float(v) -> float | None:
 
 def region_of(item: dict, fallback: str) -> str:
     return (
-        AREA_TO_REGION.get(str(item.get("areacode", "")))
-        or LDONG_TO_REGION.get(str(item.get("lDongRegnCd", "")))
+        LDONG_TO_REGION.get(str(item.get("lDongRegnCd", "")))
+        or AREA_TO_REGION.get(str(item.get("areacode", "")))
         or fallback
     )
 

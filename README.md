@@ -21,7 +21,7 @@ scripts/fetch.py               API 수집 스크립트 (표준 라이브러리�
 
 ### 수집 내용 (`scripts/fetch.py`)
 
-- 대상 지역: 경기(areaCode 31)·인천(2). 서비스가 areaCode로 결과를 주지 않으면 법정동 코드(41/28)로 재시도
+- 대상 지역: 경기(areaCode 31)·인천(2). areaCode와 법정동 코드(lDongRegnCd 41/28) 양쪽으로 조회해 합침 (신규 데이터는 법정동 코드만 있는 경우가 있음)
 - EN/JA: 관광지·문화시설·레포츠·음식 (`areaBasedList2`), 축제 (`searchFestival2` + `detailCommon2`로 개요/홈페이지)
 - 축제: 실행 시점의 **KST 오늘 날짜**를 계산해 종료일 ≥ 오늘인 것만 저장 (프론트에서도 한 번 더 필터)
 - KorService2 축제 보완: 영문/일문판 축제와 위치(500m)·기간이 겹치지 않는 경기·인천 축제를 추가. 이름(한국어)·기간·좌표·사진·홈페이지만 사용하고 한국어 개요·주소는 넣지 않음. 사이트에는 "Korean-language listing / 韓国語情報" 표시. 시·군 이름은 각 언어판 areaCode2로 변환
