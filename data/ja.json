@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:27+09:00",
+ "updated": "2026-10-09T08:41+09:00",
  "places": [
   {
    "id": "3364731",
@@ -132,6 +132,19 @@
    "lng": 127.5186756583
   },
   {
+   "id": "4083500",
+   "title": "TERRA FANTASIA（테라판타지아）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ポチョン市ヨンブク面ピトゥルギナンギル191",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/46/4081546_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/46/4081546_image3_1.jpg",
+   "lat": 38.0837859023,
+   "lng": 127.2203231709
+  },
+  {
    "id": "3491165",
    "title": "The Stay HEALING PARK（더스테이힐링파크）",
    "category": "attraction",
@@ -145,6 +158,45 @@
    "lng": 127.5239158795
   },
   {
+   "id": "3364655",
+   "title": "Wowvos ((주)와우보스)",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "京畿道富川市ソヒャンロ135 プイルビル4階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5023572755,
+   "lng": 126.7629689007
+  },
+  {
+   "id": "2527242",
+   "title": "smob河南（스몹 하남）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ハナム市ミサデロ750",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/41/2432841_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/41/2432841_image3_1.jpg",
+   "lat": 37.5453567398,
+   "lng": 127.223720374
+  },
+  {
+   "id": "2527240",
+   "title": "smob高陽（스몹 고양）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市トギャン区コヤンデロ1955 4F",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/32/3551432_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/32/3551432_image3_1.jpg",
+   "lat": 37.646977059497985,
+   "lng": 126.89477800778101
+  },
+  {
    "id": "3112065",
    "title": "にじもりスタジオ（니지모리 스튜디오）",
    "category": "attraction",
@@ -156,6 +208,19 @@
    "thumb": "",
    "lat": 37.8792560035,
    "lng": 127.0920183789
+  },
+  {
+   "id": "2650569",
+   "title": "アクアフィールド高陽（아쿠아필드 고양）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市トギャン区コヤンデロ1955",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/44/3500244_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/44/3500244_image3_1.png",
+   "lat": 37.646977059497985,
+   "lng": 126.89477800778101
   },
   {
    "id": "1946343",
@@ -197,6 +262,19 @@
    "lng": 127.2149184795
   },
   {
+   "id": "281791",
+   "title": "エバーランド（에버랜드）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヨンイン市チョイン区ポゴク邑エバーランドロ199",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/28/3095328_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/28/3095328_image3_1.jpg",
+   "lat": 37.28925960959989,
+   "lng": 127.21490203107045
+  },
+  {
    "id": "2658591",
    "title": "エーデルワイススイステーマパーク（에델바이스 스위스테마파크）",
    "category": "attraction",
@@ -236,6 +314,19 @@
    "lng": 126.7937373126
   },
   {
+   "id": "3097455",
+   "title": "カナアートパーク（가나아트파크）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンジュ市チャンフン面クォニュルロ117",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/83/3559483_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/83/3559483_image3_1.jpg",
+   "lat": 37.7249579522,
+   "lng": 126.9491488043
+  },
+  {
    "id": "281795",
    "title": "カリビアンベイ（캐리비안베이）",
    "category": "attraction",
@@ -260,6 +351,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/1091662_image3_1.jpg",
    "lat": 37.8349291173,
    "lng": 127.4658883141
+  },
+  {
+   "id": "2377443",
+   "title": "キャンプグリーブス（캠프 그리브스）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市クンネ面チョクシプチャロ137",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/06/3531706_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/06/3531706_image3_1.jpg",
+   "lat": 37.8984296881,
+   "lng": 126.7316305557
   },
   {
    "id": "3103355",
@@ -288,6 +392,19 @@
    "lng": 126.7961330816
   },
   {
+   "id": "3487263",
+   "title": "コブク島（거북섬）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道シフン市コブクソムロ113",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/72/3494072_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/72/3494072_image3_1.jpg",
+   "lat": 37.32141862904099,
+   "lng": 126.67972654341479
+  },
+  {
    "id": "2534398",
    "title": "サムスン火災モビリティミュージアム（삼성화재 모빌리티뮤지엄）",
    "category": "attraction",
@@ -312,6 +429,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/61/2820261_image2_1.jpg",
    "lat": 38.0729841938,
    "lng": 127.2875587267
+  },
+  {
+   "id": "3097514",
+   "title": "サンチョン渓谷（상촌계곡）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンピョン郡カンサン面テソク里",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/06/3076706_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/06/3076706_image3_1.jpg",
+   "lat": 37.4365562166,
+   "lng": 127.4540202984
   },
   {
    "id": "3099219",
@@ -340,6 +470,32 @@
    "lng": 127.1658348375
   },
   {
+   "id": "3562376",
+   "title": "ソウルオヌル歯科医院（서울오늘치과의원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市トギャン区トンソンロ63、3階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.6522099307,
+   "lng": 126.8954245778
+  },
+  {
+   "id": "281793",
+   "title": "ソウルランド（서울랜드）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道クァチョン市クァンミョンロ181",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/43/3345743_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/43/3345743_image3_1.jpg",
+   "lat": 37.435508818173126,
+   "lng": 127.02382167828021
+  },
+  {
    "id": "281826",
    "title": "ソウル大公園（서울대공원）",
    "category": "attraction",
@@ -351,6 +507,32 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/2678593_image3_1.jpg",
    "lat": 37.4278904825,
    "lng": 127.0171158655
+  },
+  {
+   "id": "3364806",
+   "title": "ソウル第一病院 (서울제일병원)",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "京畿道平沢市チサンロ70",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.0798734051,
+   "lng": 127.0624797328
+  },
+  {
+   "id": "2598520",
+   "title": "タイムアンドブレイド博物館（타임앤블레이드 박물관）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市タンヒョン面ヘイリマウルギル41",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/77/2567577_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/77/2567577_image3_1.jpg",
+   "lat": 37.7873308641,
+   "lng": 126.6978888685
   },
   {
    "id": "1590606",
@@ -432,6 +614,19 @@
    "lng": 126.9616244818
   },
   {
+   "id": "2670824",
+   "title": "ナリ農園（나리농원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンジュ市クァンサ洞812",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/06/4112706_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/06/4112706_image3_1.jpg",
+   "lat": 37.7871,
+   "lng": 127.0837
+  },
+  {
    "id": "3104416",
    "title": "ヌエソム灯台展望台（누에섬 등대전망대）",
    "category": "attraction",
@@ -510,6 +705,19 @@
    "lng": 127.3143509302
   },
   {
+   "id": "3445209",
+   "title": "ハーブアイランド・ハーブヒーリングセンター (허브아일랜드 허브힐링센터)",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ポチョン市シンブク面チョンシンロ947ボンギル35",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.9650155089,
+   "lng": 127.1317913097
+  },
+  {
    "id": "1100525",
    "title": "ハーブアイランド（허브아일랜드）",
    "category": "attraction",
@@ -523,6 +731,19 @@
    "lng": 127.1311650648
   },
   {
+   "id": "3560218",
+   "title": "パムリダンギル（밤리단길）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市イルサンドン区チョンバルサン洞",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/62/3009862_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/3009862_image3_1.jpg",
+   "lat": 37.6721,
+   "lng": 126.7841
+  },
+  {
    "id": "3002316",
    "title": "パンアモリ海水浴場（방아머리해수욕장）",
    "category": "attraction",
@@ -534,6 +755,45 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/40/2609640_image3_1.jpg",
    "lat": 37.2895792948,
    "lng": 126.5774902727
+  },
+  {
+   "id": "2593975",
+   "title": "ピドゥルギナン瀑布（漢灘江地質公園）（비둘기낭 폭포（한탄강 국가지질공원））",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道抱川市永北面大回山里",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/63/2566263_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/63/2566263_image3_1.jpg",
+   "lat": 38.0797774401,
+   "lng": 127.2169137674
+  },
+  {
+   "id": "2524034",
+   "title": "ファダムスプ（和談の森）（화담숲）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道クァンジュ市トチョク面トチョグィッロ278-1",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/32/3482332_image2_1.PNG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/32/3482332_image3_1.PNG",
+   "lat": 37.3407647183,
+   "lng": 127.2894225103
+  },
+  {
+   "id": "2944025",
+   "title": "ファーストガーデン（퍼스트가든）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市タプサッコルギル260",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/33/2590933_image2_1.bmp",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/33/2590933_image3_1.bmp",
+   "lat": 37.7325844522,
+   "lng": 126.7949235388
   },
   {
    "id": "3441726",
@@ -601,6 +861,19 @@
    "lng": 126.6993124807
   },
   {
+   "id": "3441705",
+   "title": "ヘンニダンギル（행리단길）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市パルダル区ファソムンロ43",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.2853420378,
+   "lng": 127.0127633314
+  },
+  {
    "id": "3097231",
    "title": "ペダゴルテーマパーク（배다골테마파크）",
    "category": "attraction",
@@ -612,6 +885,19 @@
    "thumb": "",
    "lat": 37.6309333061,
    "lng": 126.8477755691
+  },
+  {
+   "id": "3440568",
+   "title": "ミリネヒールビーイングクラブ (미리내 힐빙클럽)",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンピョン郡チピョン面ウォルサンチョスジギル21",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4738779557,
+   "lng": 127.6507563307
   },
   {
    "id": "1989767",
@@ -679,6 +965,32 @@
    "lng": 127.461481831
   },
   {
+   "id": "1920370",
+   "title": "ワンマウントウォーターパーク（원마운트 워터파크）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市イルサンソ区ハンリュワールドロ300",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/78/3491778_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/78/3491778_image3_1.jpg",
+   "lat": 37.6645531506224,
+   "lng": 126.754526650049
+  },
+  {
+   "id": "1208477",
+   "title": "一山湖水公園（일산호수공원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市イルサンドン区ホスロ595",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/91/3513491_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/91/3513491_image3_1.jpg",
+   "lat": 37.657058,
+   "lng": 126.763855
+  },
+  {
    "id": "667645",
    "title": "一東第一硫黄温泉（일동제일유황온천）",
    "category": "attraction",
@@ -718,6 +1030,19 @@
    "lng": 126.9361980347
   },
   {
+   "id": "3550411",
+   "title": "中央大学光明病院（중앙대학교광명병원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道クァンミョン市トガンロ110",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4245974656,
+   "lng": 126.8859100494
+  },
+  {
    "id": "3491708",
    "title": "九峰島落照展望台（구봉도 낙조전망대）",
    "category": "attraction",
@@ -755,6 +1080,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/71/3033571_image3_1.JPG",
    "lat": 37.5729517479,
    "lng": 127.1894627372
+  },
+  {
+   "id": "1101173",
+   "title": "京機未来教育 坡州キャンパス(경기미래교육 파주캠퍼스)",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "京畿道 坡州市 炭県面 オルムシル路40",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/74/936174_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/74/936174_image3_1.jpg",
+   "lat": 37.7844486741753,
+   "lng": 126.702628324425
   },
   {
    "id": "1597426",
@@ -861,18 +1199,17 @@
    "lng": 127.0169408703
   },
   {
-   "id": "ko-3354918",
-   "title": "光明洞窟",
+   "id": "2709828",
+   "title": "光明洞窟（광명동굴）",
    "category": "attraction",
    "region": "gyeonggi",
    "city": "",
-   "addr": "",
+   "addr": "キョンギ道クァンミョン市カハクロ85ボンギル142",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/04/3422304_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/3422304_image3_1.jpg",
-   "lat": 37.4243548415,
-   "lng": 126.8648909266,
-   "supplement": true
+   "img": "",
+   "thumb": "",
+   "lat": 37.4243017512,
+   "lng": 126.8648770331
   },
   {
    "id": "281861",
@@ -938,6 +1275,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/24/3033324_image3_1.jpg",
    "lat": 37.2937131461,
    "lng": 127.411753302
+  },
+  {
+   "id": "3104002",
+   "title": "前谷港（전곡항）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ファソン市ソシン面チョンゴクハンロ5",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.1870095128,
+   "lng": 126.6515750532
   },
   {
    "id": "3409096",
@@ -1227,6 +1577,19 @@
    "lng": 126.8288823384
   },
   {
+   "id": "2380472",
+   "title": "坡州 李珥遺跡（파주 이이 유적）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市ボブォン邑チャウンソウォンロ204",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/08/2482208_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/08/2482208_image3_1.jpg",
+   "lat": 37.8660611667,
+   "lng": 126.8709455982
+  },
+  {
    "id": "3489355",
    "title": "坡州 臨津閣平和ゴンドラ（坡州DMZゴンドラ）（파주 임진각평화곤돌라（파주 DMZ 곤돌라））",
    "category": "attraction",
@@ -1383,6 +1746,19 @@
    "lng": 127.4762478986
   },
   {
+   "id": "2644301",
+   "title": "安城ファームランド（안성팜랜드）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道アンソン市コンド邑テシンドゥギル28",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 36.9920039653,
+   "lng": 127.1943722749
+  },
+  {
    "id": "2616280",
    "title": "安城マッチュムランド（안성맞춤랜드）",
    "category": "attraction",
@@ -1422,6 +1798,19 @@
    "lng": 126.6813494895
   },
   {
+   "id": "3408885",
+   "title": "宮坪港（궁평항）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "京畿道 華城市 西新面 宮坪港路1069-17",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/20/2947320_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/20/2947320_image3_1.jpg",
+   "lat": 37.1153492583,
+   "lng": 126.6788993706
+  },
+  {
    "id": "3098183",
    "title": "宮坪里海水浴場（궁평리해수욕장）",
    "category": "attraction",
@@ -1459,6 +1848,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/24/3075224_image3_1.jpg",
    "lat": 37.5016770727,
    "lng": 126.7454802012
+  },
+  {
+   "id": "2950660",
+   "title": "嶼海浪済扶島海上ケーブルカー（서해랑 제부도 해상케이블카）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ファソン市チョンゴカンロ1-10",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/36/4059436_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/36/4059436_image3_1.jpg",
+   "lat": 37.1839101279722,
+   "lng": 126.65009790299628
   },
   {
    "id": "1988686",
@@ -1591,6 +1993,19 @@
    "lng": 127.1204044913
   },
   {
+   "id": "3403229",
+   "title": "徳坪サービスエリア（덕평자연휴게소）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道利川市麻長面 トギ路154番通り287-76 (마장면)",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/03/3096203_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/03/3096203_image3_1.jpg",
+   "lat": 37.2413522876,
+   "lng": 127.3897046476
+  },
+  {
    "id": "1993526",
    "title": "愛妓峰平和生態公園（애기봉평화생태공원）",
    "category": "attraction",
@@ -1695,6 +2110,19 @@
    "lng": 127.6556516417
   },
   {
+   "id": "3364368",
+   "title": "明知病院 (명지병원)",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "京畿道高陽市德陽区ファスロ14ボンギル55",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.6421640591,
+   "lng": 126.8303644905
+  },
+  {
    "id": "2558720",
    "title": "月串浦口（월곶포구）",
    "category": "attraction",
@@ -1706,6 +2134,19 @@
    "thumb": "",
    "lat": 37.3873430378,
    "lng": 126.740264417
+  },
+  {
+   "id": "4041152",
+   "title": "月山大君祠堂（월산대군사당）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市トギャン区ホグクロ1243-39",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/23/3465723_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/23/3465723_image3_1.JPG",
+   "lat": 37.6760372216796,
+   "lng": 126.873539683151
   },
   {
    "id": "3098195",
@@ -1732,6 +2173,19 @@
    "thumb": "",
    "lat": 37.835524281,
    "lng": 127.3577287139
+  },
+  {
+   "id": "3580388",
+   "title": "李東訓骨延長再建病院（이동훈연세정형외과의원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ソンナム市スジョン区ウィレソイルロ10 スーパースタータワー3～5階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4655021639,
+   "lng": 127.1370788946
   },
   {
    "id": "3002178",
@@ -1784,6 +2238,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/36/3077336_image3_1.jpg",
    "lat": 37.9467783355,
    "lng": 127.0728737328
+  },
+  {
+   "id": "1205892",
+   "title": "松岩スペースセンター（송암스페이스센터）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンジュ市チャンフン面クォニュルロ185ボンギル103",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/03/3335103_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/03/3335103_image3_1.jpg",
+   "lat": 37.733553307,
+   "lng": 126.9448260561
   },
   {
    "id": "1990147",
@@ -1903,6 +2370,19 @@
    "lng": 126.7556891501
   },
   {
+   "id": "1990242",
+   "title": "楊平トゥムルモリ（양평 두물머리）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンピョン郡ヤンソ面トゥムルモリギル145",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/94/3513794_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/94/3513794_image3_1.jpg",
+   "lat": 37.5336209966,
+   "lng": 127.317469921
+  },
+  {
    "id": "3097469",
    "title": "権慄将軍墓（권율장군묘）",
    "category": "attraction",
@@ -1927,6 +2407,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/2675412_image2_1.jpg",
    "lat": 37.5575613373,
    "lng": 127.3132463631
+  },
+  {
+   "id": "2659251",
+   "title": "水原チキン屋通り（수원통닭거리）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市パルダル区チョンジョロ800ボンギル16",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/68/3402068_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/68/3402068_image3_1.JPG",
+   "lat": 37.279437694,
+   "lng": 127.0176389215
   },
   {
    "id": "3488427",
@@ -1966,6 +2459,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/28/2945828_image3_1.jpg",
    "lat": 37.2840017303,
    "lng": 127.0240220551
+  },
+  {
+   "id": "2591892",
+   "title": "水原華城観光特区（수원화성 관광특구）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市パルダル区チョンジョロ780",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.2775716804,
+   "lng": 127.0167564691
   },
   {
    "id": "281794",
@@ -2241,6 +2747,19 @@
    "lng": 126.6879259053
   },
   {
+   "id": "281920",
+   "title": "烏頭山統一展望台（오두산 통일전망대）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市タンヒョン面ピルスンロ369",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/13/3512013_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/3512013_image3_1.jpg",
+   "lat": 37.7730299769,
+   "lng": 126.67710703823339
+  },
+  {
    "id": "3097091",
    "title": "物旺湖（물왕호수）",
    "category": "attraction",
@@ -2280,6 +2799,19 @@
    "lng": 127.0007713846
   },
   {
+   "id": "3096898",
+   "title": "白鶴貯水池（백학저수지）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヨンチョン郡ミサン面アミ里",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/36/3582236_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/36/3582236_image3_1.jpg",
+   "lat": 38.0321,
+   "lng": 126.9276
+  },
+  {
    "id": "1188979",
    "title": "盆唐こども天文台（분당 어린이천문대）",
    "category": "attraction",
@@ -2291,6 +2823,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/54/2364454_image3_1.jpg",
    "lat": 37.3233106373,
    "lng": 127.1550729479
+  },
+  {
+   "id": "3547954",
+   "title": "盆唐ソウル大学病院（분당서울대학교병원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ソンナム市プンダン区クミロ173ボンギル82 1棟3階国際診療センター",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.3502569486,
+   "lng": 127.1235139411
   },
   {
    "id": "1101155",
@@ -2345,6 +2890,19 @@
    "lng": 127.6180105617
   },
   {
+   "id": "1385109",
+   "title": "碧草池樹木園（벽초지수목원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市クァンタン面プフンロ242",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/00/2713100_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/00/2713100_image3_1.jpg",
+   "lat": 37.8004525905457,
+   "lng": 126.874511025281
+  },
+  {
    "id": "3097299",
    "title": "祝霊山（축령산）",
    "category": "attraction",
@@ -2382,6 +2940,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/55/734355_image3_1.jpg",
    "lat": 37.4361668563,
    "lng": 126.9923289981
+  },
+  {
+   "id": "2007798",
+   "title": "笑鬱園（소울원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市タンヒョン面コムサンロ424-12",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/78/3382778_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/78/3382778_image3_1.JPG",
+   "lat": 37.8058605198331,
+   "lng": 126.73472734501
   },
   {
    "id": "281919",
@@ -2567,6 +3138,19 @@
    "lng": 127.4671173516
   },
   {
+   "id": "3405876",
+   "title": "茶山生態公園（다산생태공원）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道南楊州市鳥安面茶 山路767",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/45/3096845_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/45/3096845_image3_1.jpg",
+   "lat": 37.5143591027,
+   "lng": 127.2983751131
+  },
+  {
    "id": "3491421",
    "title": "菊花島（국화도）",
    "category": "attraction",
@@ -2656,6 +3240,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/70/3393270_image3_1.JPG",
    "lat": 37.093595974,
    "lng": 126.8669054782
+  },
+  {
+   "id": "281859",
+   "title": "華虹門（화홍문）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市パルダル区スウォンチョンロ377",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/50/3407950_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/50/3407950_image3_1.png",
+   "lat": 37.2870233178,
+   "lng": 127.0172200465
   },
   {
    "id": "281862",
@@ -2775,6 +3372,19 @@
    "lng": 126.8597151908
   },
   {
+   "id": "1100514",
+   "title": "都羅展望台（도라전망대）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市チャンダン面チェサムタンクルロ310",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/86/2706486_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/86/2706486_image2_1.jpg",
+   "lat": 37.9089927116,
+   "lng": 126.7008977937
+  },
+  {
    "id": "1988674",
    "title": "都羅山駅（도라산역）",
    "category": "attraction",
@@ -2866,6 +3476,19 @@
    "lng": 127.1979203095
   },
   {
+   "id": "3495991",
+   "title": "長興堅炭スッカマ（장흥 참숯가마）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンジュ市クォニュルロ400",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/66/3546966_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/66/3546966_image3_1.jpg",
+   "lat": 37.7448359325784,
+   "lng": 126.959751503339
+  },
+  {
    "id": "3404348",
    "title": "陽智パインペットパーク（양지파인펫파크）",
    "category": "attraction",
@@ -2903,6 +3526,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/87/3563987_image3_1.jpg",
    "lat": 37.2577842292,
    "lng": 127.1182114671
+  },
+  {
+   "id": "2534396",
+   "title": "韓国漫画博物館（한국만화박물관）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道富川市吉州路 1",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/69/2551369_image2_1.bmp",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/69/2551369_image3_1.bmp",
+   "lat": 37.5080970306,
+   "lng": 126.7424350307
   },
   {
    "id": "1302604",
@@ -3048,6 +3684,19 @@
    "lng": 126.9007820485
   },
   {
+   "id": "4041146",
+   "title": "高陽観光特区（고양관광특구）",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市イルサンドン区チュンアンロ1271-1",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/65/3465765_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/65/3465765_image3_1.JPG",
+   "lat": 37.65948676841796,
+   "lng": 126.77269887067774
+  },
+  {
    "id": "2530492",
    "title": "高陽郷校（고양향교）",
    "category": "attraction",
@@ -3191,6 +3840,32 @@
    "lng": 127.5809612468
   },
   {
+   "id": "3100501",
+   "title": "Cアートミュージアム（森の中の美術公園）（C아트뮤지엄（숲속의 미술공원））",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンピョン郡ヤンドン面タラクニギル57-13",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/15/3563615_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/15/3563615_image3_1.jpg",
+   "lat": 37.3948345200999,
+   "lng": 127.737285986
+  },
+  {
+   "id": "1275517",
+   "title": "KINTEX（킨텍스）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市イルサンソ区キンテックスロ217-60",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.6689357878581,
+   "lng": 126.745563513781
+  },
+  {
    "id": "3376827",
    "title": "MUSEUM HEI（뮤지엄헤이）",
    "category": "culture",
@@ -3204,6 +3879,19 @@
    "lng": 126.6902995635
   },
   {
+   "id": "3530045",
+   "title": "TRIVIUM（트리비움）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ピョンテク市チヌィ面トンチョン2ギル175-4",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/96/3525096_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/96/3525096_image3_1.jpg",
+   "lat": 37.1414866812,
+   "lng": 127.1197931839
+  },
+  {
    "id": "3104432",
    "title": "ZIEN ART SPACE（지앤아트스페이스）",
    "category": "culture",
@@ -3215,6 +3903,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/69/2364469_image3_1.jpg",
    "lat": 37.2698993483,
    "lng": 127.1101229723
+  },
+  {
+   "id": "3097182",
+   "title": "ガラス島博物館（유리섬박물관）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道アンサン市タヌォン区プフンロ254",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/45/3563445_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/45/3563445_image3_1.jpg",
+   "lat": 37.21975460360186,
+   "lng": 126.60241910289947
   },
   {
    "id": "3097232",
@@ -3267,6 +3968,19 @@
    "thumb": "",
    "lat": 37.5685085007,
    "lng": 127.227026113
+  },
+  {
+   "id": "2009901",
+   "title": "世界民俗楽器博物館（세계민속악기박물관）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市タンヒョン面ヘイリマウルギル63-26",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/31/3382831_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/3382831_image3_1.JPG",
+   "lat": 37.7893924547,
+   "lng": 126.6993312846
   },
   {
    "id": "1255005",
@@ -3464,6 +4178,19 @@
    "lng": 127.0808817927
   },
   {
+   "id": "772379",
+   "title": "木芽博物館（목아박물관）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヨジュ市カンチョン面イムナンギル21",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/03/3540503_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/03/3540503_image3_1.jpg",
+   "lat": 37.28775397995442,
+   "lng": 127.68786724945433
+  },
+  {
    "id": "3337860",
    "title": "正祖テーマ公演場（정조테마공연장）",
    "category": "culture",
@@ -3529,6 +4256,19 @@
    "lng": 127.0363966228
   },
   {
+   "id": "2035567",
+   "title": "水原華城博物館（수원화성박물관）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市パルダル区チャンニョンデロ21",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/73/3020673_image2_1.jpeg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/3020673_image3_1.jpeg",
+   "lat": 37.2820850165,
+   "lng": 127.0190799245
+  },
+  {
    "id": "282279",
    "title": "湖岩美術館（호암미술관）",
    "category": "culture",
@@ -3540,6 +4280,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/3086393_image3_1.jpg",
    "lat": 37.2932064593,
    "lng": 127.1923148632
+  },
+  {
+   "id": "2363048",
+   "title": "照明博物館（조명박물관）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンジュ市クァンジョク面クァンジョクロ235-48",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/97/3559497_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/97/3559497_image3_1.jpg",
+   "lat": 37.83670173013368,
+   "lng": 126.96916796364947
   },
   {
    "id": "2945271",
@@ -3685,6 +4438,19 @@
    "lng": 127.0538246158
   },
   {
+   "id": "1314293",
+   "title": "韓国灯盞博物館（한국등잔박물관）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヨンイン市チョイン区モヒョン邑ヌンゴクロ56ボンギル8",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/61/3584961_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/61/3584961_image3_1.jpg",
+   "lat": 37.3365864507,
+   "lng": 127.1778809224
+  },
+  {
    "id": "3103920",
    "title": "韓国近現代音楽館（한국근현대음악관）",
    "category": "culture",
@@ -3698,6 +4464,19 @@
    "lng": 126.9208719893
   },
   {
+   "id": "1105714",
+   "title": "韓菓文化博物館 韓佳園（한과문화박물관 한가원）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ポチョン市ヨンブク面サンジョンホスロ322ボンギル26-9",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/95/4076895_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/95/4076895_image3_1.jpg",
+   "lat": 38.0683721089,
+   "lng": 127.3035861629
+  },
+  {
    "id": "3351517",
    "title": "驪州博物館（여주박물관）",
    "category": "culture",
@@ -3709,6 +4488,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/2453013_image2_1.jpg",
    "lat": 37.2996140964,
    "lng": 127.653361836
+  },
+  {
+   "id": "3393088",
+   "title": "高陽観光情報センター（고양관광정보센터）",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市イルサンドン区チュンアンロ1271-1",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.65948676841796,
+   "lng": 126.77269887067774
   },
   {
    "id": "3407699",
@@ -3735,6 +4527,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/03/3485903_image3_1.jpg",
    "lat": 37.6628260454,
    "lng": 126.804631386
+  },
+  {
+   "id": "3097075",
+   "title": "Cote A Cote（꼬따꼬뜨）",
+   "category": "food",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市ヨントン区セントラルパークロ127ボンギル80-7",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/81/4006081_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/81/4006081_image3_1.png",
+   "lat": 37.294249895,
+   "lng": 127.0510652716
   },
   {
    "id": "3097179",
@@ -3828,6 +4633,19 @@
    "lng": 127.401792957
   },
   {
+   "id": "4071173",
+   "title": "ウムルチプ富川（우물집 부천）",
+   "category": "food",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道プチョン市ウォンミ区シンフンロ190-1（チュン洞） 商街2棟1階112～113号",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/89/4070189_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/89/4070189_image3_1.jpg",
+   "lat": 37.5010334584,
+   "lng": 126.7779794275
+  },
+  {
    "id": "3033261",
    "title": "オデン食堂・ウィジョンブ(議政府)本店  (오뎅식당)",
    "category": "food",
@@ -3865,6 +4683,19 @@
    "thumb": "",
    "lat": 37.2736562173,
    "lng": 127.0526197492
+  },
+  {
+   "id": "3438449",
+   "title": "シルビ食堂 (실비식당)",
+   "category": "food",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ウィジョンブ市ホグクロ1123ボンギル12",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.7433862738197,
+   "lng": 127.02872376952564
   },
   {
    "id": "3099131",
@@ -3958,6 +4789,32 @@
    "lng": 126.7848040475
   },
   {
+   "id": "954992",
+   "title": "伴鴎亭ナルトチプ（반구정 나루터집）",
+   "category": "food",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道パジュ市ムンサン邑パングジョンロ85ボンギル13",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/51/188851_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/51/188851_image3_1.jpg",
+   "lat": 37.8683531771,
+   "lng": 126.7517127806
+  },
+  {
+   "id": "4033323",
+   "title": "友守屋（亭子本店)（우수옥 정자본점）",
+   "category": "food",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ソンナム市プンダン区チョンジャイルロ120",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/98/4031698_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/98/4031698_image3_1.jpg",
+   "lat": 37.3614566866253,
+   "lng": 127.106565664004
+  },
+  {
    "id": "3438413",
    "title": "和清カルビ（화청갈비）",
    "category": "food",
@@ -3969,6 +4826,19 @@
    "thumb": "",
    "lat": 37.2831962011,
    "lng": 127.0202946382
+  },
+  {
+   "id": "954123",
+   "title": "安養チョン家サムゲタン（안양정가삼계탕）",
+   "category": "food",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道アニャン市マナン区アニャンロ304ボンギル35",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.40026569817446,
+   "lng": 126.92279065317332
   },
   {
    "id": "2678029",
@@ -4049,6 +4919,19 @@
    "lng": 126.8794025634
   },
   {
+   "id": "4009764",
+   "title": "黄金漁場（황금어장）",
+   "category": "food",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道カピョン郡ソラク面ユミョンロ1533-10",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/13/4002813_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/4002813_image3_1.jpg",
+   "lat": 37.6685904639358,
+   "lng": 127.483923527296
+  },
+  {
    "id": "3107378",
    "title": "ABヨット（AB요트）",
    "category": "leisure",
@@ -4099,6 +4982,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/54/1720954_image3_1.jpg",
    "lat": 37.5993498246,
    "lng": 126.7891706982
+  },
+  {
+   "id": "3412666",
+   "title": "シュピラウムグランピング（슈필라움글램핑）",
+   "category": "leisure",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道華城市西新面海岸通り468-11",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/22/3095822_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/22/3095822_image3_1.jpg",
+   "lat": 37.17410571243658,
+   "lng": 126.62686855612009
   },
   {
    "id": "2807758",
@@ -4322,6 +5218,32 @@
    "lng": 126.8717253645
   },
   {
+   "id": "2361091",
+   "title": "加平レールバイク（가평 레일바이크）",
+   "category": "leisure",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道カピョン郡カピョン邑チャントギル14",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/87/2361087_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/87/2361087_image3_1.jpg",
+   "lat": 37.8289664371,
+   "lng": 127.5158558383
+  },
+  {
+   "id": "4061839",
+   "title": "始興Wave Park（시흥 웨이브파크）",
+   "category": "leisure",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道シフン市コブクソムドゥルレギル42",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/31/3493831_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/3493831_image3_1.JPG",
+   "lat": 37.324098906498,
+   "lng": 126.680685089403
+  },
+  {
    "id": "3404041",
    "title": "室内サーフィン SURFING ZONE（서핑존）",
    "category": "leisure",
@@ -4439,6 +5361,19 @@
    "lng": 127.3288158683
   },
   {
+   "id": "4039132",
+   "title": "華城ヨット（화성요트）",
+   "category": "leisure",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ファソン市マンセ区ソシン面チョンゴクハンロ5 101호",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/04/4033304_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/4033304_image3_1.jpg",
+   "lat": 37.1854485694427,
+   "lng": 126.651023069703
+  },
+  {
    "id": "3074161",
    "title": "議政府カーリング競技場（의정부 컬링경기장）",
    "category": "leisure",
@@ -4450,6 +5385,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/3062109_image3_1.jpg",
    "lat": 37.7588465779,
    "lng": 127.0238558509
+  },
+  {
+   "id": "4013505",
+   "title": "長興韓屋プール（장흥한옥수영장）",
+   "category": "leisure",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヤンジュ市チャンフン面クォニュルロ322-60",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.7397278603511,
+   "lng": 126.958265401885
   },
   {
    "id": "282186",
@@ -4621,6 +5569,32 @@
    "lng": 126.6835847124
   },
   {
+   "id": "3438897",
+   "title": "ザ・スパ・アット・パラダイス (더 스파 앳 파라다이스)",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区ヨンジョンヘアンナムロ321ボンギル186",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/67/3574867_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/67/3574867_image3_1.jpg",
+   "lat": 37.4372922506,
+   "lng": 126.4557316796
+  },
+  {
+   "id": "3438922",
+   "title": "ザ・スパ・ハスタ (더 스파 하스타)",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ヨンス区コンベンシアデロ153",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/17/3346617_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/17/3346617_image3_1.jpg",
+   "lat": 37.39022508739128,
+   "lng": 126.64542642443733
+  },
+  {
    "id": "3502711",
    "title": "シーサイドパーク海水足浴場（씨사이드파크해수족욕장）",
    "category": "attraction",
@@ -4699,6 +5673,19 @@
    "lng": 126.4729704834
   },
   {
+   "id": "3575673",
+   "title": "ハートナー（하트너）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ケヤン区オジョサンロ21ボンギル5-9 2階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5322955965,
+   "lng": 126.7376745016
+  },
+  {
    "id": "3407710",
    "title": "パラダイスシティワンダーボックス（파라다이스시티 원더박스）",
    "category": "attraction",
@@ -4712,6 +5699,19 @@
    "lng": 126.4557445366
   },
   {
+   "id": "2652371",
+   "title": "パラダイスシティ・シメル（仁川）（파라다이스 시티 씨메르（인천））",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区ヨンジョンヘアンナムロ321ボンギル186",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/13/3352413_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/3352413_image3_1.jpg",
+   "lat": 37.4372922506,
+   "lng": 126.4557316796
+  },
+  {
    "id": "3491073",
    "title": "プンバウィとウォルティ（분바위와 월띠）",
    "category": "attraction",
@@ -4723,6 +5723,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/43/2918043_image3_1.jpg",
    "lat": 37.767653987,
    "lng": 124.7658995773
+  },
+  {
+   "id": "3031688",
+   "title": "ペダリ古本屋通り（배다리 헌책방 골목）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区クムゴクロ3",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/27/2601527_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/27/2601527_image3_1.jpg",
+   "lat": 37.4727327833,
+   "lng": 126.636115849
   },
   {
    "id": "3408099",
@@ -4790,6 +5803,32 @@
    "lng": 126.5327987706
   },
   {
+   "id": "3529868",
+   "title": "ヤクソグォン（약석원）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市カンファ郡ヤンド面チュンアンロ787ボンギル56-53",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.6930269872,
+   "lng": 126.4380114944
+  },
+  {
+   "id": "3364908",
+   "title": "リベリ医院 (리베리의원 영종도점)",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "仁川広域市ヨンジョン(永宗)区ハヌルジュンアンロ195ボンギル20 マジグラウンド3階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4891252302,
+   "lng": 126.5614608526
+  },
+  {
    "id": "3365608",
    "title": "一美歯科医院 (일미치과의원)",
    "category": "attraction",
@@ -4803,18 +5842,30 @@
    "lng": 126.6875394883
   },
   {
-   "id": "ko-128767",
-   "title": "乙旺里海水浴場",
+   "id": "282045",
+   "title": "乙旺里海水浴場（을왕리해수욕장）",
    "category": "attraction",
    "region": "incheon",
    "city": "",
-   "addr": "",
+   "addr": "インチョン広域市ヨンジョン区ヨンユソロ302ボンギル16-15",
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/78/3518478_image2_1.jpg",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/78/3518478_image3_1.jpg",
    "lat": 37.445948,
-   "lng": 126.372722,
-   "supplement": true
+   "lng": 126.372722
+  },
+  {
+   "id": "3364726",
+   "title": "九月洞オラクル 美容皮膚科&美容外科 (구월동 오라클피부과)",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "仁川広域市南洞区イェスルロ126 LINK126ビル6階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4451295788,
+   "lng": 126.7008866977
   },
   {
    "id": "3099758",
@@ -4828,6 +5879,32 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/51/2674851_image3_1.jpg",
    "lat": 37.6707559982,
    "lng": 126.1919067136
+  },
+  {
+   "id": "2009136",
+   "title": "京仁アラベッキル（경인 아라뱃길）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市コムダン区チョンソジン1ロ41",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/44/2661944_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/44/2661944_image3_1.jpg",
+   "lat": 37.5584384838,
+   "lng": 126.6074662496
+  },
+  {
+   "id": "282046",
+   "title": "仁川チャイナタウン（인천 차이나타운）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区チャイナタウンロ59ボンギル20",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4737962413,
+   "lng": 126.619148032
   },
   {
    "id": "3547943",
@@ -4984,6 +6061,32 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/61/1577661_image3_1.jpg",
    "lat": 37.4667897312,
    "lng": 126.6036330015
+  },
+  {
+   "id": "4063932",
+   "title": "仁川潮湯（인천조탕）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区ヨンユソロ30",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/06/4062706_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/06/4062706_image3_1.jpg",
+   "lat": 37.44415658478,
+   "lng": 126.404587257139
+  },
+  {
+   "id": "3031698",
+   "title": "仁川花平洞セスッテヤ冷麺屋通り（인천 화평동 세숫대야 냉면 거리）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区ソンファロ2ボンギル2",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4784653001,
+   "lng": 126.6295024458
   },
   {
    "id": "3364873",
@@ -5272,6 +6375,32 @@
    "lng": 126.5985054212
   },
   {
+   "id": "281782",
+   "title": "月尾島（월미도）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区ウォルミムンファロ36",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/53/2943453_image2_1.bmp",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/53/2943453_image3_1.bmp",
+   "lat": 37.4753512245,
+   "lng": 126.5975695409
+  },
+  {
+   "id": "3031597",
+   "title": "月尾文化の通り&タルピッ音楽噴水（월미문화의거리 & 달빛음악분수）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区ウォルミロ252",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/69/2786469_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/69/2786469_image3_1.jpg",
+   "lat": 37.4738319795,
+   "lng": 126.5983695051
+  },
+  {
    "id": "3102990",
    "title": "東検島（ナドゥル道／キャンプ／芸術劇場）（동검도（나들길,캠핑,예술극장））",
    "category": "attraction",
@@ -5322,6 +6451,19 @@
    "thumb": "",
    "lat": 37.3909075021,
    "lng": 126.6389152185
+  },
+  {
+   "id": "2476007",
+   "title": "松月洞童話村（송월동 동화마을）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区ソンウォル洞3ガ17-1",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4782901478,
+   "lng": 126.6197172954
   },
   {
    "id": "282068",
@@ -5376,6 +6518,19 @@
    "lng": 126.6566777632
   },
   {
+   "id": "3453913",
+   "title": "江南ブランド眼科 (강남브랜드안과)",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市プピョン区シジャンロ32、2～3階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.49357936194639,
+   "lng": 126.72617708435867
+  },
+  {
    "id": "281774",
    "title": "江華 伝灯寺（강화 전등사）",
    "category": "attraction",
@@ -5428,6 +6583,32 @@
    "lng": 126.4981273568
   },
   {
+   "id": "281768",
+   "title": "江華島（강화도）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市カンファ郡カンファ邑カンファデロ",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.7464467121,
+   "lng": 126.4877310309
+  },
+  {
+   "id": "1846902",
+   "title": "江華徳津鎮（강화 덕진진）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市カンファ郡プルン面トクチンロ31-9",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.649151485985236,
+   "lng": 126.52565458709178
+  },
+  {
    "id": "1156705",
    "title": "江華支石墓遺跡[ユネスコ世界遺産（文化遺産）]（강화 고인돌 유적[유네스코 세계문화유산]）",
    "category": "attraction",
@@ -5465,6 +6646,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/54/1575654_image3_1.jpg",
    "lat": 37.7537263369,
    "lng": 126.4786892184
+  },
+  {
+   "id": "2551777",
+   "title": "済物浦倶楽部（제물포구락부）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区チャユゴンウォンナムロ25",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4745600965,
+   "lng": 126.622500461
   },
   {
    "id": "1134783",
@@ -5636,6 +6830,32 @@
    "lng": 126.4250489979
   },
   {
+   "id": "4013407",
+   "title": "金剛薬石（금강약돌）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ヨンス区ヌンホデロ165ボンギル13",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/93/4009693_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/4009693_image3_1.jpg",
+   "lat": 37.4207946749712,
+   "lng": 126.647454868477
+  },
+  {
+   "id": "3438872",
+   "title": "金豊醸造場（금풍양조장）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市カンファ郡キルサン面サムランソンギル8",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.6395,
+   "lng": 126.4915
+  },
+  {
    "id": "3408236",
    "title": "長花里日没眺望地（장화리일몰조망지）",
    "category": "attraction",
@@ -5647,6 +6867,19 @@
    "thumb": "",
    "lat": 37.6180376186,
    "lng": 126.3783882943
+  },
+  {
+   "id": "2617917",
+   "title": "開港場通り（개항장 거리）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区クァン洞1ガ",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4728824966,
+   "lng": 126.6209923219
   },
   {
    "id": "3100386",
@@ -5673,6 +6906,19 @@
    "thumb": "",
    "lat": 37.5321439974,
    "lng": 126.6463883932
+  },
+  {
+   "id": "2475749",
+   "title": "青羅湖水公園（청라호수공원）",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ソヘ(西海)区クリスタルロ59",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/93/3422893_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/3422893_image3_1.png",
+   "lat": 37.5305424005,
+   "lng": 126.6362669938
   },
   {
    "id": "3078705",
@@ -5753,6 +6999,19 @@
    "lng": 126.3696740056
   },
   {
+   "id": "3502430",
+   "title": "ARTFACTORY CHARMGIROOM （아트팩토리 참기름）",
+   "category": "culture",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市カンファ郡キルサン面カチゴルギル109",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/56/3532856_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/56/3532856_image3_1.jpg",
+   "lat": 37.6679892829,
+   "lng": 126.4803620241
+  },
+  {
    "id": "2947922",
    "title": "Arts Center仁川（아트센터인천）",
    "category": "culture",
@@ -5779,6 +7038,19 @@
    "lng": 126.5088570712
   },
   {
+   "id": "3487811",
+   "title": "SANG SANG PLATFORM（상상플랫폼）",
+   "category": "culture",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チェムルポ区ウォルミロ33",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/66/3367566_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/66/3367566_image3_1.jpg",
+   "lat": 37.4760834131,
+   "lng": 126.6146527143
+  },
+  {
    "id": "2035865",
    "title": "ジャージャー麺博物館（짜장면박물관）",
    "category": "culture",
@@ -5803,6 +7075,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/3379462_image3_1.jpg",
    "lat": 37.4725699657,
    "lng": 126.6235365804
+  },
+  {
+   "id": "3423550",
+   "title": "ル・スペース（르 스페이스）",
+   "category": "culture",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区コンハンムンファロ127",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/56/4061756_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/56/4061756_image3_1.jpg",
+   "lat": 37.465656935719224,
+   "lng": 126.38933787369898
   },
   {
    "id": "2650367",
@@ -5857,6 +7142,19 @@
    "lng": 126.6542046978
   },
   {
+   "id": "1201534",
+   "title": "仁川子ども博物館（인천어린이박물관）",
+   "category": "culture",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ミチュホル区メソホルロ618 （文鶴洞）",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.4372825201,
+   "lng": 126.6907170657
+  },
+  {
    "id": "1940770",
    "title": "仁川広域市立博物館（인천광역시립박물관）",
    "category": "culture",
@@ -5896,6 +7194,19 @@
    "lng": 126.6358737757
   },
   {
+   "id": "3502328",
+   "title": "仁川開港博物館（인천개항박물관）",
+   "category": "culture",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区シンポロ23ボンギル89",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/33/4056133_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/33/4056133_image3_1.jpg",
+   "lat": 37.4760042937,
+   "lng": 126.6184897013
+  },
+  {
    "id": "3502710",
    "title": "国立世界文字博物館（국립세계문자박물관）",
    "category": "culture",
@@ -5922,6 +7233,19 @@
    "lng": 126.5959919369
   },
   {
+   "id": "3078759",
+   "title": "大仏ホテル展示館（대불호텔전시관）",
+   "category": "culture",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区シンポロ23ボンギル101",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/49/2999549_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/49/2999549_image3_1.jpg",
+   "lat": 37.4735584772,
+   "lng": 126.6199767824
+  },
+  {
    "id": "1008213",
    "title": "松島コンベンシア（송도컨벤시아）",
    "category": "culture",
@@ -5933,6 +7257,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/77/3037277_image3_1.jpg",
    "lat": 37.3890356252,
    "lng": 126.6461951621
+  },
+  {
+   "id": "1008528",
+   "title": "水道局山タルドンネ博物館（수도국산달동네박물관）",
+   "category": "culture",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市トン区ソルピッロ51",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/42/1578842_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/42/1578842_image3_1.jpg",
+   "lat": 37.4774267089,
+   "lng": 126.6391348674
   },
   {
    "id": "1942518",
@@ -5987,6 +7324,19 @@
    "lng": 126.4101967937
   },
   {
+   "id": "4063010",
+   "title": "Quay CAFE（키카페（Quay Cafe））",
+   "category": "food",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区ワンサンマリーナギル143",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/18/4062718_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/18/4062718_image3_1.jpg",
+   "lat": 37.4577045704636,
+   "lng": 126.357802008969
+  },
+  {
    "id": "3412939",
    "title": "カフェ・リム（카페 림）",
    "category": "food",
@@ -6000,6 +7350,19 @@
    "lng": 126.4158814558
   },
   {
+   "id": "3438234",
+   "title": "コッケダムダbyブルーベリーファーム・ナムドン(南洞)店 (꽃게담다 by 블루베리팜)",
+   "category": "food",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ナムドン区チャヌムルロ21",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.43810421306548,
+   "lng": 126.72005900919874
+  },
+  {
    "id": "3438275",
    "title": "シンスン飯店 (신승반점)",
    "category": "food",
@@ -6011,6 +7374,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/2845104_image3_1.jpg",
    "lat": 37.4755556282,
    "lng": 126.6177620245
+  },
+  {
+   "id": "3530572",
+   "title": "チャドクプン・ヨンジョン島本店（차덕분 영종도본점）",
+   "category": "food",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区ウンハスロ12",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/58/3487558_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/58/3487558_image3_1.jpg",
+   "lat": 37.4923516349,
+   "lng": 126.5810067958
   },
   {
    "id": "3105547",
@@ -6076,6 +7452,32 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/65/2835465_image3_1.jpg",
    "lat": 37.4742451482,
    "lng": 126.6449290266
+  },
+  {
+   "id": "4027417",
+   "title": "小雪園 萬寿（소설원 만수）",
+   "category": "food",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ナムドン区インジュデロ840 1、2階",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/53/4017053_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/53/4017053_image3_1.jpg",
+   "lat": 37.4482120397978,
+   "lng": 126.730572879309
+  },
+  {
+   "id": "4103919",
+   "title": "江華ホミ（강화 호미）",
+   "category": "food",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市カンファ郡プルン面ヘアンドロ436",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/60/4099160_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/60/4099160_image3_1.jpg",
+   "lat": 37.6612437036,
+   "lng": 126.524594545
   },
   {
    "id": "2004918",
@@ -6169,6 +7571,19 @@
    "lng": 126.4574776244
   },
   {
+   "id": "4066776",
+   "title": "ヒョンデ(現代)ヨット (현대요트 인천)",
+   "category": "leisure",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市チュン区ワンサンマリナギル143",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/95/3022095_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/95/3022095_image3_1.jpg",
+   "lat": 37.4577045704636,
+   "lng": 126.357802008969
+  },
+  {
    "id": "3100496",
    "title": "マンジョンキャンプ場（만정캠핑장）",
    "category": "leisure",
@@ -6180,6 +7595,19 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/87/3046887_image3_1.jpg",
    "lat": 37.5154692369,
    "lng": 126.5499393322
+  },
+  {
+   "id": "2514315",
+   "title": "仁川アジアード主競技場（인천아시아드주경기장）",
+   "category": "leisure",
+   "region": "incheon",
+   "city": "",
+   "addr": "インチョン広域市ソヘ区ポンスデロ806",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/60/3531560_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/60/3531560_image3_1.jpg",
+   "lat": 37.5476,
+   "lng": 126.6666
   },
   {
    "id": "3491406",
@@ -6247,5 +7675,754 @@
    "lng": 126.4526205708
   }
  ],
- "festivals": []
+ "festivals": [
+  {
+   "id": "ko-2433596",
+   "title": "왕가의 산책",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "032-743-0468",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/76/4029576_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/76/4029576_image3_1.jpg",
+   "lat": 37.458350712273,
+   "lng": 126.427699293474,
+   "start": "20260105",
+   "end": "20261231",
+   "ko": true,
+   "homepage": "https://www.kh.or.kr/"
+  },
+  {
+   "id": "3113653",
+   "title": "APAP作品ツアー（安養公共芸術プロジェクト）（APAP 작품투어（안양공공예술프로젝트））",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道アニャン市マナン区イェスルゴンウォンロ180",
+   "tel": "+82-31-687-0548",
+   "img": "",
+   "thumb": "",
+   "lat": 37.41945269174406,
+   "lng": 126.92561681569023,
+   "start": "20260310",
+   "end": "20261130",
+   "overview": "道路沿いなどに公共芸術作品を設置し、都市全体を屋根のない美術館にしている「APAP作品ツアー」 。安養（アニャン）芸術公園と坪村（ピョンチョン）地域の美しい森と河川、都心公園と日常空間を歩きながら、2005年から始まったAPAPの1～7回までの公共芸術作品を作品解説者とともに鑑賞するツアープログラムです。安養の歴史と都市文化を反映した美術、彫刻、建築、デザイン、パフォーマンスなど多様な公共芸術作品のストーリーに接することができます。\n\nイベント内容\n[定期ツアー]\n安養芸術公園：安養芸術公園の美しい森と河川に沿って歩きながらAPAP公共芸術作品15～20点ほどを鑑賞するプログラム\n坪村：坪村地域の都市内公園や日常空間を歩きながらAPAP公共芸術作品10点ほどを鑑賞するプログラム\n\n[スペシャルツアー]\n夕方、ほのかにライトアップされた安養芸術公園の特別な風景を楽しみながら作品を鑑賞するプログラム",
+   "homepage": "https://www.apap.or.kr"
+  },
+  {
+   "id": "ko-3488421",
+   "title": "2026 국립극장 쏙쏙들이페스티벌",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-870-9110",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/67/4116867_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/67/4116867_image3_1.jpg",
+   "lat": 37.7832839326,
+   "lng": 126.6946859929,
+   "start": "20260314",
+   "end": "20261226",
+   "ko": true,
+   "homepage": "https://www.ntok.go.kr/sasc"
+  },
+  {
+   "id": "ko-3492276",
+   "title": "2026 문화가 있는 날",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "032-575-2526, 070-5001-0265",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/82/4055582_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/82/4055582_image3_1.png",
+   "lat": 37.476334,
+   "lng": 126.632619,
+   "start": "20260401",
+   "end": "20261129",
+   "ko": true,
+   "homepage": "https://www.instagram.com/sg_youngmic/"
+  },
+  {
+   "id": "3436117",
+   "title": "コムベンイトッタ(곰뱅이텄다)",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "경기도 안성시 보개면 남사당로 198-2 安城男寺党公演場",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.0317771624,
+   "lng": 127.3100697966,
+   "start": "20260404",
+   "end": "20261129",
+   "overview": "",
+   "homepage": ""
+  },
+  {
+   "id": "ko-3495437",
+   "title": "2026 문화가 있는날  - 문화배달",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "033-253-7111",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/93/4080593_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/4080593_image3_1.jpg",
+   "lat": 38.1345233861,
+   "lng": 127.0274821632,
+   "start": "20260624",
+   "end": "20261031",
+   "ko": true,
+   "homepage": "https://ccmicsynergy2026.imweb.me/index"
+  },
+  {
+   "id": "ko-4109448",
+   "title": "세미원 수련문화제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-775-1835",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/52/4109452_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/52/4109452_image3_1.jpg",
+   "lat": 37.5409386578,
+   "lng": 127.3239607947,
+   "start": "20260901",
+   "end": "20261031",
+   "ko": true,
+   "homepage": "https://www.semiwon.or.kr/bbs/board.php?bo_table=notice&wr_id=120"
+  },
+  {
+   "id": "ko-4110051",
+   "title": "숲속의 산성도시 - 남한산성 가을 페스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "1800-4746",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/62/4110062_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/4110062_image3_1.jpg",
+   "lat": 37.4789871959,
+   "lng": 127.1800243535,
+   "start": "20260905",
+   "end": "20261025",
+   "ko": true,
+   "homepage": "https://lavender-alibi-20b.notion.site/"
+  },
+  {
+   "id": "ko-4056606",
+   "title": "청백리의 집, 오늘을 비추다",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "02-6015-2592",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/72/4096372_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/72/4096372_image3_1.jpg",
+   "lat": 37.433927297,
+   "lng": 126.8777258264,
+   "start": "20260905",
+   "end": "20261107",
+   "ko": true,
+   "homepage": ""
+  },
+  {
+   "id": "ko-3352029",
+   "title": "포천 한탄강 가든페스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-538-3030",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/47/4114547_image2_1.jpeg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/47/4114547_image3_1.jpeg",
+   "lat": 38.0829307871,
+   "lng": 127.2085797227,
+   "start": "20260912",
+   "end": "20261101",
+   "ko": true,
+   "homepage": "https://www.pocheon-gardenfesta.kr/"
+  },
+  {
+   "id": "ko-1250585",
+   "title": "2026 경기도자비엔날레",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-631-6501",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/99/4114099_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/99/4114099_image3_1.jpg",
+   "lat": 37.2769208162,
+   "lng": 127.4237253326,
+   "start": "20260918",
+   "end": "20261101",
+   "ko": true,
+   "homepage": "https://www.gcbiennale.org"
+  },
+  {
+   "id": "ko-3355698",
+   "title": "한강수계 걷기행사",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "02-458-3315",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/96/4105196_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/96/4105196_image3_1.jpg",
+   "lat": 37.823886379,
+   "lng": 127.5134174634,
+   "start": "20260919",
+   "end": "20261107",
+   "ko": true,
+   "homepage": "https://www.hanriver.or.kr/ecology/20110_info.php5"
+  },
+  {
+   "id": "2554696",
+   "title": "高陽秋花祭り（고양가을꽃축제）",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道コヤン市イルサンドン区ホスロ595",
+   "tel": "+82-31-908-7750",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/34/4110534_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/34/4110534_image3_1.JPG",
+   "lat": 37.6538241589,
+   "lng": 126.7686505728,
+   "start": "20261001",
+   "end": "20261011",
+   "overview": "爽やかな風が心地よい秋、色鮮やかに染まる一山湖水公園で「高陽（コヤン）秋花祭り」が開催されます。今年の祭りのテーマは「秋のパレット」で、パレットに広がる色とりどりの絵の具のように、さまざまな秋の花で一山湖水公園を彩ります。コスモスや百日紅をはじめとするさまざまな秋の花が咲き誇る庭園や花畑を散策しながら、都心で深まりゆく秋の風情を満喫できます。花や自然を背景に思い出の写真を撮影できるフォトスポットや、ゆったりと秋を楽しめる休憩スペースをはじめ、家族やカップル、友人と一緒に楽しめるさまざまな展示・体験コンテンツも用意されています。また、高陽の良質な花卉を間近で見て購入できるフラワーマーケットなど、花とともに楽しめる多彩なコンテンツも満喫できます。入場料は無料で誰でも自由に訪れることができるため、気軽な秋のお出かけにもぴったりです。美しい湖の風景と色とりどりの秋の花々が織りなす「高陽秋の花祭り」で、この秋だけの美しいひとときを楽しめます。",
+   "homepage": "https://gief.or.kr/main/?mc_code=171010"
+  },
+  {
+   "id": "ko-1398149",
+   "title": "삼랑성역사문화축제",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "032-937-0125",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/15/4112915_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/15/4112915_image3_1.jpg",
+   "lat": 37.6314332661,
+   "lng": 126.486439384,
+   "start": "20261003",
+   "end": "20261011",
+   "ko": true,
+   "homepage": "https://samrangseong.org/"
+  },
+  {
+   "id": "975432",
+   "title": "水原華城文化祭り(수원화성문화제)",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市パルダル区チョンジョロ825（ナムチャン洞）",
+   "tel": "+82-31-5191-3647",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/90/4060890_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/90/4060890_image3_1.jpg",
+   "lat": 37.2818820192,
+   "lng": 127.0143944638,
+   "start": "20261004",
+   "end": "20261011",
+   "overview": "「水原（スウォン）華城（ファソン）文化祭り」は、1795年に行われた正祖（チョンジョ）大王の華城行幸の中で最も華々しい記録を現代の感性で再現した総合文化芸術祭りです。『園幸乙卯整理儀軌』に記載された歴史的瞬間が洗練されたコンテンツとしてリアルに再現され、市民と世界中の人々が主役となって楽しむ韓国最大規模の王宮パレード「正祖大王陵行次」を通じて特別な体験をお届けします。世界の人々が集う交流の場であり、グローバルな祭りの代表格として定着した「水原華城文化祭り」で、時空を超えた祭りの楽しさをご体感いただけます。",
+   "homepage": ""
+  },
+  {
+   "id": "ko-4117047",
+   "title": "양평부추축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "010-2728-1054",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/36/4117136_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/36/4117136_image3_1.jpg",
+   "lat": 37.4198407182,
+   "lng": 127.7542477259,
+   "start": "20261009",
+   "end": "20261010",
+   "ko": true,
+   "homepage": "https://buchoofestival.com/"
+  },
+  {
+   "id": "ko-3540329",
+   "title": "한글날 문화행사",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-881-9692",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/91/4109191_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/91/4109191_image3_1.jpg",
+   "lat": 37.3047787539,
+   "lng": 127.6128192378,
+   "start": "20261009",
+   "end": "20261010",
+   "ko": true,
+   "homepage": "https://www.yjcf.or.kr/"
+  },
+  {
+   "id": "ko-2828336",
+   "title": "시흥월곶포구축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-310-4794",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/77/4089877_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/77/4089877_image3_1.jpg",
+   "lat": 37.3873639083,
+   "lng": 126.7402812374,
+   "start": "20261009",
+   "end": "20261011",
+   "ko": true,
+   "homepage": ""
+  },
+  {
+   "id": "ko-4087092",
+   "title": "2026 GHOST(경기 한류 OST) 페스티벌",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "070-7733-0390",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/98/4087098_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/98/4087098_image3_1.jpg",
+   "lat": 37.8920434573,
+   "lng": 126.7447928585,
+   "start": "20261009",
+   "end": "20261011",
+   "ko": true,
+   "homepage": "https://www.instagram.com/ghostfestival.official/"
+  },
+  {
+   "id": "ko-3113045",
+   "title": "파주페어 북앤컬처",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-955-0075",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/24/4110424_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/24/4110424_image3_1.JPG",
+   "lat": 37.7085879207,
+   "lng": 126.687203713,
+   "start": "20261009",
+   "end": "20261018",
+   "ko": true,
+   "homepage": "https://pajufair.com/"
+  },
+  {
+   "id": "ko-2846034",
+   "title": "안양청년축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-8045-5779",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/82/4116882_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/82/4116882_image3_1.JPG",
+   "lat": 37.3901365976,
+   "lng": 126.9613286581,
+   "start": "20261010",
+   "end": "20261010",
+   "ko": true,
+   "homepage": ""
+  },
+  {
+   "id": "ko-3560787",
+   "title": "2026 양강섬예술축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-773-2612",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/30/4118030_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/30/4118030_image3_1.jpg",
+   "lat": 37.4831299305,
+   "lng": 127.4986628246,
+   "start": "20261010",
+   "end": "20261010",
+   "ko": true,
+   "homepage": "https://ypcf.or.kr/2026-yanggangfestival"
+  },
+  {
+   "id": "ko-1620571",
+   "title": "포은문화제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-324-9600",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/02/4116102_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/02/4116102_image3_1.jpg",
+   "lat": 37.3377228675,
+   "lng": 127.179586169,
+   "start": "20261010",
+   "end": "20261011",
+   "ko": true,
+   "homepage": "http://poeun.co.kr"
+  },
+  {
+   "id": "ko-2987791",
+   "title": "2026 DMZ OPEN 페스티벌",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "02-6288-9245",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/23/4116823_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/23/4116823_image3_1.jpg",
+   "lat": 37.8920134562,
+   "lng": 126.7447464059,
+   "start": "20261012",
+   "end": "20261129",
+   "ko": true,
+   "homepage": "https://www.instagram.com/dmzopen_official/"
+  },
+  {
+   "id": "ko-3343831",
+   "title": "2026 대한민국 AI 콘텐츠 어워즈",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "070-7575-2351",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/34/4111534_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/34/4111534_image3_1.png",
+   "lat": 37.2641627269,
+   "lng": 126.997385539,
+   "start": "20261015",
+   "end": "20261016",
+   "ko": true,
+   "homepage": "https://www.gcon.or.kr/KAICA2026/index.html"
+  },
+  {
+   "id": "ko-3551206",
+   "title": "광명동굴 빛 축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "02-2090-1414",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/56/4116456_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/56/4116456_image3_1.jpg",
+   "lat": 37.4210442021,
+   "lng": 126.8627080043,
+   "start": "20261016",
+   "end": "20261017",
+   "ko": true,
+   "homepage": "https://www.gm.go.kr/"
+  },
+  {
+   "id": "ko-2870929",
+   "title": "연천 국화축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-839-4259",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/43/4117543_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/43/4117543_image3_1.jpg",
+   "lat": 38.0156483829,
+   "lng": 127.0614526431,
+   "start": "20261016",
+   "end": "20261025",
+   "ko": true,
+   "homepage": ""
+  },
+  {
+   "id": "ko-2833186",
+   "title": "MOIM International",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-315-1889",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/59/4104859_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/59/4104859_image3_1.jpg",
+   "lat": 37.3795201238,
+   "lng": 126.8032733548,
+   "start": "20261017",
+   "end": "20261017",
+   "ko": true,
+   "homepage": "https://www.shyouth.or.kr/"
+  },
+  {
+   "id": "ko-1720025",
+   "title": "다산정약용문화제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-590-2799",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/69/4116969_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/69/4116969_image3_1.JPG",
+   "lat": 37.5163138398,
+   "lng": 127.2998987869,
+   "start": "20261017",
+   "end": "20261018",
+   "ko": true,
+   "homepage": "https://www.nyj.go.kr/thinkj/index.do"
+  },
+  {
+   "id": "ko-3544911",
+   "title": "수봉산 페스티벌",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "032-880-7976",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/40/4116440_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/40/4116440_image3_1.jpg",
+   "lat": 37.4598298556,
+   "lng": 126.6632947343,
+   "start": "20261017",
+   "end": "20261018",
+   "ko": true,
+   "homepage": "https://www.michuhol.go.kr/"
+  },
+  {
+   "id": "ko-2756476",
+   "title": "세계유산 조선왕릉축전",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "1522-2295",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/65/4106565_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/65/4106565_image3_1.jpg",
+   "lat": 37.2081453806,
+   "lng": 126.9892183546,
+   "start": "20261017",
+   "end": "20261025",
+   "ko": true,
+   "homepage": "https://www.jrtf.or.kr/"
+  },
+  {
+   "id": "ko-4117084",
+   "title": "2026 HELLO DDC FESTIVAL",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "010-3014-2816",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4117085_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4117085_image3_1.jpg",
+   "lat": 37.9131691698,
+   "lng": 127.0561166549,
+   "start": "20261018",
+   "end": "20261018",
+   "ko": true,
+   "homepage": "https://www.helloddc.co.kr/"
+  },
+  {
+   "id": "1966817",
+   "title": "驪州五穀ナル祭り (여주오곡나루축제)",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道ヨジュ市チョンソン洞290-3",
+   "tel": "+82-31-881-9693",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/47/4104747_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/47/4104747_image3_1.jpg",
+   "lat": 37.29912,
+   "lng": 127.655753,
+   "start": "20261023",
+   "end": "20261025",
+   "overview": "2026年驪州（ヨジュ）五穀ナル（渡し場）祭りは、朝鮮時代に潮浦（チョポ）渡し場を経由して米やサツマイモなど、驪州の農産物や特産品を王様に献上していた歴史を背景に開催される伝統文化祭りです。主なプログラムとしては進上パレード、大釜で炊いた驪州米のビビンバ、焼き芋ギネス、所願紙の道、落火ノリなどがあり、農産物や特産品の販売所が設けられるほか、グルメや伝統文化体験、公演なども楽しめます。会場では驪州で生産される様々な農産物や特産品が見られ、伝統文化をテーマにした体験や公演、家族で参加できるプログラムなどが用意されます。また、日が暮れると落火ノリなどの夜間プログラムが行われ、昼とはまた違った祭りの雰囲気を楽しめます。秋空の下で驪州の優れた農産物や特産品、伝統文化、様々な体験や見どころに触れながら、豊かな秋の風情を満喫できます。",
+   "homepage": ""
+  },
+  {
+   "id": "ko-2872078",
+   "title": "인천 영화 주간 2026",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "032-435-7172",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/38/4096938_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/38/4096938_image3_1.jpg",
+   "lat": 37.4059981779,
+   "lng": 126.6836220553,
+   "start": "20261023",
+   "end": "20261025",
+   "ko": true,
+   "homepage": "http://www.ifwk.co.kr/"
+  },
+  {
+   "id": "ko-3550990",
+   "title": "2026 인천원도사제&낙섬축제",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "032-866-3994",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/18/4115118_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/18/4115118_image3_1.jpg",
+   "lat": 37.4465704866,
+   "lng": 126.636745435,
+   "start": "20261024",
+   "end": "20261024",
+   "ko": true,
+   "homepage": ""
+  },
+  {
+   "id": "ko-3019085",
+   "title": "2026 이천펫축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-645-3683",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4111607_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4111607_image3_1.jpg",
+   "lat": 37.292601601,
+   "lng": 127.3826741815,
+   "start": "20261024",
+   "end": "20261025",
+   "ko": true,
+   "homepage": ""
+  },
+  {
+   "id": "ko-3522322",
+   "title": "오슬로우 빈티지 마켓",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "010-2258-9475",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/32/4106932_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/32/4106932_image3_1.jpg",
+   "lat": 37.4727889015,
+   "lng": 126.6206091372,
+   "start": "20261024",
+   "end": "20261025",
+   "ko": true,
+   "homepage": "https://www.instagram.com/ohslowmarket"
+  },
+  {
+   "id": "ko-1841539",
+   "title": "마토예술제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-669-0974",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/61/4108761_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/61/4108761_image3_1.jpg",
+   "lat": 36.9596136599,
+   "lng": 127.0441409123,
+   "start": "20261031",
+   "end": "20261031",
+   "ko": true,
+   "homepage": "https://www.pccf.or.kr/evnt/evntView.do?evntSn=2609040001"
+  },
+  {
+   "id": "ko-3383613",
+   "title": "고양행주한우 숯불구이축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-960-3034,3050",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image3_1.JPG",
+   "lat": 37.654669772497314,
+   "lng": 126.83276387204035,
+   "start": "20261031",
+   "end": "20261101",
+   "ko": true,
+   "homepage": "http://gyfestival.kr/"
+  },
+  {
+   "id": "4116277",
+   "title": "BEAUTY SUM水原（뷰티썸 수원）",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "キョンギ道スウォン市ヨントン区クァンギョジュンアンロ140（ハ洞）",
+   "tel": "+82-2-6121-6229",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/86/4114586_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/86/4114586_image3_1.jpg",
+   "lat": 37.2858286641,
+   "lng": 127.0594469415,
+   "start": "20261105",
+   "end": "20261107",
+   "overview": "K-ビューティーのあらゆる価値が一つにつながる「BEAUTY SUM水原（ビューティーサムスウォン）」が水原コンベンションセンター展示ホールで開催されます。このイベントは化粧品の素材と研究開発・技術が一堂に集まる次世代ビューティープラットフォームです。\n\n今回のイベントでは製造から研究、投資、流通まで、ビューティーバリューチェーンの全過程を網羅し、スキンケア、メイクアップ、ヘア、ネイル、ボディ、フレグランス、ダーマ、エステティック、原料、成分、OEM・ODM、パッケージング、インナービューティーなど、多彩な分野の商品・技術が展示されます。特にB2B、インフルエンサー、グローバル、スタートアップの4分野に焦点を当てた「BIGS特別館」を設け、ビューティービジネスの新たな可能性を提案します。\n\n実際のビジネス創出やグローバル展開につながる多彩なプログラムも用意されています。化粧品素材セミナーや、韓国・中国・日本のビューティーバリューチェーンをつなぐ「水原グローバルビューティーサミット」を開催するほか、出展企業と海外バイヤーを1対1でつなぐ「海外バイヤー輸出商談会」、化粧品ODM企業とブランド立ち上げを希望する企業をつなぐ「ODMブランドローンチコネクター」など、目的に合わせたマッチングプログラムも実施されます。事前登録をすると無料で入場できます。",
+   "homepage": "https://beautysumkorea.com/"
+  },
+  {
+   "id": "ko-4116982",
+   "title": "산북AI김장문화축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-883-0031",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/83/4116983_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/83/4116983_image3_1.jpg",
+   "lat": 37.4008741346,
+   "lng": 127.4451502631,
+   "start": "20261107",
+   "end": "20261108",
+   "ko": true,
+   "homepage": "https://www.xn--4k0b720a3lcv6j.com/"
+  },
+  {
+   "id": "ko-1129018",
+   "title": "2026 인천국제디자인페어(INDEF)",
+   "category": "festival",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "070-4895-0879",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/00/4118300_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/00/4118300_image3_1.jpg",
+   "lat": 37.4476124937,
+   "lng": 126.700028637,
+   "start": "20261120",
+   "end": "20261122",
+   "ko": true,
+   "homepage": "https://indef.kr/"
+  },
+  {
+   "id": "ko-3368470",
+   "title": "경기미 디저트 페스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "031-774-3312",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/09/4106209_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/4106209_image3_1.jpg",
+   "lat": 37.2668071001,
+   "lng": 126.9971816138,
+   "start": "20261121",
+   "end": "20261122",
+   "ko": true,
+   "homepage": ""
+  },
+  {
+   "id": "ko-3367339",
+   "title": "2026 우리쌀 우리술 K-라이스페스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "070-4681-5717",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/60/4111660_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/60/4111660_image3_1.jpg",
+   "lat": 37.6689334781,
+   "lng": 126.7458028497,
+   "start": "20261127",
+   "end": "20261129",
+   "ko": true,
+   "homepage": "https://www.k-ricefesta.co.kr/"
+  }
+ ]
 }
