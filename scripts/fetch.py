@@ -278,9 +278,9 @@ def fetch_places(service: str, sigungu: dict) -> list[dict]:
 
 
 def fetch_festivals(service: str, today: str, sigungu: dict) -> list[dict]:
-    # Ask for events from a year ago so festivals that started earlier but are still running
-    # are included, then keep only those whose end date is today or later.
-    since = (datetime.strptime(today, "%Y%m%d") - timedelta(days=365)).strftime("%Y%m%d")
+    # Ask for events starting up to three years ago so long-running festivals that started
+    # earlier are included, then keep only those whose end date is today or later.
+    since = (datetime.strptime(today, "%Y%m%d") - timedelta(days=3 * 365)).strftime("%Y%m%d")
     out: dict[str, dict] = {}
     for region in REGIONS:
         items = call_region(service, "searchFestival2", region, eventStartDate=since, arrange="A")
@@ -296,7 +296,8 @@ def fetch_festivals(service: str, today: str, sigungu: dict) -> list[dict]:
             p["end"] = end
             out[p["id"]] = p
             kept += 1
-        print(f"  {service} festivals {region}: {kept}/{len(items)} upcoming")
+        latest = max((str(it.get("eventenddate") or "") for it in items), default="-")
+        print(f"  {service} festivals {region}: {kept}/{len(items)} upcoming (latest end {latest})")
     festivals = sorted(out.values(), key=lambda f: (f["start"], f["end"]))
     # Overview + homepage for each festival (small list, so detail calls are affordable).
     for f in festivals[:80]:
@@ -314,17 +315,25 @@ def fetch_festivals(service: str, today: str, sigungu: dict) -> list[dict]:
 def fetch_korean_major() -> list[dict]:
     """Coordinates / photos for MAJOR_PLACES from KorService2 (no Korean text kept)."""
     found = []
+    missing: list[str] = []
     for keyword, region, category, en, ja in MAJOR_PLACES:
-        try:
-            items, _ = call(
-                "KorService2", "searchKeyword2",
-                keyword=keyword, areaCode=REGIONS[region]["areaCode"], arrange="A",
-                numOfRows=10, pageNo=1,
-            )
-        except ApiError as e:
-            print(f"::warning::KorService2 '{keyword}': {e}")
-            continue
+        items: list[dict] = []
+        codes = REGIONS[region]
+        # Try the keyword as written and without spaces, by areaCode then by lDongRegnCd.
+        for kw in dict.fromkeys((keyword, keyword.replace(" ", ""))):
+            for area in ({"areaCode": codes["areaCode"]}, {"lDongRegnCd": codes["lDongRegnCd"]}):
+                try:
+                    items, _ = call("KorService2", "searchKeyword2", keyword=kw, arrange="A",
+                                    numOfRows=10, pageNo=1, **area)
+                except ApiError as e:
+                    print(f"::warning::KorService2 '{keyword}': {e}")
+                    items = []
+                if items:
+                    break
+            if items:
+                break
         if not items:
+            missing.append(keyword)
             continue
         needle = keyword.replace(" ", "")
         best = next((it for it in items if needle in (it.get("title") or "").replace(" ", "")), items[0])
@@ -341,7 +350,8 @@ def fetch_korean_major() -> list[dict]:
             "lat": lat,
             "lng": lng,
         })
-    print(f"  KorService2 major places resolved: {len(found)}/{len(MAJOR_PLACES)}")
+    print(f"  KorService2 major places resolved: {len(found)}/{len(MAJOR_PLACES)}"
+          + (f" (not found: {', '.join(missing)})" if missing else ""))
     return found
 
 
