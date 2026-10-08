@@ -277,7 +277,7 @@ def fetch_places(service: str, sigungu: dict) -> list[dict]:
     return list(places.values())
 
 
-def fetch_festivals(service: str, today: str, sigungu: dict) -> list[dict]:
+def fetch_festivals(service: str, today: str, sigungu: dict, overview: bool = True) -> list[dict]:
     # Ask for events starting up to three years ago so long-running festivals that started
     # earlier are included, then keep only those whose end date is today or later.
     since = (datetime.strptime(today, "%Y%m%d") - timedelta(days=3 * 365)).strftime("%Y%m%d")
@@ -294,22 +294,78 @@ def fetch_festivals(service: str, today: str, sigungu: dict) -> list[dict]:
                 continue
             p["start"] = str(it.get("eventstartdate") or "")
             p["end"] = end
+            p["sigungu"] = str(it.get("sigungucode") or "")
             out[p["id"]] = p
             kept += 1
         latest = max((str(it.get("eventenddate") or "") for it in items), default="-")
         print(f"  {service} festivals {region}: {kept}/{len(items)} upcoming (latest end {latest})")
     festivals = sorted(out.values(), key=lambda f: (f["start"], f["end"]))
     # Overview + homepage for each festival (small list, so detail calls are affordable).
-    for f in festivals[:80]:
+    for f in festivals[:150]:
         try:
             items, _ = call(service, "detailCommon2", contentId=f["id"], numOfRows=1, pageNo=1)
         except ApiError as e:
             print(f"::warning::detailCommon2 {f['id']}: {e}")
             continue
         if items:
-            f["overview"] = strip_html(items[0].get("overview"))[:600]
+            if overview:
+                f["overview"] = strip_html(items[0].get("overview"))[:600]
+            f["homepage"] = first_href(items[0].get("homepage"))
+    for f in festivals:
+        f.pop("sigungu", None)
+    return festivals
+
+
+def fetch_korean_festivals(today: str) -> list[dict]:
+    """Upcoming festivals from KorService2: name, dates, location, photo and homepage only.
+
+    The Korean overview is not kept. The sigungu code is kept so each language can
+    resolve the city name from its own areaCode2 table.
+    """
+    since = (datetime.strptime(today, "%Y%m%d") - timedelta(days=3 * 365)).strftime("%Y%m%d")
+    out: dict[str, dict] = {}
+    for region in REGIONS:
+        items = call_region("KorService2", "searchFestival2", region, eventStartDate=since, arrange="A")
+        kept = 0
+        for it in items:
+            end = str(it.get("eventenddate") or "")
+            if not re.fullmatch(r"\d{8}", end) or end < today:
+                continue
+            p = place_from(it, "festival", region, {})
+            if not p:
+                continue
+            p.update(id=f"ko-{p['id']}", start=str(it.get("eventstartdate") or ""), end=end,
+                     sigungu=str(it.get("sigungucode") or ""), ko=True)
+            out[p["id"]] = p
+            kept += 1
+        print(f"  KorService2 festivals {region}: {kept}/{len(items)} upcoming")
+    festivals = sorted(out.values(), key=lambda f: (f["start"], f["end"]))
+    for f in festivals[:150]:
+        try:
+            items, _ = call("KorService2", "detailCommon2", contentId=f["id"][3:], numOfRows=1, pageNo=1)
+        except ApiError as e:
+            print(f"::warning::KorService2 detailCommon2 {f['id']}: {e}")
+            continue
+        if items:
             f["homepage"] = first_href(items[0].get("homepage"))
     return festivals
+
+
+def supplement_festivals(festivals: list[dict], korean: list[dict], sigungu: dict) -> int:
+    """Add KorService2 festivals that the foreign-language list does not already have."""
+    added = 0
+    for k in korean:
+        dup = any(distance_m(k, f) < 500 and f["start"] <= k["end"] and k["start"] <= f["end"]
+                  for f in festivals)
+        if dup:
+            continue
+        f = {key: v for key, v in k.items() if key != "sigungu"}
+        f["city"] = sigungu.get((k["region"], k["sigungu"])) or ""
+        f["addr"] = ""  # Korean-only address is not useful to the target audience
+        festivals.append(f)
+        added += 1
+    festivals.sort(key=lambda f: (f["start"], f["end"]))
+    return added
 
 
 def fetch_korean_major() -> list[dict]:
@@ -440,6 +496,12 @@ def main() -> int:
         print(f"::warning::KorService2 failed: {redact(str(e))}")
         major = []
 
+    try:
+        korean_festivals = fetch_korean_festivals(today)
+    except Exception as e:  # noqa: BLE001
+        print(f"::warning::KorService2 festivals failed, reusing previous: {redact(str(e))}")
+        korean_festivals = None
+
     for lang, service in (("en", "EngService2"), ("ja", "JpnService2")):
         print(f"[{lang}] {service}")
         try:
@@ -451,9 +513,17 @@ def main() -> int:
                 # Keep the previous festival list, minus events that have ended since.
                 print(f"::warning::{lang} festivals kept from previous run: {e}")
                 festivals = [f for f in load_json(f"{lang}.json").get("festivals", [])
-                             if f.get("end", "") >= today]
+                             if f.get("end", "") >= today and not f.get("ko")]
             if not places:
                 raise ApiError("no places returned")
+            if korean_festivals is None:
+                # Reuse last run's Korean-sourced festivals that have not ended yet.
+                festivals += [f for f in load_json(f"{lang}.json").get("festivals", [])
+                              if f.get("ko") and f.get("end", "") >= today
+                              and f["id"] not in {x["id"] for x in festivals}]
+            else:
+                n = supplement_festivals(festivals, korean_festivals, sigungu)
+                print(f"  festivals supplemented from KorService2: {n}")
             added = supplement(places, major, lang)
             print(f"  supplemented from KorService2: {added}")
             places.sort(key=lambda p: (p["region"], p["category"], p["title"]))

@@ -175,10 +175,11 @@
     const meta = [t("region." + p.region), p.city].filter(Boolean).join(" · ");
     return '<article class="card" data-key="' + esc(p.category + ":" + p.id) + '">' + img +
       '<div class="body"><span class="tag" style="--c:' + (COLORS[p.category] || "#555") + '">' + esc(t("cat." + p.category)) + "</span>" +
-      "<h3>" + esc(p.title) + "</h3>" + dates +
+      "<h3" + (p.ko ? ' lang="ko"' : "") + ">" + esc(p.title) + "</h3>" + dates +
       '<p class="meta">' + esc(meta) + "</p>" +
       (p.addr ? '<p class="addr">' + esc(p.addr) + "</p>" : "") +
       (p.supplement ? '<p class="note">' + esc(t("card.supplement")) + "</p>" : "") +
+      (p.ko ? '<p class="note">' + esc(t("festivals.ko")) + "</p>" : "") +
       '<div class="actions">' +
       (p.lat != null ? '<button type="button" class="link" data-act="map">' + esc(t("card.map")) + "</button>" +
         '<a href="' + dirUrl(p) + '" target="_blank" rel="noopener">' + esc(t("card.directions")) + " ↗</a>" : "") +
@@ -218,7 +219,8 @@
     const box = $("#festival-list");
     if (!list.length) { box.innerHTML = '<p class="empty">' + esc(t("festivals.empty")) + "</p>"; return; }
     let month = "";
-    box.innerHTML = list.map((f) => {
+    const koNote = list.some((f) => f.ko) ? '<p class="muted ko-note">' + esc(t("festivals.koNote")) + "</p>" : "";
+    box.innerHTML = koNote + list.map((f) => {
       const startKey = f.start < today ? today : f.start;
       const m = startKey.slice(0, 6);
       let head = "";
@@ -233,7 +235,8 @@
         (f.thumb ? '<img src="' + esc(f.thumb) + '" alt="" loading="lazy">' : '<div class="noimg"></div>') +
         '<div class="body">' +
         (ongoing ? '<span class="badge">' + esc(t("festivals.ongoing")) + "</span>" : "") +
-        "<h4>" + esc(f.title) + "</h4>" +
+        "<h4" + (f.ko ? ' lang="ko"' : "") + ">" + esc(f.title) + "</h4>" +
+        (f.ko ? '<p class="note">' + esc(t("festivals.ko")) + "</p>" : "") +
         '<p class="dates">' + esc(fmtDate(f.start)) + " – " + esc(fmtDate(f.end)) + "</p>" +
         '<p class="meta">' + esc([t("region." + f.region), f.city].filter(Boolean).join(" · ")) + "</p>" +
         (f.overview ? "<details><summary>" + esc(t("festivals.more")) + "</summary><p>" + esc(f.overview) + "</p></details>" : "") +
