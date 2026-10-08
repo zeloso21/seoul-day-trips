@@ -373,8 +373,7 @@ def fetch_korean_festivals(today: str) -> list[dict]:
             if not p:
                 continue
             p.update(id=f"ko-{p['id']}", start=str(it.get("eventstartdate") or ""), end=end,
-                     sigungu=str(it.get("sigungucode") or ""), ldong=str(it.get("lDongSignguCd") or ""),
-                     ko=True)
+                     sigungu=str(it.get("sigungucode") or ""), ldong=str(it.get("lDongSignguCd") or ""))
             out[p["id"]] = p
             kept += 1
         latest = max((str(it.get("eventenddate") or "") for it in items), default="-")
@@ -398,7 +397,45 @@ def fetch_korean_festivals(today: str) -> list[dict]:
     return festivals
 
 
-def supplement_festivals(festivals: list[dict], korean: list[dict], sigungu: dict) -> int:
+HANGUL = re.compile(r"[\uac00-\ud7a3]")
+
+
+def norm_name(text: str) -> str:
+    """Festival title without year / edition prefixes, spaces and punctuation."""
+    text = re.sub(r"^\s*(\d{4}\s*년?|제\s*\d+\s*회)\s*", "", text)
+    text = re.sub(r"^\s*(\d{4}\s*년?|제\s*\d+\s*회)\s*", "", text)  # "2026 제12회 ..."
+    return re.sub(r"[\s\W_]+", "", text).lower()
+
+
+def load_festival_names() -> dict[str, dict]:
+    path = Path(__file__).with_name("festival_names.json")
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"::warning::festival_names.json not loaded: {e}")
+        return {}
+    return {norm_name(k): v for k, v in raw.items() if not k.startswith("_") and isinstance(v, dict)}
+
+
+FESTIVAL_NAMES: dict[str, dict] = {}
+
+
+def translate_festival(title: str, lang: str) -> str | None:
+    """English/Japanese name from festival_names.json, or None if there is no entry."""
+    n = norm_name(title)
+    if not n:
+        return None
+    key = n if n in FESTIVAL_NAMES else max(
+        (k for k in FESTIVAL_NAMES if len(k) >= 3 and k in n), key=len, default=None)
+    name = FESTIVAL_NAMES.get(key, {}).get(lang) if key else None
+    if not name:
+        return None
+    year = (re.match(r"\s*(?:제\s*\d+\s*회\s*)?(20\d\d)(?!\d)", title)
+            or re.search(r"(?<!\d)(20\d\d)\s*$", title))
+    return f"{year.group(1)} {name}" if year else name
+
+
+def supplement_festivals(festivals: list[dict], korean: list[dict], sigungu: dict, lang: str) -> int:
     """Add KorService2 festivals that the foreign-language list does not already have."""
     added = 0
     for k in korean:
@@ -409,6 +446,13 @@ def supplement_festivals(festivals: list[dict], korean: list[dict], sigungu: dic
         f = {key: v for key, v in k.items() if key not in ("sigungu", "ldong")}
         f["city"] = city_of(sigungu, k["region"], k["sigungu"], k["ldong"])
         f["addr"] = ""  # Korean-only address is not useful to the target audience
+        f["source"] = "kor"
+        f.pop("ko", None)
+        name = translate_festival(k["title"], lang)
+        if name:
+            f["title"], f["title_ko"] = name, k["title"]
+        elif HANGUL.search(k["title"]):
+            f["ko"] = True  # shown with its Korean name and a "Korean-language listing" note
         festivals.append(f)
         added += 1
     festivals.sort(key=lambda f: (f["start"], f["end"]))
@@ -527,9 +571,14 @@ def write_json(name: str, data: dict) -> None:
     print(f"  {name}: written")
 
 
+def is_kor(f: dict) -> bool:
+    return f.get("source") == "kor" or bool(f.get("ko")) or str(f.get("id", "")).startswith("ko-")
+
+
 def main() -> int:
     global KEY
     KEY = get_key()
+    FESTIVAL_NAMES.update(load_festival_names())
     DATA.mkdir(exist_ok=True)
     now = datetime.now(KST)
     today = now.strftime("%Y%m%d")
@@ -560,17 +609,18 @@ def main() -> int:
                 # Keep the previous festival list, minus events that have ended since.
                 print(f"::warning::{lang} festivals kept from previous run: {e}")
                 festivals = [f for f in load_json(f"{lang}.json").get("festivals", [])
-                             if f.get("end", "") >= today and not f.get("ko")]
+                             if f.get("end", "") >= today and not is_kor(f)]
             if not places:
                 raise ApiError("no places returned")
             if korean_festivals is None:
                 # Reuse last run's Korean-sourced festivals that have not ended yet.
                 festivals += [f for f in load_json(f"{lang}.json").get("festivals", [])
-                              if f.get("ko") and f.get("end", "") >= today
+                              if is_kor(f) and f.get("end", "") >= today
                               and f["id"] not in {x["id"] for x in festivals}]
             else:
-                n = supplement_festivals(festivals, korean_festivals, sigungu)
-                print(f"  festivals supplemented from KorService2: {n}")
+                n = supplement_festivals(festivals, korean_festivals, sigungu, lang)
+                named = sum(1 for f in festivals if f.get("title_ko"))
+                print(f"  festivals supplemented from KorService2: {n} ({named} with translated names)")
             added = supplement(places, major, lang)
             print(f"  supplemented from KorService2: {added}")
             places.sort(key=lambda p: (p["region"], p["category"], p["title"]))

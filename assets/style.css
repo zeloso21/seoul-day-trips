@@ -110,6 +110,7 @@ button { font: inherit; color: inherit; }
 .fest details { font-size: .86rem; }
 .fest details p { margin: 6px 0 0; white-space: pre-line; color: var(--muted); }
 .fest summary { cursor: pointer; color: var(--accent); }
+.orig { margin: 0; font-size: .78rem; color: var(--muted); }
 .ko-note { margin: 0; font-size: .85rem; }
 .badge { align-self: flex-start; background: var(--accent); color: #fff; font-size: .7rem; font-weight: 700; padding: 1px 8px; border-radius: 999px; }
 

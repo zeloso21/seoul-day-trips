@@ -138,7 +138,7 @@
       (state.region === "all" || p.region === state.region) &&
       (state.category === "all" || p.category === state.category) &&
       (!state.city || p.city === state.city) &&
-      (!q || (p.title + " " + (p.addr || "") + " " + (p.city || "")).toLowerCase().includes(q)));
+      (!q || (p.title + " " + (p.title_ko || "") + " " + (p.addr || "") + " " + (p.city || "")).toLowerCase().includes(q)));
   }
 
   function chips(el, values, current, labelFn, onPick) {
@@ -179,6 +179,7 @@
       '<p class="meta">' + esc(meta) + "</p>" +
       (p.addr ? '<p class="addr">' + esc(p.addr) + "</p>" : "") +
       (p.supplement ? '<p class="note">' + esc(t("card.supplement")) + "</p>" : "") +
+      (p.title_ko ? '<p class="orig" lang="ko">' + esc(p.title_ko) + "</p>" : "") +
       (p.ko ? '<p class="note">' + esc(t("festivals.ko")) + "</p>" : "") +
       '<div class="actions">' +
       (p.lat != null ? '<button type="button" class="link" data-act="map">' + esc(t("card.map")) + "</button>" +
@@ -236,6 +237,7 @@
         '<div class="body">' +
         (ongoing ? '<span class="badge">' + esc(t("festivals.ongoing")) + "</span>" : "") +
         "<h4" + (f.ko ? ' lang="ko"' : "") + ">" + esc(f.title) + "</h4>" +
+        (f.title_ko ? '<p class="orig" lang="ko">' + esc(f.title_ko) + "</p>" : "") +
         (f.ko ? '<p class="note">' + esc(t("festivals.ko")) + "</p>" : "") +
         '<p class="dates">' + esc(fmtDate(f.start)) + " – " + esc(fmtDate(f.end)) + "</p>" +
         '<p class="meta">' + esc([t("region." + f.region), f.city].filter(Boolean).join(" · ")) + "</p>" +
