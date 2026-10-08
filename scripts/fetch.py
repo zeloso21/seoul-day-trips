@@ -251,7 +251,7 @@ def place_from(item: dict, category: str, region: str, sigungu: dict) -> dict | 
         "title": title,
         "category": category,
         "region": reg,
-        "city": sigungu.get((reg, str(item.get("sigungucode", "")))) or "",
+        "city": city_of(sigungu, reg, str(item.get("sigungucode") or ""), str(item.get("lDongSignguCd") or "")),
         "addr": " ".join(x for x in (item.get("addr1"), item.get("addr2")) if x).strip(),
         "tel": strip_html(item.get("tel")),
         "img": https(item.get("firstimage")),
@@ -282,7 +282,24 @@ def fetch_sigungu(service: str) -> dict:
                 names[(region, str(it.get("code")))] = (it.get("name") or "").strip()
         except ApiError as e:
             print(f"::warning::{service} areaCode2 ({region}): {e}")
+        # Newer records carry only legal-dong codes (lDongSignguCd); map those too.
+        try:
+            items, _ = call(service, "ldongCode2", lDongRegnCd=codes["lDongRegnCd"], lDongListYn="N",
+                            numOfRows=100, pageNo=1)
+            for it in items:
+                code = str(it.get("lDongSignguCd") or it.get("code") or "")
+                name = (it.get("lDongSignguNm") or it.get("name") or "").strip()
+                if code and name:
+                    names[("ld", region, code)] = name
+        except ApiError as e:
+            print(f"::warning::{service} ldongCode2 ({region}): {e}")
+    print(f"  {service} city names: {sum(1 for k in names if k[0] != 'ld')} legacy, "
+          f"{sum(1 for k in names if k[0] == 'ld')} legal-dong")
     return names
+
+
+def city_of(sigungu: dict, region: str, legacy: str, ldong: str) -> str:
+    return sigungu.get((region, legacy)) or sigungu.get(("ld", region, ldong)) or ""
 
 
 def fetch_places(service: str, sigungu: dict) -> list[dict]:
@@ -356,7 +373,8 @@ def fetch_korean_festivals(today: str) -> list[dict]:
             if not p:
                 continue
             p.update(id=f"ko-{p['id']}", start=str(it.get("eventstartdate") or ""), end=end,
-                     sigungu=str(it.get("sigungucode") or ""), ko=True)
+                     sigungu=str(it.get("sigungucode") or ""), ldong=str(it.get("lDongSignguCd") or ""),
+                     ko=True)
             out[p["id"]] = p
             kept += 1
         latest = max((str(it.get("eventenddate") or "") for it in items), default="-")
@@ -388,8 +406,8 @@ def supplement_festivals(festivals: list[dict], korean: list[dict], sigungu: dic
                   for f in festivals)
         if dup:
             continue
-        f = {key: v for key, v in k.items() if key != "sigungu"}
-        f["city"] = sigungu.get((k["region"], k["sigungu"])) or ""
+        f = {key: v for key, v in k.items() if key not in ("sigungu", "ldong")}
+        f["city"] = city_of(sigungu, k["region"], k["sigungu"], k["ldong"])
         f["addr"] = ""  # Korean-only address is not useful to the target audience
         festivals.append(f)
         added += 1
