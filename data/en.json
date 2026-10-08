@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:24+09:00",
+ "updated": "2026-10-09T08:27+09:00",
  "places": [
   {
    "id": "1426597",
@@ -494,6 +494,20 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/97/935097_image3_1.jpg",
    "lat": 37.9003548279,
    "lng": 126.7006758375
+  },
+  {
+   "id": "ko-128221",
+   "title": "Dumulmeori",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image3_1.jpg",
+   "lat": 37.5360539425305,
+   "lng": 127.312500889645,
+   "supplement": true
   },
   {
    "id": "264360",
@@ -3971,6 +3985,20 @@
    "lng": 126.702888292
   },
   {
+   "id": "ko-128767",
+   "title": "Eurwangni Beach",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/78/3518478_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/78/3518478_image3_1.jpg",
+   "lat": 37.445948,
+   "lng": 126.372722,
+   "supplement": true
+  },
+  {
    "id": "3367207",
    "title": "Gachon University Gil Medical Center (의료법인 길의료재단 길병원)",
    "category": "attraction",
@@ -4463,6 +4491,20 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/36/3529336_image3_1.jpg",
    "lat": 37.4746141544,
    "lng": 126.6225143947
+  },
+  {
+   "id": "ko-125534",
+   "title": "Jeondeungsa Temple",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/86/4061486_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/86/4061486_image3_1.jpg",
+   "lat": 37.631638445,
+   "lng": 126.482901392,
+   "supplement": true
   },
   {
    "id": "1121384",

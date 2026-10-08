@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:24+09:00",
+ "updated": "2026-10-09T08:27+09:00",
  "places": [
   {
    "id": "3364731",
@@ -390,6 +390,20 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/70/2998470_image3_1.jpg",
    "lat": 37.166941727,
    "lng": 127.1051707463
+  },
+  {
+   "id": "ko-128221",
+   "title": "トゥムルモリ",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image3_1.jpg",
+   "lat": 37.5360539425305,
+   "lng": 127.312500889645,
+   "supplement": true
   },
   {
    "id": "3491039",
@@ -4787,6 +4801,20 @@
    "thumb": "",
    "lat": 37.4577144884,
    "lng": 126.6875394883
+  },
+  {
+   "id": "ko-128767",
+   "title": "乙旺里海水浴場",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/78/3518478_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/78/3518478_image3_1.jpg",
+   "lat": 37.445948,
+   "lng": 126.372722,
+   "supplement": true
   },
   {
    "id": "3099758",
