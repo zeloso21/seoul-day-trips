@@ -20,7 +20,7 @@
   "임진각": {"region": "gyeonggi", "category": "attraction", "en": "Imjingak Pyeonghwa-Nuri Park", "ja": "臨津閣平和ヌリ公園"},
   "도라전망대": {"region": "gyeonggi", "category": "attraction", "en": "Dora Observatory", "ja": "都羅展望台"},
   "제3땅굴": {"region": "gyeonggi", "category": "attraction", "en": "The Third Infiltration Tunnel", "ja": "第3トンネル"},
-  "헤이리": {"region": "gyeonggi", "category": "culture", "en": "Heyri Art Valley", "ja": "ヘイリ芸術村"},
+  "헤이리": {"aliases": ["헤이리 예술마을"], "region": "gyeonggi", "category": "culture", "en": "Heyri Art Valley", "ja": "ヘイリ芸術村"},
   "파주출판도시": {"aliases": ["파주 출판도시", "출판도시", "파주출판단지", "파주출판문화정보산업단지"], "region": "gyeonggi", "category": "culture", "en": "Paju Book City", "ja": "坡州出版都市"},
   "프로방스마을": {"aliases": ["파주 프로방스", "프로방스 마을", "프로방스"], "region": "gyeonggi", "category": "attraction", "en": "Paju Provence Village", "ja": "坡州プロヴァンス村"},
   "마장호수": {"region": "gyeonggi", "category": "attraction", "en": "Majang Lake Suspension Bridge", "ja": "馬場湖吊り橋"},
