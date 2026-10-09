@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:54+09:00",
+ "updated": "2026-10-09T12:16+09:00",
  "places": [
   {
    "id": "3364731",
@@ -3869,6 +3869,21 @@
    "title_ko": "마장호수 출렁다리"
   },
   {
+   "id": "ko-690557",
+   "title": "驪州プレミアムアウトレット",
+   "title_ko": "신세계사이먼 여주 프리미엄 아울렛",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "ヨジュ(驪州)市",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/48/3549448_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/48/3549448_image3_1.jpg",
+   "lat": 37.242,
+   "lng": 127.6128,
+   "supplement": true
+  },
+  {
    "id": "3097749",
    "title": "驪州堅炭村",
    "category": "attraction",
@@ -5743,6 +5758,21 @@
    "lat": 37.3808673819,
    "lng": 127.1286403895,
    "title_ko": "분당올림픽스포츠센터 아이스링크"
+  },
+  {
+   "id": "ko-2875263",
+   "title": "義王レールバイク",
+   "title_ko": "카페막시 왕송호수점",
+   "category": "leisure",
+   "region": "gyeonggi",
+   "city": "儀旺市",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image3_1.jpg",
+   "lat": 37.3043091863,
+   "lng": 126.9510086728,
+   "supplement": true
   },
   {
    "id": "2539162",

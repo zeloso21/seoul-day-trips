@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:54+09:00",
+ "updated": "2026-10-09T12:16+09:00",
  "places": [
   {
    "id": "1426597",
@@ -3714,6 +3714,21 @@
    "title_ko": "여주 황포돛배"
   },
   {
+   "id": "ko-690557",
+   "title": "Yeoju Premium Outlets",
+   "title_ko": "신세계사이먼 여주 프리미엄 아울렛",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "Yeoju-si",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/48/3549448_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/48/3549448_image3_1.jpg",
+   "lat": 37.242,
+   "lng": 127.6128,
+   "supplement": true
+  },
+  {
    "id": "264636",
    "title": "Yeoju Silleuksa Temple",
    "category": "attraction",
@@ -5547,6 +5562,21 @@
    "lat": 37.7588465779,
    "lng": 127.0238558509,
    "title_ko": "의정부 컬링경기장"
+  },
+  {
+   "id": "ko-2875263",
+   "title": "Uiwang Rail Bike",
+   "title_ko": "카페막시 왕송호수점",
+   "category": "leisure",
+   "region": "gyeonggi",
+   "city": "Uiwang-si",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image3_1.jpg",
+   "lat": 37.3043091863,
+   "lng": 126.9510086728,
+   "supplement": true
   },
   {
    "id": "3008749",
