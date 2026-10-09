@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:16+09:00",
+ "updated": "2026-10-09T12:22+09:00",
  "places": [
   {
    "id": "3364731",
@@ -616,6 +616,21 @@
    "lat": 37.166941727,
    "lng": 127.1051707463,
    "title_ko": "디스커버리 네이처스케이프 동탄점"
+  },
+  {
+   "id": "ko-128221",
+   "title": "トゥムルモリ",
+   "title_ko": "두물머리생태학교",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "ヤンピョン(楊平)郡",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image3_1.jpg",
+   "lat": 37.5360539425305,
+   "lng": 127.312500889645,
+   "supplement": true
   },
   {
    "id": "3491039",
@@ -3167,21 +3182,6 @@
    "title_ko": "소울원"
   },
   {
-   "id": "ko-127000",
-   "title": "第3トンネル",
-   "title_ko": "제3땅굴",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "坡州市",
-   "addr": "",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 19.69442748,
-   "lng": 117.9925662504,
-   "supplement": true
-  },
-  {
    "id": "281919",
    "title": "第３地下トンネル",
    "category": "attraction",
@@ -3306,21 +3306,6 @@
    "lat": 37.9650701065,
    "lng": 126.8897010962,
    "title_ko": "임진강 황포돛배"
-  },
-  {
-   "id": "ko-2765108",
-   "title": "臨津閣平和ヌリ公園",
-   "title_ko": "임진각샘뜰두부집",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "坡州市",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/81/2765081_image2_1.jpeg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/81/2765081_image3_1.jpeg",
-   "lat": 37.8866213861,
-   "lng": 126.7603040943,
-   "supplement": true
   },
   {
    "id": "2653211",
@@ -5760,21 +5745,6 @@
    "title_ko": "분당올림픽스포츠센터 아이스링크"
   },
   {
-   "id": "ko-2875263",
-   "title": "義王レールバイク",
-   "title_ko": "카페막시 왕송호수점",
-   "category": "leisure",
-   "region": "gyeonggi",
-   "city": "儀旺市",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image3_1.jpg",
-   "lat": 37.3043091863,
-   "lng": 126.9510086728,
-   "supplement": true
-  },
-  {
    "id": "2539162",
    "title": "義王レールパーク",
    "category": "leisure",
@@ -6781,6 +6751,21 @@
    "lat": 37.6641793544,
    "lng": 126.5302453301,
    "title_ko": "광성보"
+  },
+  {
+   "id": "ko-125468",
+   "title": "摩尼山",
+   "title_ko": "마니산(강화)",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "カンファ(江華)郡",
+   "addr": "",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.615098,
+   "lng": 126.429654,
+   "supplement": true
   },
   {
    "id": "3487938",

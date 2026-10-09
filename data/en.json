@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:16+09:00",
+ "updated": "2026-10-09T12:22+09:00",
  "places": [
   {
    "id": "1426597",
@@ -700,6 +700,21 @@
    "lat": 37.9003548279,
    "lng": 126.7006758375,
    "title_ko": "도라산역"
+  },
+  {
+   "id": "ko-128221",
+   "title": "Dumulmeori",
+   "title_ko": "두물머리생태학교",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "Yangpyeong-gun",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image3_1.jpg",
+   "lat": 37.5360539425305,
+   "lng": 127.312500889645,
+   "supplement": true
   },
   {
    "id": "264360",
@@ -1794,21 +1809,6 @@
    "title_ko": "일산호수공원"
   },
   {
-   "id": "ko-2765108",
-   "title": "Imjingak Pyeonghwa-Nuri Park",
-   "title_ko": "임진각샘뜰두부집",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Paju-si",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/81/2765081_image2_1.jpeg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/81/2765081_image3_1.jpeg",
-   "lat": 37.8866213861,
-   "lng": 126.7603040943,
-   "supplement": true
-  },
-  {
    "id": "264487",
    "title": "Imjingak Resort (Pyeonghwa Nuri Park)",
    "category": "attraction",
@@ -2761,20 +2761,6 @@
    "title_ko": "사나사계곡"
   },
   {
-   "id": "264221",
-   "title": "Sanbanggulsa Grotto",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "",
-   "addr": "218-12 Sanbang-ro, Seogwipo-si, Jeju-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/41/4115441_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/41/4115441_image3_1.jpg",
-   "lat": 33.2372263352,
-   "lng": 126.3133359411,
-   "title_ko": "산방굴사(제주)"
-  },
-  {
    "id": "615850",
    "title": "Saneum National Recreational Forest",
    "category": "attraction",
@@ -3403,21 +3389,6 @@
    "lat": 37.890431724,
    "lng": 126.7419528904,
    "title_ko": "평화랜드"
-  },
-  {
-   "id": "ko-127000",
-   "title": "The Third Infiltration Tunnel",
-   "title_ko": "제3땅굴",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Paju-si",
-   "addr": "",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 19.69442748,
-   "lng": 117.9925662504,
-   "supplement": true
   },
   {
    "id": "2602024",
@@ -5564,21 +5535,6 @@
    "title_ko": "의정부 컬링경기장"
   },
   {
-   "id": "ko-2875263",
-   "title": "Uiwang Rail Bike",
-   "title_ko": "카페막시 왕송호수점",
-   "category": "leisure",
-   "region": "gyeonggi",
-   "city": "Uiwang-si",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/55/2875255_image3_1.jpg",
-   "lat": 37.3043091863,
-   "lng": 126.9510086728,
-   "supplement": true
-  },
-  {
    "id": "3008749",
    "title": "Uiwang Rail Park",
    "category": "leisure",
@@ -6516,6 +6472,21 @@
    "lat": 37.6709832912,
    "lng": 126.483404985,
    "title_ko": "연등국제선원"
+  },
+  {
+   "id": "ko-125468",
+   "title": "Manisan Mountain",
+   "title_ko": "마니산(강화)",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "Ganghwa-gun",
+   "addr": "",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.615098,
+   "lng": 126.429654,
+   "supplement": true
   },
   {
    "id": "264518",
