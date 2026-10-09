@@ -29,7 +29,7 @@ scripts/place_names.json       KorService2로 보완할 주요 장소 + EN/JA �
 - KorService2 축제 보완: 영문/일문판 축제와 위치(500m)·기간이 겹치지 않는 경기·인천 축제를 추가. 이름(한국어)·기간·좌표·사진·홈페이지만 사용하고 한국어 개요·주소는 넣지 않음. 시·군 이름은 각 언어판 areaCode2/ldongCode2로 변환
   - 주요 축제 이름은 `scripts/festival_names.json` 번역 테이블로 영문/일문 이름을 붙이고, 원래 한국어 이름은 작게 함께 표시
   - 테이블 키는 연도·회차("2026", "제12회")를 뺀 한국어 이름. 공백·기호는 무시하고, 키를 포함하는 제목에도 매칭(가장 긴 키 우선). 원제의 연도는 번역명 앞에 유지
-  - 테이블에 없고 한글이 들어간 이름은 한국어 그대로 두고 "Korean-language listing / 韓国語情報" 표시. 새 축제는 실행 로그의 `with translated names` 수치를 보고 테이블에 추가
+  - 테이블에 없고 한글이 들어간 이름은 한국어 그대로 두고 "Korean-language listing / 韓国語情報" 표시. Actions 실행 로그의 `festivals supplemented from KorService2: N (translated X, Korean name only Y)` 줄로 확인하고, Y가 0보다 크면 다음 줄 `not in festival_names.json:`에 나온 이름을 테이블에 추가
 - KorService2 주요 장소 보완: `scripts/place_names.json` 번역 테이블(한국어 검색어 → 지역·카테고리·영문/일문 이름)의 각 장소를 KorService2에서 검색해, 영문/일문판에 400m 이내 장소가 없으면 추가. 좌표·사진·한국어 이름만 사용하고 한국어 설명은 넣지 않음. 표시 이름은 테이블의 EN/JA 이름
   - 검색 결과는 정확히 같은 이름 → 검색어를 포함하는 가장 짧은 이름 순으로 고르고, 없으면 건너뜀(로그의 `not found`에 표시)
 - 장소 이름 정리: 영문/일문판 제목의 "English (한국어)" 형태는 이름과 한국어 원명(`title_ko`)으로 나눠, 사이트에서 한국어 원명을 작게 함께 표시 (현지인·택시 기사에게 보여주기 용도)

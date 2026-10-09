@@ -666,8 +666,14 @@ def main() -> int:
                               and f["id"] not in {x["id"] for x in festivals}]
             else:
                 n = supplement_festivals(festivals, korean_festivals, sigungu, lang)
-                named = sum(1 for f in festivals if f.get("title_ko"))
-                print(f"  festivals supplemented from KorService2: {n} ({named} with translated names)")
+                kor = [f for f in festivals if f.get("source") == "kor"]
+                untranslated = [f["title"] for f in kor if f.get("ko")]
+                print(f"  festivals supplemented from KorService2: {n} "
+                      f"(translated {sum(1 for f in kor if f.get('title_ko'))}, "
+                      f"Korean name only {len(untranslated)})")
+                if untranslated:
+                    # Candidates for scripts/festival_names.json
+                    print(f"  not in festival_names.json: {' | '.join(untranslated)}")
             added = supplement(places, major, lang, sigungu)
             print(f"  supplemented from KorService2: {added}")
             places.sort(key=lambda p: (p["region"], p["category"], p["title"]))
