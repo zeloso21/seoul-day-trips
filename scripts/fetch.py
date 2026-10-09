@@ -515,22 +515,39 @@ def bare(text: str) -> str:
 PLACE_TYPES = {"12", "14", "28", "38"}
 
 
-def pick_match(keyword: str, items: list[dict]) -> dict | None:
-    """Best KorService2 hit: exact name, else a name starting with, else containing the keyword.
+# Generic words a KorService2 title may add after the place name.
+NAME_SUFFIXES = ("", "유적", "유적지")
 
-    Only place-like content types with coordinates inside the area are considered;
-    ties go to the shortest title.
+
+def name_matches(title: str, needle: str) -> bool:
+    """Same place name, allowing a short area prefix: '화성 융건릉', '강화 고인돌 유적 [..]'.
+
+    Anything else that merely contains the keyword is rejected; those were usually a shop,
+    facility or trail inside the place ('올리브영 송도센트럴파크점', '두물머리생태학교').
+    """
+    t = bare(title)
+    for suffix in NAME_SUFFIXES:
+        core = needle + suffix
+        if t.endswith(core) and len(t) - len(core) <= 4:
+            return True
+    return False
+
+
+def pick_match(keyword: str, items: list[dict]) -> dict | None:
+    """Best KorService2 hit for a table keyword: exact name first, then 'area + name'.
+
+    Only place-like content types with coordinates inside the area are considered.
     """
     needle = bare(keyword)
     if not needle:
         return None
     ok = [it for it in items if str(it.get("contenttypeid")) in PLACE_TYPES
           and in_bbox(to_float(it.get("mapy")), to_float(it.get("mapx")))]
-    for test in (lambda t: t == needle, lambda t: t.startswith(needle), lambda t: needle in t):
-        hits = [it for it in ok if test(bare(it.get("title")))]
-        if hits:
-            return min(hits, key=lambda it: len(it.get("title") or ""))
-    return None
+    exact = [it for it in ok if bare(it.get("title")) == needle]
+    if exact:
+        return exact[0]
+    near = [it for it in ok if name_matches(it.get("title"), needle)]
+    return min(near, key=lambda it: len(it.get("title") or ""), default=None)
 
 
 def fetch_korean_major() -> list[dict]:
