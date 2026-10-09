@@ -85,13 +85,15 @@ def get_key() -> str:
 
 KEY = ""
 CALLS = 0
-# Fail fast when the API is down instead of retrying every remaining call: after this many
-# failed calls in a row, or once the run exceeds its time budget, every further call raises
-# immediately and the affected output files are kept as they are.
-MAX_CONSECUTIVE_FAILURES = 5
+# Fail fast instead of retrying every remaining call. Quotas and outages are per service
+# (EngService2, KorService2, ...), so each service is tracked on its own: after this many
+# failed calls in a row, or once it answers "quota exceeded" (HTTP 429), further calls to
+# that service raise immediately and the files depending on it are kept as they are.
+MAX_CONSECUTIVE_FAILURES = 3
 TIME_BUDGET_S = 20 * 60
 TIMEOUT_S = 20
-FAILED_IN_ROW = 0
+FAILED_IN_ROW: dict[str, int] = {}
+QUOTA_EXCEEDED: set[str] = set()
 STARTED = time.monotonic()
 
 
@@ -105,9 +107,12 @@ def redact(text: str) -> str:
 
 def call(service: str, op: str, **params) -> tuple[list[dict], int]:
     """Call one API operation and return (items, totalCount). Never logs the key."""
-    global CALLS, FAILED_IN_ROW
-    if FAILED_IN_ROW >= MAX_CONSECUTIVE_FAILURES:
-        raise ApiError(f"{service}/{op} skipped: API unreachable ({FAILED_IN_ROW} failed calls in a row)")
+    global CALLS
+    if service in QUOTA_EXCEEDED:
+        raise ApiError(f"{service}/{op} skipped: daily request quota exceeded")
+    if FAILED_IN_ROW.get(service, 0) >= MAX_CONSECUTIVE_FAILURES:
+        raise ApiError(f"{service}/{op} skipped: {service} unreachable "
+                       f"({FAILED_IN_ROW[service]} failed calls in a row)")
     if time.monotonic() - STARTED > TIME_BUDGET_S:
         raise ApiError(f"{service}/{op} skipped: run exceeded {TIME_BUDGET_S // 60} min budget")
     query = {
@@ -123,8 +128,19 @@ def call(service: str, op: str, **params) -> tuple[list[dict], int]:
         try:
             CALLS += 1
             req = urllib.request.Request(url, headers={"User-Agent": "seoul-day-trips/1.0"})
-            with urllib.request.urlopen(req, timeout=TIMEOUT_S) as resp:
-                raw = resp.read().decode("utf-8", errors="replace")
+            try:
+                with urllib.request.urlopen(req, timeout=TIMEOUT_S) as resp:
+                    raw = resp.read().decode("utf-8", errors="replace")
+            except urllib.error.HTTPError as e:
+                if e.code == 429:  # daily quota used up; retrying won't help until tomorrow
+                    QUOTA_EXCEEDED.add(service)
+                    print(f"::warning::{service}: daily request quota exceeded (HTTP 429), skipping it")
+                    raise ApiError(f"{service}/{op} failed: daily request quota exceeded") from None
+                raise
+            if "LIMITED_NUMBER_OF_SERVICE_REQUESTS" in raw:  # quota error sent as XML
+                QUOTA_EXCEEDED.add(service)
+                print(f"::warning::{service}: daily request quota exceeded, skipping it")
+                raise ApiError(f"{service}/{op} failed: daily request quota exceeded")
             try:
                 payload = json.loads(raw)
             except json.JSONDecodeError:
@@ -143,12 +159,14 @@ def call(service: str, op: str, **params) -> tuple[list[dict], int]:
                 items = items.get("item") or []
             if isinstance(items, dict):
                 items = [items]
-            FAILED_IN_ROW = 0
+            FAILED_IN_ROW[service] = 0
             return list(items), int(body.get("totalCount") or 0)
         except (OSError, http.client.HTTPException, ApiError, ValueError) as e:  # URLError, timeouts, resets
+            if service in QUOTA_EXCEEDED:
+                raise
             last = e
             time.sleep(2 * (attempt + 1))
-    FAILED_IN_ROW += 1
+    FAILED_IN_ROW[service] = FAILED_IN_ROW.get(service, 0) + 1
     raise ApiError(redact(f"{service}/{op} failed: {last}"))
 
 
@@ -571,6 +589,8 @@ def fetch_korean_major() -> list[dict]:
     found = []
     missing: list[str] = []
     for keyword, entry in table.items():
+        if "KorService2" in QUOTA_EXCEEDED or FAILED_IN_ROW.get("KorService2", 0) >= MAX_CONSECUTIVE_FAILURES:
+            raise ApiError("KorService2 unavailable; major places not resolved this run")
         codes = REGIONS[entry["region"]]
         best = None
         seen_titles: list[str] = []
@@ -583,6 +603,8 @@ def fetch_korean_major() -> list[dict]:
                     items, _ = call("KorService2", "searchKeyword2", keyword=kw, arrange="A",
                                     numOfRows=20, pageNo=1, **area)
                 except ApiError as e:
+                    if "KorService2" in QUOTA_EXCEEDED:
+                        raise
                     print(f"::warning::KorService2 '{kw}': {e}")
                     items = []
                 items = [it for it in items if in_region(it, entry["region"])]
@@ -720,8 +742,8 @@ def main() -> int:
     try:
         major = fetch_korean_major()
     except Exception as e:  # noqa: BLE001
-        print(f"::warning::KorService2 failed: {redact(str(e))}")
-        major = []
+        print(f"::warning::KorService2 major places failed, reusing previous: {redact(str(e))}")
+        major = None
 
     try:
         korean_festivals = fetch_korean_festivals(today)
@@ -758,8 +780,14 @@ def main() -> int:
                 if untranslated:
                     # Candidates for scripts/festival_names.json
                     print(f"  not in festival_names.json: {' | '.join(untranslated)}")
-            added = supplement(places, major, lang, sigungu)
-            print(f"  supplemented from KorService2: {added}")
+            if major is None:
+                # Keep last run's table places rather than dropping them for a day.
+                kept = [p for p in load_json(f"{lang}.json").get("places", []) if p.get("supplement")]
+                places += kept
+                print(f"  supplemented from KorService2: {len(kept)} (reused from previous run)")
+            else:
+                added = supplement(places, major, lang, sigungu)
+                print(f"  supplemented from KorService2: {added}")
             places.sort(key=lambda p: (p["region"], p["category"], p["title"]))
             write_json(f"{lang}.json", {"updated": updated, "places": places, "festivals": festivals})
         except Exception as e:  # noqa: BLE001 - keep the previous file on any failure
