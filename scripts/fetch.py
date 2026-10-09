@@ -512,20 +512,31 @@ def fetch_korean_major() -> list[dict]:
     for keyword, entry in table.items():
         codes = REGIONS[entry["region"]]
         best = None
-        # Try the keyword as written and without spaces, by areaCode then by lDongRegnCd.
-        for kw in dict.fromkeys((keyword, keyword.replace(" ", ""))):
+        seen_titles: list[str] = []
+        # Try the keyword, then each alias, as written and without spaces,
+        # by areaCode then by lDongRegnCd.
+        terms = [keyword] + [a for a in entry.get("aliases", []) if isinstance(a, str)]
+        for kw in dict.fromkeys(t for term in terms for t in (term, term.replace(" ", ""))):
             for area in ({"areaCode": codes["areaCode"]}, {"lDongRegnCd": codes["lDongRegnCd"]}):
                 try:
                     items, _ = call("KorService2", "searchKeyword2", keyword=kw, arrange="A",
                                     numOfRows=20, pageNo=1, **area)
                 except ApiError as e:
-                    print(f"::warning::KorService2 '{keyword}': {e}")
+                    print(f"::warning::KorService2 '{kw}': {e}")
                     items = []
-                best = pick_match(keyword, [it for it in items if in_region(it, entry["region"])])
+                items = [it for it in items if in_region(it, entry["region"])]
+                seen_titles += [(it.get("title") or "").strip() for it in items]
+                best = pick_match(kw, items)
                 if best:
                     break
             if best:
                 break
+        if best and any(f["id"] == f"ko-{best.get('contentid')}" for f in found):
+            print(f"::warning::place_names.json: '{keyword}' matched the same place as another entry")
+            continue
+        if not best and seen_titles:
+            # Show what the API calls it, so the table key or aliases can be fixed.
+            print(f"  '{keyword}' unmatched; API titles: {' | '.join(list(dict.fromkeys(seen_titles))[:6])}")
         lat, lng = (to_float(best.get("mapy")), to_float(best.get("mapx"))) if best else (None, None)
         if lat is None or lng is None:
             missing.append(keyword)

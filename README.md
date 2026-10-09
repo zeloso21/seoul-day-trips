@@ -32,6 +32,7 @@ scripts/place_names.json       KorService2로 보완할 주요 장소 + EN/JA �
   - 테이블에 없고 한글이 들어간 이름은 한국어 그대로 두고 "Korean-language listing / 韓国語情報" 표시. Actions 실행 로그의 `festivals supplemented from KorService2: N (translated X, Korean name only Y)` 줄로 확인하고, Y가 0보다 크면 다음 줄 `not in festival_names.json:`에 나온 이름을 테이블에 추가
 - KorService2 주요 장소 보완: `scripts/place_names.json` 번역 테이블(한국어 검색어 → 지역·카테고리·영문/일문 이름)의 각 장소를 KorService2에서 검색해, 영문/일문판에 400m 이내 장소가 없으면 추가. 좌표·사진·한국어 이름만 사용하고 한국어 설명은 넣지 않음. 표시 이름은 테이블의 EN/JA 이름
   - 검색 결과는 정확히 같은 이름 → 검색어를 포함하는 가장 짧은 이름 순으로 고르고, 없으면 건너뜀(로그의 `not found`에 표시)
+  - API 표기가 다르면 항목에 `"aliases": ["대체 검색어", ...]`를 넣으면 차례로 검색. 못 찾은 항목은 로그에 `unmatched; API titles: ...`로 API가 돌려준 이름이 찍히니 그걸 보고 키나 aliases를 고치면 됨
 - 장소 이름 정리: 영문/일문판 제목의 "English (한국어)" 형태는 이름과 한국어 원명(`title_ko`)으로 나눠, 사이트에서 한국어 원명을 작게 함께 표시 (현지인·택시 기사에게 보여주기 용도)
 - PhotoGalleryService1: `PHOTO_KEYWORDS`의 경기·인천 키워드로 사진 수집
 - 실패 처리: 해당 출력 파일은 덮어쓰지 않고 기존 파일 유지 (축제만 실패하면 이전 축제 목록에서 끝난 것만 제거). 내용이 같으면 파일을 다시 쓰지 않아 불필요한 커밋이 생기지 않음
