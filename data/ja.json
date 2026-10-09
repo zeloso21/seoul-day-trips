@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:45+09:00",
+ "updated": "2026-10-09T08:59+09:00",
  "places": [
   {
    "id": "3364731",
@@ -7678,7 +7678,7 @@
  "festivals": [
   {
    "id": "ko-2433596",
-   "title": "왕가의 산책",
+   "title": "王家の散策",
    "category": "festival",
    "region": "incheon",
    "city": "ヨンジョン(永宗)区",
@@ -7690,8 +7690,9 @@
    "lng": 126.427699293474,
    "start": "20260105",
    "end": "20261231",
-   "ko": true,
-   "homepage": "https://www.kh.or.kr/"
+   "homepage": "https://www.kh.or.kr/",
+   "source": "kor",
+   "title_ko": "왕가의 산책"
   },
   {
    "id": "3113653",
@@ -7712,7 +7713,7 @@
   },
   {
    "id": "ko-3488421",
-   "title": "2026 국립극장 쏙쏙들이페스티벌",
+   "title": "2026 国立劇場ソクソクドゥリフェスティバル",
    "category": "festival",
    "region": "gyeonggi",
    "city": "パジュ(坡州)市",
@@ -7724,12 +7725,13 @@
    "lng": 126.6946859929,
    "start": "20260314",
    "end": "20261226",
-   "ko": true,
-   "homepage": "https://www.ntok.go.kr/sasc"
+   "homepage": "https://www.ntok.go.kr/sasc",
+   "source": "kor",
+   "title_ko": "2026 국립극장 쏙쏙들이페스티벌"
   },
   {
    "id": "ko-3492276",
-   "title": "2026 문화가 있는 날",
+   "title": "2026 文化のある日",
    "category": "festival",
    "region": "incheon",
    "city": "チェムルポ(済物浦)区",
@@ -7741,8 +7743,9 @@
    "lng": 126.632619,
    "start": "20260401",
    "end": "20261129",
-   "ko": true,
-   "homepage": "https://www.instagram.com/sg_youngmic/"
+   "homepage": "https://www.instagram.com/sg_youngmic/",
+   "source": "kor",
+   "title_ko": "2026 문화가 있는 날"
   },
   {
    "id": "3436117",
@@ -7763,7 +7766,7 @@
   },
   {
    "id": "ko-3495437",
-   "title": "2026 문화가 있는날  - 문화배달",
+   "title": "2026 文化のある日 文化配達",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヨンチョン(漣川)郡",
@@ -7775,12 +7778,13 @@
    "lng": 127.0274821632,
    "start": "20260624",
    "end": "20261031",
-   "ko": true,
-   "homepage": "https://ccmicsynergy2026.imweb.me/index"
+   "homepage": "https://ccmicsynergy2026.imweb.me/index",
+   "source": "kor",
+   "title_ko": "2026 문화가 있는날  - 문화배달"
   },
   {
    "id": "ko-4109448",
-   "title": "세미원 수련문화제",
+   "title": "洗美苑 睡蓮文化祭",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヤンピョン(楊平)郡",
@@ -7792,12 +7796,13 @@
    "lng": 127.3239607947,
    "start": "20260901",
    "end": "20261031",
-   "ko": true,
-   "homepage": "https://www.semiwon.or.kr/bbs/board.php?bo_table=notice&wr_id=120"
+   "homepage": "https://www.semiwon.or.kr/bbs/board.php?bo_table=notice&wr_id=120",
+   "source": "kor",
+   "title_ko": "세미원 수련문화제"
   },
   {
    "id": "ko-4110051",
-   "title": "숲속의 산성도시 - 남한산성 가을 페스타",
+   "title": "南漢山城 秋のフェスタ",
    "category": "festival",
    "region": "gyeonggi",
    "city": "クァンジュ(広州)市",
@@ -7809,12 +7814,13 @@
    "lng": 127.1800243535,
    "start": "20260905",
    "end": "20261025",
-   "ko": true,
-   "homepage": "https://lavender-alibi-20b.notion.site/"
+   "homepage": "https://lavender-alibi-20b.notion.site/",
+   "source": "kor",
+   "title_ko": "숲속의 산성도시 - 남한산성 가을 페스타"
   },
   {
    "id": "ko-4056606",
-   "title": "청백리의 집, 오늘을 비추다",
+   "title": "清白吏の家、今日を照らす",
    "category": "festival",
    "region": "gyeonggi",
    "city": "クァンミョン(光明)市",
@@ -7826,12 +7832,13 @@
    "lng": 126.8777258264,
    "start": "20260905",
    "end": "20261107",
-   "ko": true,
-   "homepage": ""
+   "homepage": "",
+   "source": "kor",
+   "title_ko": "청백리의 집, 오늘을 비추다"
   },
   {
    "id": "ko-3352029",
-   "title": "포천 한탄강 가든페스타",
+   "title": "抱川漢灘江ガーデンフェスタ",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ポチョン(抱川)市",
@@ -7843,12 +7850,13 @@
    "lng": 127.2085797227,
    "start": "20260912",
    "end": "20261101",
-   "ko": true,
-   "homepage": "https://www.pocheon-gardenfesta.kr/"
+   "homepage": "https://www.pocheon-gardenfesta.kr/",
+   "source": "kor",
+   "title_ko": "포천 한탄강 가든페스타"
   },
   {
    "id": "ko-1250585",
-   "title": "2026 경기도자비엔날레",
+   "title": "2026 京畿陶磁ビエンナーレ",
    "category": "festival",
    "region": "gyeonggi",
    "city": "イチョン(利川)市",
@@ -7860,12 +7868,13 @@
    "lng": 127.4237253326,
    "start": "20260918",
    "end": "20261101",
-   "ko": true,
-   "homepage": "https://www.gcbiennale.org"
+   "homepage": "https://www.gcbiennale.org",
+   "source": "kor",
+   "title_ko": "2026 경기도자비엔날레"
   },
   {
    "id": "ko-3355698",
-   "title": "한강수계 걷기행사",
+   "title": "漢江水系ウォーキングイベント",
    "category": "festival",
    "region": "gyeonggi",
    "city": "カピョン(加平)郡",
@@ -7877,8 +7886,9 @@
    "lng": 127.5134174634,
    "start": "20260919",
    "end": "20261107",
-   "ko": true,
-   "homepage": "https://www.hanriver.or.kr/ecology/20110_info.php5"
+   "homepage": "https://www.hanriver.or.kr/ecology/20110_info.php5",
+   "source": "kor",
+   "title_ko": "한강수계 걷기행사"
   },
   {
    "id": "2554696",
@@ -7899,7 +7909,7 @@
   },
   {
    "id": "ko-1398149",
-   "title": "삼랑성역사문화축제",
+   "title": "三郎城歴史文化祭り",
    "category": "festival",
    "region": "incheon",
    "city": "カンファ(江華)郡",
@@ -7911,8 +7921,9 @@
    "lng": 126.486439384,
    "start": "20261003",
    "end": "20261011",
-   "ko": true,
-   "homepage": "https://samrangseong.org/"
+   "homepage": "https://samrangseong.org/",
+   "source": "kor",
+   "title_ko": "삼랑성역사문화축제"
   },
   {
    "id": "975432",
@@ -7933,7 +7944,7 @@
   },
   {
    "id": "ko-4117047",
-   "title": "양평부추축제",
+   "title": "楊平ニラ祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヤンピョン(楊平)郡",
@@ -7945,12 +7956,13 @@
    "lng": 127.7542477259,
    "start": "20261009",
    "end": "20261010",
-   "ko": true,
-   "homepage": "https://buchoofestival.com/"
+   "homepage": "https://buchoofestival.com/",
+   "source": "kor",
+   "title_ko": "양평부추축제"
   },
   {
    "id": "ko-3540329",
-   "title": "한글날 문화행사",
+   "title": "ハングルの日 文化行事",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヨジュ(驪州)市",
@@ -7962,12 +7974,13 @@
    "lng": 127.6128192378,
    "start": "20261009",
    "end": "20261010",
-   "ko": true,
-   "homepage": "https://www.yjcf.or.kr/"
+   "homepage": "https://www.yjcf.or.kr/",
+   "source": "kor",
+   "title_ko": "한글날 문화행사"
   },
   {
    "id": "ko-2828336",
-   "title": "시흥월곶포구축제",
+   "title": "始興月串浦口祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "シフン(始興)市",
@@ -7979,12 +7992,13 @@
    "lng": 126.7402812374,
    "start": "20261009",
    "end": "20261011",
-   "ko": true,
-   "homepage": ""
+   "homepage": "",
+   "source": "kor",
+   "title_ko": "시흥월곶포구축제"
   },
   {
    "id": "ko-4087092",
-   "title": "2026 GHOST(경기 한류 OST) 페스티벌",
+   "title": "2026 GHOST(京畿韓流OST)フェスティバル",
    "category": "festival",
    "region": "gyeonggi",
    "city": "パジュ(坡州)市",
@@ -7996,12 +8010,13 @@
    "lng": 126.7447928585,
    "start": "20261009",
    "end": "20261011",
-   "ko": true,
-   "homepage": "https://www.instagram.com/ghostfestival.official/"
+   "homepage": "https://www.instagram.com/ghostfestival.official/",
+   "source": "kor",
+   "title_ko": "2026 GHOST(경기 한류 OST) 페스티벌"
   },
   {
    "id": "ko-3113045",
-   "title": "파주페어 북앤컬처",
+   "title": "坡州フェア ブック&カルチャー",
    "category": "festival",
    "region": "gyeonggi",
    "city": "パジュ(坡州)市",
@@ -8013,12 +8028,13 @@
    "lng": 126.687203713,
    "start": "20261009",
    "end": "20261018",
-   "ko": true,
-   "homepage": "https://pajufair.com/"
+   "homepage": "https://pajufair.com/",
+   "source": "kor",
+   "title_ko": "파주페어 북앤컬처"
   },
   {
    "id": "ko-2846034",
-   "title": "안양청년축제",
+   "title": "安養青年祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "アニャン(安養)市トンアン(東安)区",
@@ -8030,12 +8046,13 @@
    "lng": 126.9613286581,
    "start": "20261010",
    "end": "20261010",
-   "ko": true,
-   "homepage": ""
+   "homepage": "",
+   "source": "kor",
+   "title_ko": "안양청년축제"
   },
   {
    "id": "ko-3560787",
-   "title": "2026 양강섬예술축제",
+   "title": "2026 ヤンガン島芸術祭",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヤンピョン(楊平)郡",
@@ -8047,12 +8064,13 @@
    "lng": 127.4986628246,
    "start": "20261010",
    "end": "20261010",
-   "ko": true,
-   "homepage": "https://ypcf.or.kr/2026-yanggangfestival"
+   "homepage": "https://ypcf.or.kr/2026-yanggangfestival",
+   "source": "kor",
+   "title_ko": "2026 양강섬예술축제"
   },
   {
    "id": "ko-1620571",
-   "title": "포은문화제",
+   "title": "圃隠文化祭",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヨンイン(龍仁)市チョイン(処仁)区",
@@ -8064,12 +8082,13 @@
    "lng": 127.179586169,
    "start": "20261010",
    "end": "20261011",
-   "ko": true,
-   "homepage": "http://poeun.co.kr"
+   "homepage": "http://poeun.co.kr",
+   "source": "kor",
+   "title_ko": "포은문화제"
   },
   {
    "id": "ko-2987791",
-   "title": "2026 DMZ OPEN 페스티벌",
+   "title": "2026 DMZ OPENフェスティバル",
    "category": "festival",
    "region": "gyeonggi",
    "city": "パジュ(坡州)市",
@@ -8081,12 +8100,13 @@
    "lng": 126.7447464059,
    "start": "20261012",
    "end": "20261129",
-   "ko": true,
-   "homepage": "https://www.instagram.com/dmzopen_official/"
+   "homepage": "https://www.instagram.com/dmzopen_official/",
+   "source": "kor",
+   "title_ko": "2026 DMZ OPEN 페스티벌"
   },
   {
    "id": "ko-3343831",
-   "title": "2026 대한민국 AI 콘텐츠 어워즈",
+   "title": "2026 大韓民国AIコンテンツアワード",
    "category": "festival",
    "region": "gyeonggi",
    "city": "スウォン(水原)市クォンソン(権善)区",
@@ -8098,12 +8118,13 @@
    "lng": 126.997385539,
    "start": "20261015",
    "end": "20261016",
-   "ko": true,
-   "homepage": "https://www.gcon.or.kr/KAICA2026/index.html"
+   "homepage": "https://www.gcon.or.kr/KAICA2026/index.html",
+   "source": "kor",
+   "title_ko": "2026 대한민국 AI 콘텐츠 어워즈"
   },
   {
    "id": "ko-3551206",
-   "title": "광명동굴 빛 축제",
+   "title": "光明洞窟 光の祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "クァンミョン(光明)市",
@@ -8115,12 +8136,13 @@
    "lng": 126.8627080043,
    "start": "20261016",
    "end": "20261017",
-   "ko": true,
-   "homepage": "https://www.gm.go.kr/"
+   "homepage": "https://www.gm.go.kr/",
+   "source": "kor",
+   "title_ko": "광명동굴 빛 축제"
   },
   {
    "id": "ko-2870929",
-   "title": "연천 국화축제",
+   "title": "漣川菊祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヨンチョン(漣川)郡",
@@ -8132,8 +8154,9 @@
    "lng": 127.0614526431,
    "start": "20261016",
    "end": "20261025",
-   "ko": true,
-   "homepage": ""
+   "homepage": "",
+   "source": "kor",
+   "title_ko": "연천 국화축제"
   },
   {
    "id": "ko-2833186",
@@ -8149,12 +8172,12 @@
    "lng": 126.8032733548,
    "start": "20261017",
    "end": "20261017",
-   "ko": true,
-   "homepage": "https://www.shyouth.or.kr/"
+   "homepage": "https://www.shyouth.or.kr/",
+   "source": "kor"
   },
   {
    "id": "ko-1720025",
-   "title": "다산정약용문화제",
+   "title": "茶山丁若鏞文化祭",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ナミャンジュ(南楊州)市",
@@ -8166,12 +8189,13 @@
    "lng": 127.2998987869,
    "start": "20261017",
    "end": "20261018",
-   "ko": true,
-   "homepage": "https://www.nyj.go.kr/thinkj/index.do"
+   "homepage": "https://www.nyj.go.kr/thinkj/index.do",
+   "source": "kor",
+   "title_ko": "다산정약용문화제"
   },
   {
    "id": "ko-3544911",
-   "title": "수봉산 페스티벌",
+   "title": "水峰山フェスティバル",
    "category": "festival",
    "region": "incheon",
    "city": "ミチュホル(弥鄒忽)区",
@@ -8183,12 +8207,13 @@
    "lng": 126.6632947343,
    "start": "20261017",
    "end": "20261018",
-   "ko": true,
-   "homepage": "https://www.michuhol.go.kr/"
+   "homepage": "https://www.michuhol.go.kr/",
+   "source": "kor",
+   "title_ko": "수봉산 페스티벌"
   },
   {
    "id": "ko-2756476",
-   "title": "세계유산 조선왕릉축전",
+   "title": "世界遺産 朝鮮王陵祝典",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ファソン(華城)市",
@@ -8200,8 +8225,9 @@
    "lng": 126.9892183546,
    "start": "20261017",
    "end": "20261025",
-   "ko": true,
-   "homepage": "https://www.jrtf.or.kr/"
+   "homepage": "https://www.jrtf.or.kr/",
+   "source": "kor",
+   "title_ko": "세계유산 조선왕릉축전"
   },
   {
    "id": "ko-4117084",
@@ -8217,8 +8243,8 @@
    "lng": 127.0561166549,
    "start": "20261018",
    "end": "20261018",
-   "ko": true,
-   "homepage": "https://www.helloddc.co.kr/"
+   "homepage": "https://www.helloddc.co.kr/",
+   "source": "kor"
   },
   {
    "id": "1966817",
@@ -8239,7 +8265,7 @@
   },
   {
    "id": "ko-2872078",
-   "title": "인천 영화 주간 2026",
+   "title": "2026 仁川映画週間",
    "category": "festival",
    "region": "incheon",
    "city": "ヨンス(延寿)区",
@@ -8251,12 +8277,13 @@
    "lng": 126.6836220553,
    "start": "20261023",
    "end": "20261025",
-   "ko": true,
-   "homepage": "http://www.ifwk.co.kr/"
+   "homepage": "http://www.ifwk.co.kr/",
+   "source": "kor",
+   "title_ko": "인천 영화 주간 2026"
   },
   {
    "id": "ko-3550990",
-   "title": "2026 인천원도사제&낙섬축제",
+   "title": "2026 仁川ウォンドサ祭&ナクソム祭り",
    "category": "festival",
    "region": "incheon",
    "city": "ミチュホル(弥鄒忽)区",
@@ -8268,12 +8295,13 @@
    "lng": 126.636745435,
    "start": "20261024",
    "end": "20261024",
-   "ko": true,
-   "homepage": ""
+   "homepage": "",
+   "source": "kor",
+   "title_ko": "2026 인천원도사제&낙섬축제"
   },
   {
    "id": "ko-3019085",
-   "title": "2026 이천펫축제",
+   "title": "2026 利川ペット祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "イチョン(利川)市",
@@ -8285,12 +8313,13 @@
    "lng": 127.3826741815,
    "start": "20261024",
    "end": "20261025",
-   "ko": true,
-   "homepage": ""
+   "homepage": "",
+   "source": "kor",
+   "title_ko": "2026 이천펫축제"
   },
   {
    "id": "ko-3522322",
-   "title": "오슬로우 빈티지 마켓",
+   "title": "オスロウ・ヴィンテージマーケット",
    "category": "festival",
    "region": "incheon",
    "city": "チェムルポ(済物浦)区",
@@ -8302,12 +8331,13 @@
    "lng": 126.6206091372,
    "start": "20261024",
    "end": "20261025",
-   "ko": true,
-   "homepage": "https://www.instagram.com/ohslowmarket"
+   "homepage": "https://www.instagram.com/ohslowmarket",
+   "source": "kor",
+   "title_ko": "오슬로우 빈티지 마켓"
   },
   {
    "id": "ko-1841539",
-   "title": "마토예술제",
+   "title": "マト芸術祭",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ピョンテク(平沢)市",
@@ -8319,12 +8349,13 @@
    "lng": 127.0441409123,
    "start": "20261031",
    "end": "20261031",
-   "ko": true,
-   "homepage": "https://www.pccf.or.kr/evnt/evntView.do?evntSn=2609040001"
+   "homepage": "https://www.pccf.or.kr/evnt/evntView.do?evntSn=2609040001",
+   "source": "kor",
+   "title_ko": "마토예술제"
   },
   {
    "id": "ko-3383613",
-   "title": "고양행주한우 숯불구이축제",
+   "title": "高陽幸州韓牛炭火焼き祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "コヤン(高陽)市トギャン(徳陽)区",
@@ -8336,8 +8367,9 @@
    "lng": 126.83276387204035,
    "start": "20261031",
    "end": "20261101",
-   "ko": true,
-   "homepage": "http://gyfestival.kr/"
+   "homepage": "http://gyfestival.kr/",
+   "source": "kor",
+   "title_ko": "고양행주한우 숯불구이축제"
   },
   {
    "id": "4116277",
@@ -8358,7 +8390,7 @@
   },
   {
    "id": "ko-4116982",
-   "title": "산북AI김장문화축제",
+   "title": "山北キムジャン(キムチ漬け)文化祭り",
    "category": "festival",
    "region": "gyeonggi",
    "city": "ヨジュ(驪州)市",
@@ -8370,12 +8402,13 @@
    "lng": 127.4451502631,
    "start": "20261107",
    "end": "20261108",
-   "ko": true,
-   "homepage": "https://www.xn--4k0b720a3lcv6j.com/"
+   "homepage": "https://www.xn--4k0b720a3lcv6j.com/",
+   "source": "kor",
+   "title_ko": "산북AI김장문화축제"
   },
   {
    "id": "ko-1129018",
-   "title": "2026 인천국제디자인페어(INDEF)",
+   "title": "2026 仁川国際デザインフェア(INDEF)",
    "category": "festival",
    "region": "incheon",
    "city": "ナムドン(南洞)区",
@@ -8387,12 +8420,13 @@
    "lng": 126.700028637,
    "start": "20261120",
    "end": "20261122",
-   "ko": true,
-   "homepage": "https://indef.kr/"
+   "homepage": "https://indef.kr/",
+   "source": "kor",
+   "title_ko": "2026 인천국제디자인페어(INDEF)"
   },
   {
    "id": "ko-3368470",
-   "title": "경기미 디저트 페스타",
+   "title": "京畿米デザートフェスタ",
    "category": "festival",
    "region": "gyeonggi",
    "city": "スウォン(水原)市クォンソン(権善)区",
@@ -8404,12 +8438,13 @@
    "lng": 126.9971816138,
    "start": "20261121",
    "end": "20261122",
-   "ko": true,
-   "homepage": ""
+   "homepage": "",
+   "source": "kor",
+   "title_ko": "경기미 디저트 페스타"
   },
   {
    "id": "ko-3367339",
-   "title": "2026 우리쌀 우리술 K-라이스페스타",
+   "title": "2026 Kライスフェスタ(韓国の米と酒)",
    "category": "festival",
    "region": "gyeonggi",
    "city": "コヤン(高陽)市イルサンソ(一山西)区",
@@ -8421,8 +8456,9 @@
    "lng": 126.7458028497,
    "start": "20261127",
    "end": "20261129",
-   "ko": true,
-   "homepage": "https://www.k-ricefesta.co.kr/"
+   "homepage": "https://www.k-ricefesta.co.kr/",
+   "source": "kor",
+   "title_ko": "2026 우리쌀 우리술 K-라이스페스타"
   }
  ]
 }
