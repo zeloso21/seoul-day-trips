@@ -16,7 +16,7 @@
   "서울대공원": {"region": "gyeonggi", "category": "leisure", "en": "Seoul Grand Park", "ja": "ソウル大公園"},
   "서울랜드": {"region": "gyeonggi", "category": "leisure", "en": "Seoul Land", "ja": "ソウルランド"},
   "광명동굴": {"region": "gyeonggi", "category": "attraction", "en": "Gwangmyeong Cave", "ja": "光明洞窟"},
-  "의왕레일바이크": {"aliases": ["의왕 레일바이크", "왕송호수 레일바이크", "왕송호수"], "region": "gyeonggi", "category": "leisure", "en": "Uiwang Rail Bike", "ja": "義王レールバイク"},
+  "의왕레일바이크": {"aliases": ["의왕 레일바이크", "왕송호수 레일바이크"], "region": "gyeonggi", "category": "leisure", "en": "Uiwang Rail Bike", "ja": "義王レールバイク"},
   "임진각": {"region": "gyeonggi", "category": "attraction", "en": "Imjingak Pyeonghwa-Nuri Park", "ja": "臨津閣平和ヌリ公園"},
   "도라전망대": {"region": "gyeonggi", "category": "attraction", "en": "Dora Observatory", "ja": "都羅展望台"},
   "제3땅굴": {"region": "gyeonggi", "category": "attraction", "en": "The Third Infiltration Tunnel", "ja": "第3トンネル"},

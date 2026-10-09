@@ -204,6 +204,15 @@ def first_href(text: str | None) -> str:
     return m.group(0) if m else ""
 
 
+# Rough bounding box of Gyeonggi + Incheon (incl. the West Sea islands). Records outside it
+# have bad coordinates or are filed under the wrong region (e.g. a Jeju sight).
+BBOX = (36.8, 38.4, 124.5, 127.9)
+
+
+def in_bbox(lat: float | None, lng: float | None) -> bool:
+    return lat is not None and lng is not None and BBOX[0] <= lat <= BBOX[1] and BBOX[2] <= lng <= BBOX[3]
+
+
 def to_float(v) -> float | None:
     try:
         f = float(v)
@@ -251,10 +260,16 @@ def split_ko_title(title: str) -> tuple[str, str]:
     return t, ""
 
 
+OUT_OF_AREA: list[str] = []
+
+
 def place_from(item: dict, category: str, region: str, sigungu: dict) -> dict | None:
     lat, lng = to_float(item.get("mapy")), to_float(item.get("mapx"))
     title = (item.get("title") or "").strip()
     if not title:
+        return None
+    if (lat is not None or lng is not None) and not in_bbox(lat, lng):
+        OUT_OF_AREA.append(title)
         return None
     reg = region_of(item, region)
     title, title_ko = split_ko_title(title)
@@ -494,14 +509,28 @@ def bare(text: str) -> str:
     return re.sub(r"[\s\W_]+", "", re.sub(r"[(\[（［].*?[)\]）］]", "", text or "")).lower()
 
 
+# KorService2 content types a major place may have: sights, culture, leisure, shopping.
+# Restaurants/cafes (39), courses (25), lodging (32) and festivals (15) are never the
+# place itself, e.g. "임진각" must not match a tofu restaurant near Imjingak.
+PLACE_TYPES = {"12", "14", "28", "38"}
+
+
 def pick_match(keyword: str, items: list[dict]) -> dict | None:
-    """Best KorService2 hit for a keyword: exact name, else the shortest title containing it."""
+    """Best KorService2 hit: exact name, else a name starting with, else containing the keyword.
+
+    Only place-like content types with coordinates inside the area are considered;
+    ties go to the shortest title.
+    """
     needle = bare(keyword)
-    exact = [it for it in items if bare(it.get("title")) == needle]
-    if exact:
-        return exact[0]
-    containing = [it for it in items if needle and needle in bare(it.get("title"))]
-    return min(containing, key=lambda it: len(it.get("title") or ""), default=None)
+    if not needle:
+        return None
+    ok = [it for it in items if str(it.get("contenttypeid")) in PLACE_TYPES
+          and in_bbox(to_float(it.get("mapy")), to_float(it.get("mapx")))]
+    for test in (lambda t: t == needle, lambda t: t.startswith(needle), lambda t: needle in t):
+        hits = [it for it in ok if test(bare(it.get("title")))]
+        if hits:
+            return min(hits, key=lambda it: len(it.get("title") or ""))
+    return None
 
 
 def fetch_korean_major() -> list[dict]:
@@ -537,6 +566,8 @@ def fetch_korean_major() -> list[dict]:
         if not best and seen_titles:
             # Show what the API calls it, so the table key or aliases can be fixed.
             print(f"  '{keyword}' unmatched; API titles: {' | '.join(list(dict.fromkeys(seen_titles))[:6])}")
+        if best and bare(best.get("title")) != bare(keyword):
+            print(f"  '{keyword}' -> '{(best.get('title') or '').strip()}' (type {best.get('contenttypeid')})")
         lat, lng = (to_float(best.get("mapy")), to_float(best.get("mapx"))) if best else (None, None)
         if lat is None or lng is None:
             missing.append(keyword)
@@ -703,6 +734,8 @@ def main() -> int:
         failures += 1
         print(f"::warning::photos.json kept as-is: {redact(str(e))}")
 
+    if OUT_OF_AREA:
+        print(f"Dropped (coordinates outside Gyeonggi/Incheon): {' | '.join(dict.fromkeys(OUT_OF_AREA))}")
     print(f"API calls: {CALLS}, failed outputs: {failures}")
     # Exit 0 so the (possibly older) site still deploys; failures show up as warnings.
     return 0
