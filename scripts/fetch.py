@@ -12,6 +12,7 @@ Only the Python standard library is used.
 
 from __future__ import annotations
 
+import http.client
 import json
 import math
 import os
@@ -84,6 +85,14 @@ def get_key() -> str:
 
 KEY = ""
 CALLS = 0
+# Fail fast when the API is down instead of retrying every remaining call: after this many
+# failed calls in a row, or once the run exceeds its time budget, every further call raises
+# immediately and the affected output files are kept as they are.
+MAX_CONSECUTIVE_FAILURES = 5
+TIME_BUDGET_S = 20 * 60
+TIMEOUT_S = 20
+FAILED_IN_ROW = 0
+STARTED = time.monotonic()
 
 
 def redact(text: str) -> str:
@@ -96,7 +105,11 @@ def redact(text: str) -> str:
 
 def call(service: str, op: str, **params) -> tuple[list[dict], int]:
     """Call one API operation and return (items, totalCount). Never logs the key."""
-    global CALLS
+    global CALLS, FAILED_IN_ROW
+    if FAILED_IN_ROW >= MAX_CONSECUTIVE_FAILURES:
+        raise ApiError(f"{service}/{op} skipped: API unreachable ({FAILED_IN_ROW} failed calls in a row)")
+    if time.monotonic() - STARTED > TIME_BUDGET_S:
+        raise ApiError(f"{service}/{op} skipped: run exceeded {TIME_BUDGET_S // 60} min budget")
     query = {
         "serviceKey": KEY,
         "MobileOS": "ETC",
@@ -110,7 +123,7 @@ def call(service: str, op: str, **params) -> tuple[list[dict], int]:
         try:
             CALLS += 1
             req = urllib.request.Request(url, headers={"User-Agent": "seoul-day-trips/1.0"})
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=TIMEOUT_S) as resp:
                 raw = resp.read().decode("utf-8", errors="replace")
             try:
                 payload = json.loads(raw)
@@ -130,10 +143,12 @@ def call(service: str, op: str, **params) -> tuple[list[dict], int]:
                 items = items.get("item") or []
             if isinstance(items, dict):
                 items = [items]
+            FAILED_IN_ROW = 0
             return list(items), int(body.get("totalCount") or 0)
-        except (urllib.error.URLError, TimeoutError, ApiError, ValueError) as e:
+        except (OSError, http.client.HTTPException, ApiError, ValueError) as e:  # URLError, timeouts, resets
             last = e
             time.sleep(2 * (attempt + 1))
+    FAILED_IN_ROW += 1
     raise ApiError(redact(f"{service}/{op} failed: {last}"))
 
 
