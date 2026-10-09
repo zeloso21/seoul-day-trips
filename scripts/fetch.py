@@ -782,9 +782,17 @@ def main() -> int:
                     print(f"  not in festival_names.json: {' | '.join(untranslated)}")
             if major is None:
                 # Keep last run's table places rather than dropping them for a day.
-                kept = [p for p in load_json(f"{lang}.json").get("places", []) if p.get("supplement")]
-                places += kept
-                print(f"  supplemented from KorService2: {len(kept)} (reused from previous run)")
+                # Run them through the same duplicate checks as fresh ones.
+                previous = [
+                    {**p, "names": {lang: p["title"]}, "sigungu": "", "ldong": ""}
+                    for p in load_json(f"{lang}.json").get("places", []) if p.get("supplement")
+                ]
+                cities = {p["id"]: p.get("city", "") for p in previous}
+                added = supplement(places, previous, lang, sigungu)
+                for p in places:
+                    if p.get("supplement") and not p["city"]:
+                        p["city"] = cities.get(p["id"], "")
+                print(f"  supplemented from KorService2: {added} (reused from previous run)")
             else:
                 added = supplement(places, major, lang, sigungu)
                 print(f"  supplemented from KorService2: {added}")
