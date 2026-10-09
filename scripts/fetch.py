@@ -42,31 +42,8 @@ LDONG_TO_REGION = {v["lDongRegnCd"]: k for k, v in REGIONS.items()}
 FOREIGN_TYPES = {"attraction": "76", "culture": "78", "leisure": "75", "food": "82"}
 FOREIGN_FESTIVAL_TYPE = "85"
 
-# Major places that should always appear on the site. Coordinates and photos come from
-# KorService2; names come from this table (Korean descriptions are never used).
-MAJOR_PLACES = [
-    # keyword (KorService2 search), region, category, English name, Japanese name
-    ("수원화성", "gyeonggi", "attraction", "Suwon Hwaseong Fortress", "水原華城"),
-    ("화성행궁", "gyeonggi", "attraction", "Hwaseong Haenggung Palace", "華城行宮"),
-    ("한국민속촌", "gyeonggi", "attraction", "Korean Folk Village", "韓国民俗村"),
-    ("에버랜드", "gyeonggi", "leisure", "Everland", "エバーランド"),
-    ("남한산성", "gyeonggi", "attraction", "Namhansanseong Fortress", "南漢山城"),
-    ("임진각", "gyeonggi", "attraction", "Imjingak Pyeonghwa-Nuri Park", "臨津閣平和ヌリ公園"),
-    ("헤이리", "gyeonggi", "culture", "Heyri Art Valley", "ヘイリ芸術村"),
-    ("쁘띠프랑스", "gyeonggi", "attraction", "Petite France", "プチフランス"),
-    ("아침고요수목원", "gyeonggi", "attraction", "The Garden of Morning Calm", "朝の静けさ樹木園"),
-    ("두물머리", "gyeonggi", "attraction", "Dumulmeori", "トゥムルモリ"),
-    ("광명동굴", "gyeonggi", "attraction", "Gwangmyeong Cave", "光明洞窟"),
-    ("서울대공원", "gyeonggi", "leisure", "Seoul Grand Park", "ソウル大公園"),
-    ("제부도", "gyeonggi", "attraction", "Jebudo Island", "済扶島"),
-    ("인천 차이나타운", "incheon", "attraction", "Incheon Chinatown", "仁川チャイナタウン"),
-    ("송월동 동화마을", "incheon", "attraction", "Songwol-dong Fairy Tale Village", "松月洞童話村"),
-    ("월미도", "incheon", "attraction", "Wolmido Island", "月尾島"),
-    ("송도센트럴파크", "incheon", "attraction", "Songdo Central Park", "松島セントラルパーク"),
-    ("전등사", "incheon", "attraction", "Jeondeungsa Temple", "伝灯寺"),
-    ("강화 고인돌", "incheon", "attraction", "Ganghwa Dolmen Site", "江華支石墓"),
-    ("을왕리해수욕장", "incheon", "attraction", "Eurwangni Beach", "乙旺里海水浴場"),
-]
+# Major places that should always appear on the site live in scripts/place_names.json
+# (Korean search keyword -> region, category, English and Japanese names).
 
 # Photo gallery search keywords with English / Japanese labels.
 PHOTO_KEYWORDS = [
@@ -84,6 +61,9 @@ PHOTO_KEYWORDS = [
     ("송도", "incheon", "Songdo", "松島"),
     ("차이나타운", "incheon", "Chinatown", "チャイナタウン"),
 ]
+
+
+HANGUL = re.compile(r"[\uac00-\ud7a3]")
 
 
 class ApiError(Exception):
@@ -240,13 +220,45 @@ def region_of(item: dict, fallback: str) -> str:
     )
 
 
+OPEN, CLOSE = "([［【（", ")]］】）"
+
+
+def split_ko_title(title: str) -> tuple[str, str]:
+    """'Anyang Art Park (안양예술공원)' -> ('Anyang Art Park', '안양예술공원').
+
+    The EN/JA services append the Korean name in brackets (sometimes nested, sometimes
+    after ' / '). Returns (title, "") when there is nothing to split off.
+    """
+    t = title.strip()
+    if t and t[-1] in CLOSE:
+        depth = 0
+        for i in range(len(t) - 1, -1, -1):
+            if t[i] in CLOSE:
+                depth += 1
+            elif t[i] in OPEN:
+                depth -= 1
+                if depth == 0:
+                    base, ko = t[:i].strip(), t[i + 1:-1].strip()
+                    if base and HANGUL.search(ko) and not HANGUL.search(base):
+                        return base, ko
+                    if ko and HANGUL.search(base) and not HANGUL.search(ko):
+                        return ko, base  # '키카페 (Quay Cafe)'
+                    break
+    if " / " in t:
+        base, ko = t.split(" / ", 1)
+        if base.strip() and HANGUL.search(ko) and not HANGUL.search(base):
+            return base.strip(), ko.strip()
+    return t, ""
+
+
 def place_from(item: dict, category: str, region: str, sigungu: dict) -> dict | None:
     lat, lng = to_float(item.get("mapy")), to_float(item.get("mapx"))
     title = (item.get("title") or "").strip()
     if not title:
         return None
     reg = region_of(item, region)
-    return {
+    title, title_ko = split_ko_title(title)
+    place = {
         "id": str(item.get("contentid", "")),
         "title": title,
         "category": category,
@@ -259,6 +271,9 @@ def place_from(item: dict, category: str, region: str, sigungu: dict) -> dict | 
         "lat": lat,
         "lng": lng,
     }
+    if title_ko:
+        place["title_ko"] = title_ko
+    return place
 
 
 def distance_m(a: dict, b: dict) -> float:
@@ -397,9 +412,6 @@ def fetch_korean_festivals(today: str) -> list[dict]:
     return festivals
 
 
-HANGUL = re.compile(r"[\uac00-\ud7a3]")
-
-
 def norm_name(text: str) -> str:
     """Festival title without year / edition prefixes, spaces and punctuation."""
     text = re.sub(r"^\s*(\d{4}\s*년?|제\s*\d+\s*회)\s*", "", text)
@@ -459,50 +471,84 @@ def supplement_festivals(festivals: list[dict], korean: list[dict], sigungu: dic
     return added
 
 
+def load_place_names() -> dict[str, dict]:
+    path = Path(__file__).with_name("place_names.json")
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"::warning::place_names.json not loaded: {e}")
+        return {}
+    table = {}
+    for k, v in raw.items():
+        if k.startswith("_") or not isinstance(v, dict):
+            continue
+        if v.get("region") in REGIONS and v.get("en") and v.get("ja"):
+            table[k] = v
+        else:
+            print(f"::warning::place_names.json: bad entry '{k}'")
+    return table
+
+
+def bare(text: str) -> str:
+    """Korean title without bracketed qualifiers, spaces and punctuation."""
+    return re.sub(r"[\s\W_]+", "", re.sub(r"[(\[（［].*?[)\]）］]", "", text or "")).lower()
+
+
+def pick_match(keyword: str, items: list[dict]) -> dict | None:
+    """Best KorService2 hit for a keyword: exact name, else the shortest title containing it."""
+    needle = bare(keyword)
+    exact = [it for it in items if bare(it.get("title")) == needle]
+    if exact:
+        return exact[0]
+    containing = [it for it in items if needle and needle in bare(it.get("title"))]
+    return min(containing, key=lambda it: len(it.get("title") or ""), default=None)
+
+
 def fetch_korean_major() -> list[dict]:
-    """Coordinates / photos for MAJOR_PLACES from KorService2 (no Korean text kept)."""
+    """Coordinates, photo and Korean name for each place_names.json entry (KorService2)."""
+    table = load_place_names()
     found = []
     missing: list[str] = []
-    for keyword, region, category, en, ja in MAJOR_PLACES:
-        items: list[dict] = []
-        codes = REGIONS[region]
+    for keyword, entry in table.items():
+        codes = REGIONS[entry["region"]]
+        best = None
         # Try the keyword as written and without spaces, by areaCode then by lDongRegnCd.
         for kw in dict.fromkeys((keyword, keyword.replace(" ", ""))):
             for area in ({"areaCode": codes["areaCode"]}, {"lDongRegnCd": codes["lDongRegnCd"]}):
                 try:
                     items, _ = call("KorService2", "searchKeyword2", keyword=kw, arrange="A",
-                                    numOfRows=10, pageNo=1, **area)
+                                    numOfRows=20, pageNo=1, **area)
                 except ApiError as e:
                     print(f"::warning::KorService2 '{keyword}': {e}")
                     items = []
-                if items:
+                best = pick_match(keyword, [it for it in items if in_region(it, entry["region"])])
+                if best:
                     break
-            if items:
+            if best:
                 break
-        if not items:
-            missing.append(keyword)
-            continue
-        needle = keyword.replace(" ", "")
-        best = next((it for it in items if needle in (it.get("title") or "").replace(" ", "")), items[0])
-        lat, lng = to_float(best.get("mapy")), to_float(best.get("mapx"))
+        lat, lng = (to_float(best.get("mapy")), to_float(best.get("mapx"))) if best else (None, None)
         if lat is None or lng is None:
+            missing.append(keyword)
             continue
         found.append({
             "id": f"ko-{best.get('contentid')}",
-            "names": {"en": en, "ja": ja},
-            "category": category,
-            "region": region,
+            "names": {"en": entry["en"], "ja": entry["ja"]},
+            "title_ko": (best.get("title") or "").strip(),
+            "category": entry.get("category", "attraction"),
+            "region": entry["region"],
+            "sigungu": str(best.get("sigungucode") or ""),
+            "ldong": str(best.get("lDongSignguCd") or ""),
             "img": https(best.get("firstimage")),
             "thumb": https(best.get("firstimage2") or best.get("firstimage")),
             "lat": lat,
             "lng": lng,
         })
-    print(f"  KorService2 major places resolved: {len(found)}/{len(MAJOR_PLACES)}"
+    print(f"  KorService2 major places resolved: {len(found)}/{len(table)}"
           + (f" (not found: {', '.join(missing)})" if missing else ""))
     return found
 
 
-def supplement(places: list[dict], major: list[dict], lang: str) -> int:
+def supplement(places: list[dict], major: list[dict], lang: str, sigungu: dict) -> int:
     added = 0
     for m in major:
         if any(distance_m(m, p) < 400 for p in places):
@@ -510,9 +556,10 @@ def supplement(places: list[dict], major: list[dict], lang: str) -> int:
         places.append({
             "id": m["id"],
             "title": m["names"][lang],
+            "title_ko": m["title_ko"],
             "category": m["category"],
             "region": m["region"],
-            "city": "",
+            "city": city_of(sigungu, m["region"], m["sigungu"], m["ldong"]),
             "addr": "",
             "tel": "",
             "img": m["img"],
@@ -621,7 +668,7 @@ def main() -> int:
                 n = supplement_festivals(festivals, korean_festivals, sigungu, lang)
                 named = sum(1 for f in festivals if f.get("title_ko"))
                 print(f"  festivals supplemented from KorService2: {n} ({named} with translated names)")
-            added = supplement(places, major, lang)
+            added = supplement(places, major, lang, sigungu)
             print(f"  supplemented from KorService2: {added}")
             places.sort(key=lambda p: (p["region"], p["category"], p["title"]))
             write_json(f"{lang}.json", {"updated": updated, "places": places, "festivals": festivals})

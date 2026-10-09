@@ -91,7 +91,8 @@
   function popupHtml(p) {
     const img = p.thumb ? '<img src="' + esc(p.thumb) + '" alt="" loading="lazy">' : "";
     const dates = p.start ? '<div class="pop-dates">' + esc(fmtDate(p.start)) + " – " + esc(fmtDate(p.end)) + "</div>" : "";
-    return '<div class="pop">' + img + "<strong>" + esc(p.title) + "</strong>" + dates +
+    return '<div class="pop">' + img + "<strong>" + esc(p.title) + "</strong>" +
+      (p.title_ko ? '<div class="pop-meta" lang="ko">' + esc(p.title_ko) + "</div>" : "") + dates +
       '<div class="pop-meta">' + esc(t("cat." + p.category)) + (p.city ? " · " + esc(p.city) : "") + "</div>" +
       '<a href="' + dirUrl(p) + '" target="_blank" rel="noopener">' + esc(t("card.directions")) + " ↗</a></div>";
   }
@@ -175,11 +176,12 @@
     const meta = [t("region." + p.region), p.city].filter(Boolean).join(" · ");
     return '<article class="card" data-key="' + esc(p.category + ":" + p.id) + '">' + img +
       '<div class="body"><span class="tag" style="--c:' + (COLORS[p.category] || "#555") + '">' + esc(t("cat." + p.category)) + "</span>" +
-      "<h3" + (p.ko ? ' lang="ko"' : "") + ">" + esc(p.title) + "</h3>" + dates +
+      "<h3" + (p.ko ? ' lang="ko"' : "") + ">" + esc(p.title) + "</h3>" +
+      (p.title_ko ? '<p class="orig" lang="ko">' + esc(p.title_ko) + "</p>" : "") +
+      dates +
       '<p class="meta">' + esc(meta) + "</p>" +
       (p.addr ? '<p class="addr">' + esc(p.addr) + "</p>" : "") +
       (p.supplement ? '<p class="note">' + esc(t("card.supplement")) + "</p>" : "") +
-      (p.title_ko ? '<p class="orig" lang="ko">' + esc(p.title_ko) + "</p>" : "") +
       (p.ko ? '<p class="note">' + esc(t("festivals.ko")) + "</p>" : "") +
       '<div class="actions">' +
       (p.lat != null ? '<button type="button" class="link" data-act="map">' + esc(t("card.map")) + "</button>" +
