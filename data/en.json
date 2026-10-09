@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:22+09:00",
+ "updated": "2026-10-09T12:28+09:00",
  "places": [
   {
    "id": "1426597",
@@ -700,21 +700,6 @@
    "lat": 37.9003548279,
    "lng": 126.7006758375,
    "title_ko": "도라산역"
-  },
-  {
-   "id": "ko-128221",
-   "title": "Dumulmeori",
-   "title_ko": "두물머리생태학교",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Yangpyeong-gun",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image3_1.jpg",
-   "lat": 37.5360539425305,
-   "lng": 127.312500889645,
-   "supplement": true
   },
   {
    "id": "264360",
@@ -1919,6 +1904,21 @@
    "lat": 37.1778124763,
    "lng": 126.622033727,
    "title_ko": "제부도"
+  },
+  {
+   "id": "ko-125503",
+   "title": "Jebudo Island",
+   "title_ko": "제부도",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "Hwaseong-si",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image3_1.jpg",
+   "lat": 37.1686057162,
+   "lng": 126.6244698636,
+   "supplement": true
   },
   {
    "id": "3113067",
@@ -5380,21 +5380,6 @@
    "title_ko": "원마운트 스노우파크"
   },
   {
-   "id": "ko-2748983",
-   "title": "Seoul Grand Park",
-   "title_ko": "서울대공원 산림욕장",
-   "category": "leisure",
-   "region": "gyeonggi",
-   "city": "Gwacheon-si",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/81/3537381_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/81/3537381_image3_1.jpg",
-   "lat": 37.4252518729,
-   "lng": 127.0156160762,
-   "supplement": true
-  },
-  {
    "id": "266861",
    "title": "Seoulland Sledding Hills",
    "category": "leisure",
@@ -5869,21 +5854,6 @@
    "lat": 37.6171759306,
    "lng": 126.4981273568,
    "title_ko": "강화루지(강화씨사이드리조트)"
-  },
-  {
-   "id": "ko-3443808",
-   "title": "Ganghwa Peace Observatory",
-   "title_ko": "[DMZ 평화의 길] 강화평화전망대 코스",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "Ganghwa-gun",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/10/3446010_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/10/3446010_image3_1.jpg",
-   "lat": 37.73368168599644,
-   "lng": 126.51644669989408,
-   "supplement": true
   },
   {
    "id": "1562375",

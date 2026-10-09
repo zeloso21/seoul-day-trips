@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:22+09:00",
+ "updated": "2026-10-09T12:28+09:00",
  "places": [
   {
    "id": "3364731",
@@ -616,21 +616,6 @@
    "lat": 37.166941727,
    "lng": 127.1051707463,
    "title_ko": "디스커버리 네이처스케이프 동탄점"
-  },
-  {
-   "id": "ko-128221",
-   "title": "トゥムルモリ",
-   "title_ko": "두물머리생태학교",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "ヤンピョン(楊平)郡",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/58/3490558_image3_1.jpg",
-   "lat": 37.5360539425305,
-   "lng": 127.312500889645,
-   "supplement": true
   },
   {
    "id": "3491039",
@@ -2802,6 +2787,21 @@
    "lat": 37.177870801,
    "lng": 126.6219420666,
    "title_ko": "제부도"
+  },
+  {
+   "id": "ko-125503",
+   "title": "済扶島",
+   "title_ko": "제부도",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "ファソン(華城)市",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image3_1.jpg",
+   "lat": 37.1686057162,
+   "lng": 126.6244698636,
+   "supplement": true
   },
   {
    "id": "2944161",
@@ -7116,21 +7116,6 @@
    "lat": 37.7464467121,
    "lng": 126.4877310309,
    "title_ko": "강화도"
-  },
-  {
-   "id": "ko-3443808",
-   "title": "江華平和展望台",
-   "title_ko": "[DMZ 평화의 길] 강화평화전망대 코스",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "カンファ(江華)郡",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/10/3446010_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/10/3446010_image3_1.jpg",
-   "lat": 37.73368168599644,
-   "lng": 126.51644669989408,
-   "supplement": true
   },
   {
    "id": "1846902",
