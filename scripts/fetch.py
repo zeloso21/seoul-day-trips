@@ -610,7 +610,17 @@ def fetch_korean_major() -> list[dict]:
 def supplement(places: list[dict], major: list[dict], lang: str, sigungu: dict) -> int:
     added = 0
     for m in major:
-        if any(distance_m(m, p) < 400 for p in places):
+        name, ko = m["names"][lang].lower(), bare(m["title_ko"])
+
+        def same(p: dict) -> bool:
+            d = distance_m(m, p)
+            if d < 400:
+                return True
+            # Islands, mountains and parks get points far apart in different services,
+            # so also treat the same name within a few km as the same place.
+            return d < 5000 and (p["title"].lower() == name or bare(p.get("title_ko", "")) == ko)
+
+        if any(same(p) for p in places):
             continue  # already covered by the foreign-language service
         places.append({
             "id": m["id"],
