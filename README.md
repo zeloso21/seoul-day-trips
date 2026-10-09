@@ -1,6 +1,6 @@
 # Seoul Day Trips
 
-외국인 여행자를 위한 서울 근교(경기도·인천) 관광 정적 사이트입니다. English / 日本語.
+외국인 여행자를 위한 서울 + 서울 근교(경기도·인천) 관광 정적 사이트입니다. 서울이 메인(필터·목록 첫 순서, 지도 중심)이고 경기·인천은 당일치기 근교로 함께 다룹니다. English / 日本語.
 
 데이터: 한국관광공사 Tour API (EngService2, JpnService2, KorService2, PhotoGalleryService1)
 — Source: Korea Tourism Organization (KOGL)
@@ -8,9 +8,9 @@
 ## 구조
 
 ```
-index.html                     단일 페이지 (탐색·지도 / 축제 / 사진 / 서울에서 가는 법)
+index.html                     단일 페이지 (탐색·지도 / 축제 / 사진 / 교통 안내)
 assets/app.js                  바닐라 JS: 언어 전환, 필터, 지도, 축제, 갤러리
-assets/i18n.js                 UI 문구 + "Getting there" 교통 안내 (EN/JA)
+assets/i18n.js                 UI 문구 + "Getting around" 교통 안내 (공항→서울, 서울 시내, 근교 당일치기 / EN·JA)
 assets/style.css               모바일 우선 반응형 스타일
 assets/vendor/leaflet/         Leaflet 1.9.4 + markercluster 1.5.3 (CDN 의존 없이 포함)
 data/en.json, data/ja.json     장소(places)·축제(festivals) — fetch.py가 생성
@@ -23,7 +23,7 @@ scripts/place_names.json       KorService2로 보완할 주요 장소 + EN/JA �
 
 ### 수집 내용 (`scripts/fetch.py`)
 
-- 대상 지역: 경기(areaCode 31)·인천(2). areaCode와 법정동 코드(lDongRegnCd 41/28) 양쪽으로 조회해 합침 (신규 데이터는 법정동 코드만 있는 경우가 있음)
+- 대상 지역: 서울(areaCode 1)·경기(31)·인천(2). areaCode와 법정동 코드(lDongRegnCd 11/41/28) 양쪽으로 조회해 합침 (신규 데이터는 법정동 코드만 있는 경우가 있음)
 - EN/JA: 관광지·문화시설·레포츠·음식 (`areaBasedList2`), 축제 (`searchFestival2` + `detailCommon2`로 개요/홈페이지)
 - 축제: 실행 시점의 **KST 오늘 날짜**를 계산해 종료일 ≥ 오늘인 것만 저장 (프론트에서도 한 번 더 필터)
 - KorService2 축제 보완: 영문/일문판 축제와 위치(500m)·기간이 겹치지 않는 경기·인천 축제를 추가. 이름(한국어)·기간·좌표·사진·홈페이지만 사용하고 한국어 개요·주소는 넣지 않음. 시·군 이름은 각 언어판 areaCode2/ldongCode2로 변환

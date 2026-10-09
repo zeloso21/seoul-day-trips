@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch Gyeonggi / Incheon tourism data from the Korea Tourism Organization API.
+"""Fetch Seoul / Gyeonggi / Incheon tourism data from the Korea Tourism Organization API.
 
 Outputs (only overwritten when the corresponding fetch succeeds):
   data/en.json      English places + festivals (EngService2, supplemented by KorService2)
@@ -33,6 +33,7 @@ KST = ZoneInfo("Asia/Seoul")
 
 # Legacy area code -> legal-dong region code (used as a fallback filter).
 REGIONS = {
+    "seoul": {"areaCode": "1", "lDongRegnCd": "11"},
     "gyeonggi": {"areaCode": "31", "lDongRegnCd": "41"},
     "incheon": {"areaCode": "2", "lDongRegnCd": "28"},
 }
@@ -48,6 +49,13 @@ FOREIGN_FESTIVAL_TYPE = "85"
 
 # Photo gallery search keywords with English / Japanese labels.
 PHOTO_KEYWORDS = [
+    ("경복궁", "seoul", "Gyeongbokgung Palace", "景福宮"),
+    ("창덕궁", "seoul", "Changdeokgung Palace", "昌徳宮"),
+    ("북촌한옥마을", "seoul", "Bukchon Hanok Village", "北村韓屋村"),
+    ("남산", "seoul", "Namsan", "南山"),
+    ("한강", "seoul", "Han River", "漢江"),
+    ("청계천", "seoul", "Cheonggyecheon Stream", "清渓川"),
+    ("광화문", "seoul", "Gwanghwamun", "光化門"),
     ("수원화성", "gyeonggi", "Suwon Hwaseong", "水原華城"),
     ("남한산성", "gyeonggi", "Namhansanseong", "南漢山城"),
     ("가평", "gyeonggi", "Gapyeong", "加平"),
@@ -237,7 +245,7 @@ def first_href(text: str | None) -> str:
     return m.group(0) if m else ""
 
 
-# Rough bounding box of Gyeonggi + Incheon (incl. the West Sea islands). Records outside it
+# Rough bounding box of Seoul + Gyeonggi + Incheon (incl. the West Sea islands). Records outside it
 # have bad coordinates or are filed under the wrong region (e.g. a Jeju sight).
 BBOX = (36.8, 38.4, 124.5, 127.9)
 

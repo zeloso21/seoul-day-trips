@@ -1,6 +1,20 @@
 {
   "_comment": "Major places with English/Japanese names. Each key (then each optional alias) is searched in KorService2 (searchKeyword2) within its region; coordinates, photo and the Korean name come from there, the displayed name from this table. A place is only added when the EN/JA service has nothing within 400 m. category: attraction | culture | leisure | food.",
 
+  "경복궁": {"region": "seoul", "category": "attraction", "en": "Gyeongbokgung Palace", "ja": "景福宮"},
+  "창덕궁": {"region": "seoul", "category": "attraction", "en": "Changdeokgung Palace", "ja": "昌徳宮"},
+  "덕수궁": {"region": "seoul", "category": "attraction", "en": "Deoksugung Palace", "ja": "徳寿宮"},
+  "종묘": {"region": "seoul", "category": "attraction", "en": "Jongmyo Shrine", "ja": "宗廟"},
+  "북촌한옥마을": {"region": "seoul", "category": "attraction", "en": "Bukchon Hanok Village", "ja": "北村韓屋村"},
+  "N서울타워": {"region": "seoul", "category": "attraction", "en": "N Seoul Tower", "ja": "Nソウルタワー"},
+  "명동": {"region": "seoul", "category": "attraction", "en": "Myeong-dong", "ja": "明洞"},
+  "인사동": {"region": "seoul", "category": "attraction", "en": "Insa-dong", "ja": "仁寺洞"},
+  "광장시장": {"region": "seoul", "category": "food", "en": "Gwangjang Market", "ja": "広蔵市場"},
+  "동대문디자인플라자": {"region": "seoul", "category": "culture", "en": "Dongdaemun Design Plaza (DDP)", "ja": "東大門デザインプラザ(DDP)"},
+  "국립중앙박물관": {"region": "seoul", "category": "culture", "en": "National Museum of Korea", "ja": "国立中央博物館"},
+  "롯데월드": {"region": "seoul", "category": "leisure", "en": "Lotte World", "ja": "ロッテワールド"},
+  "청계천": {"region": "seoul", "category": "attraction", "en": "Cheonggyecheon Stream", "ja": "清渓川"},
+
   "수원화성": {"region": "gyeonggi", "category": "attraction", "en": "Suwon Hwaseong Fortress", "ja": "水原華城"},
   "화성행궁": {"region": "gyeonggi", "category": "attraction", "en": "Hwaseong Haenggung Palace", "ja": "華城行宮"},
   "융건릉": {"region": "gyeonggi", "category": "attraction", "en": "Yunggeolleung Royal Tombs", "ja": "隆健陵"},

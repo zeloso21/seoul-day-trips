@@ -4,7 +4,7 @@
 
   const LANGS = ["en", "ja"];
   const CATEGORIES = ["attraction", "culture", "leisure", "food", "festival"];
-  const REGIONS = ["gyeonggi", "incheon"];
+  const REGIONS = ["seoul", "gyeonggi", "incheon"];
   const COLORS = { attraction: "#1f6feb", culture: "#8250df", leisure: "#1a7f37", food: "#d1242f", festival: "#bf8700" };
   const PAGE = 24;
 
@@ -76,7 +76,7 @@
 
   function initMap() {
     if (!window.L) return;
-    map = L.map("map", { scrollWheelZoom: false, tap: true }).setView([37.45, 126.95], 9);
+    map = L.map("map", { scrollWheelZoom: false, tap: true }).setView([37.55, 126.98], 10);  // Seoul first; zoom out for the surrounding area
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 18,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -191,7 +191,8 @@
 
   function renderExplore() {
     renderFilters();
-    const list = filtered().sort((a, b) => (!!b.thumb - !!a.thumb) || a.title.localeCompare(b.title, state.lang));
+    const rank = (p) => (p.region === "seoul" ? 0 : 1);  // Seoul is the main area: list it first
+    const list = filtered().sort((a, b) => (rank(a) - rank(b)) || (!!b.thumb - !!a.thumb) || a.title.localeCompare(b.title, state.lang));
     $("#count").textContent = t("explore.count").replace("{n}", list.length);
     renderMarkers(list);
     const d = state.data[state.lang] || {};
