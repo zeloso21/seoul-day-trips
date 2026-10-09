@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:11+09:00",
+ "updated": "2026-10-09T13:16+09:00",
  "places": [
   {
    "id": "1426597",
@@ -1904,21 +1904,6 @@
    "lat": 37.1778124763,
    "lng": 126.622033727,
    "title_ko": "제부도"
-  },
-  {
-   "id": "ko-125503",
-   "title": "Jebudo Island",
-   "title_ko": "제부도",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Hwaseong-si",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image3_1.jpg",
-   "lat": 37.1686057162,
-   "lng": 126.6244698636,
-   "supplement": true
   },
   {
    "id": "3113067",

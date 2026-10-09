@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:11+09:00",
+ "updated": "2026-10-09T13:16+09:00",
  "places": [
   {
    "id": "3364731",
@@ -1274,21 +1274,6 @@
    "lat": 37.3294352295,
    "lng": 127.0169408703,
    "title_ko": "광교산"
-  },
-  {
-   "id": "ko-2662855",
-   "title": "光教湖水公園",
-   "title_ko": "광교호수공원",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "スウォン(水原)市ヨントン(霊通)区",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/60/3588560_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/60/3588560_image3_1.jpg",
-   "lat": 37.2832676649,
-   "lng": 127.0700567363,
-   "supplement": true
   },
   {
    "id": "2709828",
@@ -2787,21 +2772,6 @@
    "lat": 37.177870801,
    "lng": 126.6219420666,
    "title_ko": "제부도"
-  },
-  {
-   "id": "ko-125503",
-   "title": "済扶島",
-   "title_ko": "제부도",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "ファソン(華城)市",
-   "addr": "",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/89/3330989_image3_1.jpg",
-   "lat": 37.1686057162,
-   "lng": 126.6244698636,
-   "supplement": true
   },
   {
    "id": "2944161",
