@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:15+09:00",
+ "updated": "2026-10-11T07:31+09:00",
  "places": [
   {
    "id": "3364731",
@@ -18624,42 +18624,6 @@
    "homepage": "https://smalltheater.or.kr/"
   },
   {
-   "id": "ko-4117047",
-   "title": "楊平ニラ祭り",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "ヤンピョン(楊平)郡",
-   "addr": "",
-   "tel": "010-2728-1054",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/36/4117136_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/36/4117136_image3_1.jpg",
-   "lat": 37.4198407182,
-   "lng": 127.7542477259,
-   "start": "20261009",
-   "end": "20261010",
-   "homepage": "https://buchoofestival.com/",
-   "source": "kor",
-   "title_ko": "양평부추축제"
-  },
-  {
-   "id": "ko-3540329",
-   "title": "ハングルの日 文化行事",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "ヨジュ(驪州)市",
-   "addr": "",
-   "tel": "031-881-9692",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/91/4109191_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/91/4109191_image3_1.jpg",
-   "lat": 37.3047787539,
-   "lng": 127.6128192378,
-   "start": "20261009",
-   "end": "20261010",
-   "homepage": "https://www.yjcf.or.kr/",
-   "source": "kor",
-   "title_ko": "한글날 문화행사"
-  },
-  {
    "id": "ko-4060158",
    "title": "한강 서래섬 피크닉 콘서트",
    "category": "festival",
@@ -18730,42 +18694,6 @@
    "homepage": "https://pajufair.com/",
    "source": "kor",
    "title_ko": "파주페어 북앤컬처"
-  },
-  {
-   "id": "ko-2846034",
-   "title": "安養青年祭り",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "アニャン(安養)市トンアン(東安)区",
-   "addr": "",
-   "tel": "031-8045-5779",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/82/4116882_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/82/4116882_image3_1.JPG",
-   "lat": 37.3901365976,
-   "lng": 126.9613286581,
-   "start": "20261010",
-   "end": "20261010",
-   "homepage": "",
-   "source": "kor",
-   "title_ko": "안양청년축제"
-  },
-  {
-   "id": "ko-3560787",
-   "title": "2026 ヤンガン島芸術祭",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "ヤンピョン(楊平)郡",
-   "addr": "",
-   "tel": "031-773-2612",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/30/4118030_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/30/4118030_image3_1.jpg",
-   "lat": 37.4831299305,
-   "lng": 127.4986628246,
-   "start": "20261010",
-   "end": "20261010",
-   "homepage": "https://ypcf.or.kr/2026-yanggangfestival",
-   "source": "kor",
-   "title_ko": "2026 양강섬예술축제"
   },
   {
    "id": "ko-1620571",
