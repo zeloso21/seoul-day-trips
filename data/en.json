@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T08:16+09:00",
+ "updated": "2026-10-15T07:18+09:00",
  "places": [
   {
    "id": "1426597",
@@ -2571,8 +2571,8 @@
    "city": "Pocheon-si",
    "addr": "234 Art valley-ro, Sinbuk-myeon, Pocheon-si, Gyeonggi-do",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource_photo/11/3512111_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource_photo/11/3512111_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource_photo/21/3512021_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource_photo/21/3512021_image3_1.jpg",
    "lat": 37.9237694042,
    "lng": 127.2389752164,
    "title_ko": "포천아트밸리 (한탄강 유네스코 세계지질공원)"
@@ -4833,20 +4833,6 @@
    "title_ko": "인생고기집 정육식당"
   },
   {
-   "id": "3099166",
-   "title": "Jangmo Bapsang",
-   "category": "food",
-   "region": "gyeonggi",
-   "city": "Seongnam-si",
-   "addr": "5, Haogae-ro 344beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/66/2932266_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/66/2932266_image3_1.jpg",
-   "lat": 37.3908344045,
-   "lng": 127.0581270698,
-   "title_ko": "장모밥상"
-  },
-  {
    "id": "3013911",
    "title": "Jeju Hayeong - Main Branch",
    "category": "food",
@@ -4859,20 +4845,6 @@
    "lat": 37.6849977018,
    "lng": 126.8060518812,
    "title_ko": "제주하영 본점"
-  },
-  {
-   "id": "2701937",
-   "title": "Jeongseoktong Barbeque Tongjokgui Jogaeteo",
-   "category": "food",
-   "region": "gyeonggi",
-   "city": "Pyeongtaek-si",
-   "addr": "133, Jungang, 2-ro, Pyeongtaek-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/63/2690463_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/63/2690463_image2_1.jpg",
-   "lat": 36.9895288246,
-   "lng": 127.1016565494,
-   "title_ko": "정석통바베큐통족구이 조개터"
   },
   {
    "id": "3431544",
@@ -4973,20 +4945,6 @@
    "title_ko": "실비식당"
   },
   {
-   "id": "3096875",
-   "title": "Songa Myeonok",
-   "category": "food",
-   "region": "gyeonggi",
-   "city": "Bucheon-si",
-   "addr": "313 Sinheung-ro, Wonmi-gu, Bucheon-si, Gyeonggi-do",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5119125088,
-   "lng": 126.7744994904,
-   "title_ko": "손가면옥"
-  },
-  {
    "id": "3046403",
    "title": "Starbucks The Buckhangang R",
    "category": "food",
@@ -5013,20 +4971,6 @@
    "lat": 37.4970825386,
    "lng": 127.4817133598,
    "title_ko": "스타벅스 더양평DTR점"
-  },
-  {
-   "id": "3097555",
-   "title": "Tongilchon Jangdankong Maeul",
-   "category": "food",
-   "region": "gyeonggi",
-   "city": "Paju-si",
-   "addr": "64 Tongilchon-gil, Gunnae-myeon, Paju-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/62/1789762_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/1789762_image3_1.jpg",
-   "lat": 37.9106958748,
-   "lng": 126.7335975235,
-   "title_ko": "통일촌장단콩마을"
   },
   {
    "id": "4038913",
@@ -7520,20 +7464,6 @@
    "lat": 37.4730406988,
    "lng": 126.6995962957,
    "title_ko": "돈타래게장정식"
-  },
-  {
-   "id": "3106242",
-   "title": "Gamasot Sondubu",
-   "category": "food",
-   "region": "incheon",
-   "city": "Michuhol-gu",
-   "addr": "4 Soseong-ro 326beon-gil, Michuhol-gu, Incheon",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/54/1873754_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/54/1873754_image3_1.jpg",
-   "lat": 37.4373973287,
-   "lng": 126.683246,
-   "title_ko": "가마솥손두부"
   },
   {
    "id": "4100963",
@@ -15998,8 +15928,8 @@
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.5738766686785,
-   "lng": 126.983165225581,
+   "lat": 37.5738766687,
+   "lng": 126.9831652256,
    "title_ko": "사찰음식 전문점 발우공양"
   },
   {
@@ -16057,20 +15987,6 @@
    "lat": 37.5792029044,
    "lng": 126.9857811099,
    "title_ko": "북촌손만두 북촌점"
-  },
-  {
-   "id": "2658615",
-   "title": "Busan Agujjim Gulbossam",
-   "category": "food",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "서울특별시 종로구 돈화문로 35",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/05/2654805_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/05/2654805_image2_1.jpg",
-   "lat": 37.5716455557,
-   "lng": 126.9916807863,
-   "title_ko": "부산아구찜굴보쌈"
   },
   {
    "id": "3574457",
@@ -16141,20 +16057,6 @@
    "lat": 37.5555989293,
    "lng": 126.9208626946,
    "title_ko": "조선화로구이"
-  },
-  {
-   "id": "3099670",
-   "title": "Chuncheonok",
-   "category": "food",
-   "region": "seoul",
-   "city": "Geumcheon-gu",
-   "addr": "19 Digital-ro 12-gil, Geumcheon-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4779101757,
-   "lng": 126.8896593924,
-   "title_ko": "춘천옥"
   },
   {
    "id": "351130",
@@ -16325,20 +16227,6 @@
    "title_ko": "하하&김종국의 401정육식당"
   },
   {
-   "id": "2695890",
-   "title": "Heungbu Bossam",
-   "category": "food",
-   "region": "seoul",
-   "city": "Gwanak-gu",
-   "addr": "15-13 Sillim-ro 59-gil, Gwanak-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/55/2685055_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/55/2685055_image2_1.jpg",
-   "lat": 37.4827769881,
-   "lng": 126.9294722964,
-   "title_ko": "흥부보쌈"
-  },
-  {
    "id": "3018843",
    "title": "Hwanggeum Kongbat",
    "category": "food",
@@ -16409,20 +16297,6 @@
    "title_ko": "인사동마늘보쌈"
   },
   {
-   "id": "2702117",
-   "title": "Jangchung Jokbal",
-   "category": "food",
-   "region": "seoul",
-   "city": "Dongjak-gu",
-   "addr": "31, Noryangjin-ro 16-gil, Dongjak-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/47/2684747_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/47/2684747_image2_1.jpg",
-   "lat": 37.512254383,
-   "lng": 126.9441590176,
-   "title_ko": "장충족발"
-  },
-  {
    "id": "4010148",
    "title": "Jangsu Haneulso Insa-dong Brach",
    "category": "food",
@@ -16437,20 +16311,6 @@
    "title_ko": "장수하늘소 인사점"
   },
   {
-   "id": "2669823",
-   "title": "Jeonjujip",
-   "category": "food",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "16-15 Supyo-ro, 20-gil, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/46/2664146_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/46/2664146_image2_1.jpg",
-   "lat": 37.5699901802,
-   "lng": 126.9909920073,
-   "title_ko": "전주집"
-  },
-  {
    "id": "4084003",
    "title": "Jincheongyujeom",
    "category": "food",
@@ -16463,20 +16323,6 @@
    "lat": 37.5622769734,
    "lng": 126.926297277,
    "title_ko": "진청유점"
-  },
-  {
-   "id": "2658819",
-   "title": "Jinhyang Jokbal",
-   "category": "food",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "231-1, Jong-ro, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/65/2655165_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/65/2655165_image2_1.jpg",
-   "lat": 37.5713569137,
-   "lng": 127.0035547125,
-   "title_ko": "진향족발"
   },
   {
    "id": "3104336",
@@ -16521,20 +16367,6 @@
    "title_ko": "진옥화할매원조닭한마리"
   },
   {
-   "id": "2666196",
-   "title": "Jogui Hansu",
-   "category": "food",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "93-1, Supyo-ro, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/32/2655232_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/32/2655232_image2_1.jpg",
-   "lat": 37.5696679648,
-   "lng": 126.9892838383,
-   "title_ko": "족의한수"
-  },
-  {
    "id": "4010921",
    "title": "Jongno Bansanghoe",
    "category": "food",
@@ -16575,20 +16407,6 @@
    "lat": 37.5196963204,
    "lng": 127.025546193,
    "title_ko": "무아"
-  },
-  {
-   "id": "2695525",
-   "title": "Madang Jokbal",
-   "category": "food",
-   "region": "seoul",
-   "city": "Gwangjin-gu",
-   "addr": "175, Neungdong-ro, Gwangjin-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/35/2684635_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/2684635_image2_1.jpg",
-   "lat": 37.5464360656,
-   "lng": 127.0734296104,
-   "title_ko": "마당족발"
   },
   {
    "id": "3061972",
@@ -16703,20 +16521,6 @@
    "title_ko": "마우스래빗"
   },
   {
-   "id": "2670066",
-   "title": "Myeong-dong Ttungttungi Jokbal",
-   "category": "food",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "9, Toegye-ro, 20-gil, Jung-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/37/2669937_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/37/2669937_image2_1.jpg",
-   "lat": 37.5598773738,
-   "lng": 126.9858149873,
-   "title_ko": "명동뚱뚱이족발"
-  },
-  {
    "id": "3511997",
    "title": "Myeongdong Jjukkumi",
    "category": "food",
@@ -16731,20 +16535,6 @@
    "title_ko": "명동쭈꾸미"
   },
   {
-   "id": "2658605",
-   "title": "Myth Jokbal Myeongdong",
-   "category": "food",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "21, Myeongdong 3-gil, Jung-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/64/3108464_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/64/3108464_image3_1.JPG",
-   "lat": 37.5647212126,
-   "lng": 126.9834539545,
-   "title_ko": "미쓰족발명동"
-  },
-  {
    "id": "4100823",
    "title": "New Order Club Hannam",
    "category": "food",
@@ -16757,20 +16547,6 @@
    "lat": 37.5359151326,
    "lng": 127.000689838,
    "title_ko": "뉴오더클럽 한남"
-  },
-  {
-   "id": "2665085",
-   "title": "Nolboo Bossam & Budaejjigae Euljiro6ga",
-   "category": "food",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "2F, 34, Euljiro43-gil, Jung-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/62/2661562_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/2661562_image2_1.jpg",
-   "lat": 37.5676601946,
-   "lng": 127.0076350007,
-   "title_ko": "놀부보쌈&부대찌개 을지로6가"
   },
   {
    "id": "3106339",
@@ -16883,20 +16659,6 @@
    "lat": 37.581108157,
    "lng": 126.981234248,
    "title_ko": "편강 율 플래그십&티하우스"
-  },
-  {
-   "id": "2692840",
-   "title": "Ran",
-   "category": "food",
-   "region": "seoul",
-   "city": "Yeongdeungpo-gu",
-   "addr": "12, Yeouidaebang-ro, 53ga-gil, Yeongdeungpo-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/42/2682642_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/42/2682642_image3_1.jpg",
-   "lat": 37.5106305171,
-   "lng": 126.9230784426,
-   "title_ko": "란"
   },
   {
    "id": "3109601",
@@ -18273,6 +18035,24 @@
    "homepage": ""
   },
   {
+   "id": "2433585",
+   "title": "Sanjeonghosu Lake Myeongseonsan Mountain Eulalia Festival",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Pocheon-si",
+   "addr": "108 Sanjeonghosu-ro 411beon-gil, Yeongbuk-myeon, Pocheon-si, Gyeonggi-do",
+   "tel": "+82-31-535-5135",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/83/3555383_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/83/3555383_image3_1.jpg",
+   "lat": 38.0683053869,
+   "lng": 127.3239505196,
+   "title_ko": "포천 산정호수 명성산 억새꽃축제",
+   "start": "20261016",
+   "end": "20261018",
+   "overview": "Sanjeonghosu Lake Myeongseonsan Mountain Eulalia Festival is held in the area of Sanjeonghosu Lake. Programs include the opening ceremony with performances from famous artists as well as events, cooking competitions, hands-on programs, exhibitions, sales booth and many more.",
+   "homepage": ""
+  },
+  {
    "id": "ko-3379778",
    "title": "가락 옥토버페스트",
    "category": "festival",
@@ -18309,24 +18089,6 @@
    "ko": true
   },
   {
-   "id": "ko-623666",
-   "title": "포천 산정호수 명성산 억새꽃축제",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Pocheon-si",
-   "addr": "",
-   "tel": "031-535-5013, 5135",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/83/3555383_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/83/3555383_image3_1.jpg",
-   "lat": 38.0683053869,
-   "lng": 127.3239505196,
-   "start": "20261016",
-   "end": "20261018",
-   "homepage": "https://pcfac.or.kr/sub03/sub07-1.php?type=view&uid=1817323",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-2870929",
    "title": "Yeoncheon Chrysanthemum Festival",
    "category": "festival",
@@ -18343,24 +18105,6 @@
    "homepage": "",
    "source": "kor",
    "title_ko": "연천 국화축제"
-  },
-  {
-   "id": "ko-1806376",
-   "title": "강동바람꽃축제 X 강동북페스티벌",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Gangdong-gu",
-   "addr": "",
-   "tel": "02-440-0516 / 02-2045-7911",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/97/4121697_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/97/4121697_image3_1.jpg",
-   "lat": 37.5512204558,
-   "lng": 127.157342547,
-   "start": "20261017",
-   "end": "20261017",
-   "homepage": "https://www.gdlibrary.or.kr/",
-   "source": "kor",
-   "ko": true
   },
   {
    "id": "ko-2618971",
@@ -18524,24 +18268,6 @@
    "ko": true
   },
   {
-   "id": "ko-3544911",
-   "title": "Subongsan Festival",
-   "category": "festival",
-   "region": "incheon",
-   "city": "Michuhol-gu",
-   "addr": "",
-   "tel": "032-880-7976",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/40/4116440_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/40/4116440_image3_1.jpg",
-   "lat": 37.4598298556,
-   "lng": 126.6632947343,
-   "start": "20261017",
-   "end": "20261018",
-   "homepage": "https://www.michuhol.go.kr/",
-   "source": "kor",
-   "title_ko": "수봉산 페스티벌"
-  },
-  {
    "id": "ko-3315407",
    "title": "2026 제3차 제물포웨이브마켓",
    "category": "festival",
@@ -18629,6 +18355,24 @@
    "end": "20261018",
    "homepage": "https://www.helloddc.co.kr/",
    "source": "kor"
+  },
+  {
+   "id": "ko-4124907",
+   "title": "2026 쉬엄쉬엄모닝",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Gangdong-gu",
+   "addr": "",
+   "tel": "1644-6155",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/08/4124908_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/08/4124908_image3_1.jpg",
+   "lat": 37.5452481279,
+   "lng": 127.1179813872,
+   "start": "20261018",
+   "end": "20261129",
+   "homepage": "https://www.instagram.com/siumsium.morning/",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-2740046",
@@ -18843,6 +18587,24 @@
    "start": "20261028",
    "end": "20261108",
    "homepage": "https://www.quad.or.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3113995",
+   "title": "경기‧양주‧지작사 드론봇 페스티벌",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Yangju-si",
+   "addr": "",
+   "tel": "031-8082-6161",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/54/4124654_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/54/4124654_image3_1.JPG",
+   "lat": 37.833553,
+   "lng": 126.989798,
+   "start": "20261030",
+   "end": "20261101",
+   "homepage": "https://www.yangju.go.kr/",
    "source": "kor",
    "ko": true
   },
