@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:54+09:00",
+ "updated": "2026-10-21T07:18+09:00",
  "places": [
   {
    "id": "1426597",
@@ -14589,20 +14589,6 @@
    "title_ko": "이화여고100주년기념관"
   },
   {
-   "id": "1841829",
-   "title": "Ewha Welcome Center",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Seodaemun-gu",
-   "addr": "52, Ewhayeodae-gil, Seodaemun-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5617625629,
-   "lng": 126.9465962863,
-   "title_ko": "이화웰컴센터"
-  },
-  {
    "id": "2992566",
    "title": "Ewha Womans University",
    "category": "culture",
@@ -16330,7 +16316,7 @@
    "category": "food",
    "region": "seoul",
    "city": "Mapo-gu",
-   "addr": "27 Donggyo-ro 46-gil, Mapo-gu, Seoul First floor",
+   "addr": "27 Donggyo-ro 46-gil, Mapo-gu, Seoul",
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/33/4076433_image2_1.jpg",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/33/4076433_image3_1.jpg",
@@ -17235,20 +17221,6 @@
    "title_ko": "정동길"
   },
   {
-   "id": "3028170",
-   "title": "KSPO Dome (Olympic Gymnastics Arena)",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "Songpa-gu",
-   "addr": "424 Olympic-ro, Songpa-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5206092598,
-   "lng": 127.1150682209,
-   "title_ko": "올림픽공원체조경기장"
-  },
-  {
    "id": "3399276",
    "title": "Legend Heroes Jamsil Lotte World Mall",
    "category": "leisure",
@@ -17316,6 +17288,20 @@
    "lat": 37.5629224452,
    "lng": 126.8854490504,
    "title_ko": "난지한강공원 MTB코스장"
+  },
+  {
+   "id": "3028170",
+   "title": "Olympic Gymnastics Arena (KSPO Dome)",
+   "category": "leisure",
+   "region": "seoul",
+   "city": "Songpa-gu",
+   "addr": "424 Olympic-ro, Songpa-gu, Seoul",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/09/3533809_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/3533809_image3_1.jpg",
+   "lat": 37.5205553754,
+   "lng": 127.1150515712,
+   "title_ko": "올림픽체조경기장(KSPO DOME)"
   },
   {
    "id": "266911",
@@ -18103,6 +18089,24 @@
    "ko": true
   },
   {
+   "id": "1876904",
+   "title": "Hanseong Baekje Cultural Festival",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Songpa-gu",
+   "addr": "424 Olympic-ro, Songpa-gu, Seoul",
+   "tel": "+82-2-2147-2800",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/09/4121509_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/4121509_image3_1.jpg",
+   "lat": 37.5205553754,
+   "lng": 127.1150515712,
+   "title_ko": "한성백제문화제",
+   "start": "20261023",
+   "end": "20261025",
+   "overview": "The Hanseong Baekje Cultural Festival fills the nights of Songpa with deep resonance through high-quality classical music, as well as sensational band performances and media art. In addition, various experience zones are prepared, including a market filled with generous food, and a traditional Korean music concert.",
+   "homepage": ""
+  },
+  {
    "id": "1856661",
    "title": "Yeoju Ogoknaru Festival",
    "category": "festival",
@@ -18119,24 +18123,6 @@
    "end": "20261025",
    "overview": "The 2026 Yeoju Ogoknaru Festival celebrates Yeoju's traditional culture and history, harking back to a time when local specialties such as rice and sweet potatoes were shipped from Jopo Quay as tribute offerings to the royal court during the Joseon dynasty. Highlights include the Royal Tribute Parade, Bibimbap with Cast-Iron-Pot-Cooked Yeoju Rice, Roasted Sweet Potato Guinness, Wish Paper Trail, and Nakhwanori, along with local produce markets, food stalls, traditional cultural activities, and performances. Visitors can also sample a wide range of locally grown produce and enjoy hands-on progr",
    "homepage": ""
-  },
-  {
-   "id": "ko-507531",
-   "title": "한성백제문화제",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Songpa-gu",
-   "addr": "",
-   "tel": "02-2147-2800",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/09/4121509_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/4121509_image3_1.jpg",
-   "lat": 37.5205553754,
-   "lng": 127.1150515712,
-   "start": "20261023",
-   "end": "20261025",
-   "homepage": "https://www.songpa.go.kr/hanseong/index.do",
-   "source": "kor",
-   "ko": true
   },
   {
    "id": "ko-2872078",
@@ -18283,6 +18269,24 @@
    "ko": true
   },
   {
+   "id": "ko-3551000",
+   "title": "2026 에듀의왕 어울림축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Uiwang-si",
+   "addr": "",
+   "tel": "031-345-3845",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/37/4131037_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/37/4131037_image3_1.jpg",
+   "lat": 37.3056173114,
+   "lng": 126.9537683373,
+   "start": "20261024",
+   "end": "20261024",
+   "homepage": "http://www.eduuiwang.com/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "4116435",
    "title": "Seoul Petlympics",
    "category": "festival",
@@ -18317,6 +18321,24 @@
    "end": "20261025",
    "overview": "Oh Slow Vintage Market is a lifestyle festival where vintage, antique, and second-hand cultures blend together against the backdrop of the historical scenery of Incheon Open Port. Professional vintage sellers from across the country gather to showcase special items containing their unique tastes and stories, including vintage fashion, antique objects, retro accessories, and handicrafts. It is an event where you can stroll through the autumn Open Port, accompanied by busking, DJ performances, vintage photo zones, and various participatory programs, to discover the new value of old things and yo",
    "homepage": ""
+  },
+  {
+   "id": "ko-1472205",
+   "title": "도심 속 바다축제",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Dongjak-gu",
+   "addr": "",
+   "tel": "02-820-9403",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/17/3555917_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/17/3555917_image3_1.jpg",
+   "lat": 37.5150119198,
+   "lng": 126.9445243157,
+   "start": "20261024",
+   "end": "20261025",
+   "homepage": "",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-3387201",
@@ -18379,7 +18401,7 @@
    "region": "seoul",
    "city": "Yangcheon-gu",
    "addr": "",
-   "tel": "010-8792-7604",
+   "tel": "02-2021-8943",
    "img": "https://tong.visitkorea.or.kr/cms/resource/74/4128374_image2_1.JPG",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/74/4128374_image3_1.JPG",
    "lat": 37.5199910799,
@@ -18481,6 +18503,24 @@
    "title_ko": "마토예술제"
   },
   {
+   "id": "ko-2789700",
+   "title": "운정호수공원 불꽃축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Paju-si",
+   "addr": "",
+   "tel": "031-950-8433",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/81/3566581_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/81/3566581_image3_1.jpg",
+   "lat": 37.718729503,
+   "lng": 126.7632829018,
+   "start": "20261031",
+   "end": "20261231",
+   "homepage": "https://www.pajucf.or.kr/business/02_3_view.php?no=182&page=1",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "4116386",
    "title": "Beautysum Suwon",
    "category": "festival",
@@ -18513,6 +18553,42 @@
    "start": "20261107",
    "end": "20261107",
    "homepage": "https://jdlib.sen.go.kr/jdlib/board/index.do?menu_idx=242&manage_idx=2478",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3401306",
+   "title": "김포 해병대 문화축제 in 대명항",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Gimpo-si",
+   "addr": "",
+   "tel": "031-980-5110",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/71/4131171_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/71/4131171_image3_1.jpg",
+   "lat": 37.6400140918,
+   "lng": 126.539451725,
+   "start": "20261107",
+   "end": "20261107",
+   "homepage": "https://www.gimpo.go.kr/u/53850",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3399435",
+   "title": "2026 안성맞춤 상설공연 “톡톡달콤 페스티벌”",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Anseong-si",
+   "addr": "",
+   "tel": "031-677-2554",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/50/4130950_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/50/4130950_image3_1.jpg",
+   "lat": 37.0563847422,
+   "lng": 127.4516587664,
+   "start": "20261107",
+   "end": "20261107",
+   "homepage": "",
    "source": "kor",
    "ko": true
   },
