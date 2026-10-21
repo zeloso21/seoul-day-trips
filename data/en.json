@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:18+09:00",
+ "updated": "2026-10-22T07:21+09:00",
  "places": [
   {
    "id": "1426597",
@@ -6435,12 +6435,12 @@
    "category": "attraction",
    "region": "incheon",
    "city": "Namdong-gu",
-   "addr": "(6th Floor), 588 Inju-daero, Namdong-gu, Incheon",
+   "addr": "#604, 126, Yesul-ro, Namdong-gu, Incheon",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.4498017779,
-   "lng": 126.7021633751,
+   "lat": 37.4497479602,
+   "lng": 126.7021512425,
    "title_ko": "메디코퍼"
   },
   {
@@ -18251,24 +18251,6 @@
    "ko": true
   },
   {
-   "id": "ko-2867300",
-   "title": "평택 원평나루 억새축제",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Pyeongtaek-si",
-   "addr": "",
-   "tel": "031-669-0965",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/71/4116771_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/71/4116771_image3_1.jpg",
-   "lat": 36.9842467192,
-   "lng": 127.0810967851,
-   "start": "20261024",
-   "end": "20261024",
-   "homepage": "https://www.pccf.or.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-3551000",
    "title": "2026 에듀의왕 어울림축제",
    "category": "festival",
@@ -18337,24 +18319,6 @@
    "start": "20261024",
    "end": "20261025",
    "homepage": "",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-3387201",
-   "title": "영등포선유도원축제",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Yeongdeungpo-gu",
-   "addr": "",
-   "tel": "02-2629-2261",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/79/4127479_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/79/4127479_image3_1.jpg",
-   "lat": 37.5422375454,
-   "lng": 126.9024275677,
-   "start": "20261024",
-   "end": "20261025",
-   "homepage": "https://www.ydpcf.or.kr/festival/seonyudo.do",
    "source": "kor",
    "ko": true
   },
@@ -18609,6 +18573,42 @@
    "homepage": "https://www.xn--4k0b720a3lcv6j.com/",
    "source": "kor",
    "title_ko": "산북AI김장문화축제"
+  },
+  {
+   "id": "ko-2769990",
+   "title": "2026 대한민국 우리술 대축제",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Seocho-gu",
+   "addr": "",
+   "tel": "02-6952-9498",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/38/4132038_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/38/4132038_image3_1.jpg",
+   "lat": 37.4673402849,
+   "lng": 127.040735573,
+   "start": "20261113",
+   "end": "20261115",
+   "homepage": "https://thesool.com/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3545306",
+   "title": "포천펫스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Pocheon-si",
+   "addr": "",
+   "tel": "0502-1949-0514",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/14/4059414_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/14/4059414_image3_1.jpg",
+   "lat": 37.9234466507,
+   "lng": 127.236500949,
+   "start": "20261114",
+   "end": "20261114",
+   "homepage": "",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-4115275",
