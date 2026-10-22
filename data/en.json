@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:21+09:00",
+ "updated": "2026-10-23T07:20+09:00",
  "places": [
   {
    "id": "1426597",
@@ -1274,20 +1274,6 @@
    "lat": 37.3294352295,
    "lng": 127.0169408703,
    "title_ko": "광교산"
-  },
-  {
-   "id": "2033132",
-   "title": "Gwangju Gonjiam Ceramic Park",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Gwangju-si",
-   "addr": "727, Gyeongchung-daero, Gwangju-si, Gyeonggi-do",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.3516632346,
-   "lng": 127.3269787777,
-   "title_ko": "광주 곤지암도자공원"
   },
   {
    "id": "3113166",
@@ -3839,20 +3825,6 @@
    "title_ko": "법륜사(용인 문수산)"
   },
   {
-   "id": "1321647",
-   "title": "Yongin Recreational Forest",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Yongin-si",
-   "addr": "220, Chobu-ro, Cheoin-gu, Yongin-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/92/1860092_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/92/1860092_image3_1.jpg",
-   "lat": 37.3148442042,
-   "lng": 127.2678074082,
-   "title_ko": "용인자연휴양림"
-  },
-  {
    "id": "1312088",
    "title": "Yongin Waujeongsa Temple",
    "category": "attraction",
@@ -4523,20 +4495,6 @@
    "lat": 37.7305868621,
    "lng": 126.7633999075,
    "title_ko": "솔가람 아트홀"
-  },
-  {
-   "id": "2412762",
-   "title": "Suwon Gwanggyo Museum",
-   "category": "culture",
-   "region": "gyeonggi",
-   "city": "Suwon-si",
-   "addr": "182, Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.2963396792,
-   "lng": 127.0514053354,
-   "title_ko": "수원광교박물관"
   },
   {
    "id": "2027261",
@@ -5839,20 +5797,6 @@
    "lat": 37.7465023392,
    "lng": 126.4877441465,
    "title_ko": "강화도"
-  },
-  {
-   "id": "1373039",
-   "title": "Ganghwado Jejeokbong Peace Observatory",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "Ganghwa-gun",
-   "addr": "797, Jeonmangdae-ro, Ganghwa-gun, Incheon",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/31/2657531_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/2657531_image3_1.jpg",
-   "lat": 37.8263253898,
-   "lng": 126.432966382,
-   "title_ko": "강화도제적봉 평화전망대"
   },
   {
    "id": "3540163",
@@ -18174,7 +18118,25 @@
    "lng": 127.0472656803,
    "start": "20261024",
    "end": "20261024",
-   "homepage": "",
+   "homepage": "https://dogokmrf.com/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3382981",
+   "title": "서초책있는거리 10월 북캠핑",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Seocho-gu",
+   "addr": "",
+   "tel": "02-2155-8381, 02-520-8707",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/31/4133131_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/4133131_image3_1.jpg",
+   "lat": 37.4976289493,
+   "lng": 127.0045323824,
+   "start": "20261024",
+   "end": "20261024",
+   "homepage": "https://public.seocholib.or.kr/",
    "source": "kor",
    "ko": true
   },
@@ -18247,6 +18209,24 @@
    "start": "20261024",
    "end": "20261024",
    "homepage": "https://www.instagram.com/seoulupcycling/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-4132933",
+   "title": "수원특례시 반려동물 한마음축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Yeongtong-gu, Suwon-si",
+   "addr": "",
+   "tel": "031-5191-3328",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/36/4132936_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/36/4132936_image3_1.jpg",
+   "lat": 37.2907652402,
+   "lng": 127.0640032492,
+   "start": "20261024",
+   "end": "20261024",
+   "homepage": "https://www.suwon.go.kr",
    "source": "kor",
    "ko": true
   },
@@ -18575,6 +18555,24 @@
    "title_ko": "산북AI김장문화축제"
   },
   {
+   "id": "ko-3555835",
+   "title": "안산사이언스밸리(ASV) 과학축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Sangnok-gu, Ansan-si",
+   "addr": "",
+   "tel": "02-780-6881",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/13/4133513_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/4133513_image3_1.jpg",
+   "lat": 37.3001630571,
+   "lng": 126.8377108256,
+   "start": "20261107",
+   "end": "20261108",
+   "homepage": "https://asv-2026-delta.vercel.app/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "ko-2769990",
    "title": "2026 대한민국 우리술 대축제",
    "category": "festival",
@@ -18600,8 +18598,8 @@
    "city": "Pocheon-si",
    "addr": "",
    "tel": "0502-1949-0514",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/14/4059414_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/14/4059414_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
    "lat": 37.9234466507,
    "lng": 127.236500949,
    "start": "20261114",
