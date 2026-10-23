@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:20+09:00",
+ "updated": "2026-10-24T07:11+09:00",
  "places": [
   {
    "id": "1426597",
@@ -17925,24 +17925,6 @@
    "ko": true
   },
   {
-   "id": "293231",
-   "title": "Seoul Silver Grass Festival",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Mapo-gu",
-   "addr": "95 Haneulgongwon-ro, Mapo-gu, Seoul",
-   "tel": "+82-2-300-5581",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/81/3544281_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/81/3544281_image3_1.JPG",
-   "lat": 37.5690983046,
-   "lng": 126.8861282281,
-   "title_ko": "서울억새축제",
-   "start": "20261017",
-   "end": "20261023",
-   "overview": "Seoul Silver Grass Festival takes place at Haneul Park. Originally a garbage dump, the land was reformed and transformed into the vibrant, healthy ecosystem it has today in large part thanks to the planting of silver grass. The park now features the largest colony of silver grass found in Seoul, and hosts the Seoul Silver Grass Festival every year in October when the grass is in bloom.",
-   "homepage": ""
-  },
-  {
    "id": "4076928",
    "title": "Hangang River Festival",
    "category": "festival",
@@ -18067,6 +18049,24 @@
    "end": "20261025",
    "overview": "The 2026 Yeoju Ogoknaru Festival celebrates Yeoju's traditional culture and history, harking back to a time when local specialties such as rice and sweet potatoes were shipped from Jopo Quay as tribute offerings to the royal court during the Joseon dynasty. Highlights include the Royal Tribute Parade, Bibimbap with Cast-Iron-Pot-Cooked Yeoju Rice, Roasted Sweet Potato Guinness, Wish Paper Trail, and Nakhwanori, along with local produce markets, food stalls, traditional cultural activities, and performances. Visitors can also sample a wide range of locally grown produce and enjoy hands-on progr",
    "homepage": ""
+  },
+  {
+   "id": "ko-4134915",
+   "title": "성남테크아트페스티벌",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Bundang-gu, Seongnam-si",
+   "addr": "",
+   "tel": "031-783-8000",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/21/4134921_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/21/4134921_image3_1.jpg",
+   "lat": 37.3947948423,
+   "lng": 127.1109897227,
+   "start": "20261023",
+   "end": "20261025",
+   "homepage": "https://www.seongnamfestival.com/",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-2872078",
@@ -18411,6 +18411,24 @@
    "ko": true
   },
   {
+   "id": "ko-3348362",
+   "title": "성북거리문화축제 다다페스타",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Seongbuk-gu",
+   "addr": "",
+   "tel": "02-6906-9298",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/37/4113337_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/37/4113337_image3_1.JPG",
+   "lat": 37.6182190963,
+   "lng": 127.0510932378,
+   "start": "20261031",
+   "end": "20261031",
+   "homepage": "https://dadafesta.github.io/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "ko-4121348",
    "title": "동두천시 책문화축제",
    "category": "festival",
@@ -18445,6 +18463,42 @@
    "homepage": "https://www.pccf.or.kr/evnt/evntView.do?evntSn=2609040001",
    "source": "kor",
    "title_ko": "마토예술제"
+  },
+  {
+   "id": "ko-4134876",
+   "title": "고양도시농업축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Ilsandong-gu, Goyang-si",
+   "addr": "",
+   "tel": "031-8075-4279",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/77/4134877_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/77/4134877_image3_1.png",
+   "lat": 37.6579266299,
+   "lng": 126.7700640931,
+   "start": "20261031",
+   "end": "20261101",
+   "homepage": "https://www.goyang.go.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-4134834",
+   "title": "지평전통발효축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Yangpyeong-gun",
+   "addr": "",
+   "tel": "010-3868-2099",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/35/4134835_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/4134835_image3_1.jpg",
+   "lat": 37.4744917846,
+   "lng": 127.6393184412,
+   "start": "20261031",
+   "end": "20261101",
+   "homepage": "https://jipyeongfestival.com/",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-2789700",
@@ -18555,24 +18609,6 @@
    "title_ko": "산북AI김장문화축제"
   },
   {
-   "id": "ko-3555835",
-   "title": "안산사이언스밸리(ASV) 과학축제",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Sangnok-gu, Ansan-si",
-   "addr": "",
-   "tel": "02-780-6881",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/13/4133513_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/4133513_image3_1.jpg",
-   "lat": 37.3001630571,
-   "lng": 126.8377108256,
-   "start": "20261107",
-   "end": "20261108",
-   "homepage": "https://asv-2026-delta.vercel.app/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-2769990",
    "title": "2026 대한민국 우리술 대축제",
    "category": "festival",
@@ -18604,7 +18640,7 @@
    "lng": 127.236500949,
    "start": "20261114",
    "end": "20261114",
-   "homepage": "",
+   "homepage": "https://p-petstar.imweb.me/",
    "source": "kor",
    "ko": true
   },
