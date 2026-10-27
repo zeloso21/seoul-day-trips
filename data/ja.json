@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T08:07+09:00",
+ "updated": "2026-10-28T07:57+09:00",
  "places": [
+  {
+   "id": "4137320",
+   "title": "(株)ハンスコーポレーション",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "カピョン(加平)郡",
+   "addr": "キョンギ道カピョン郡ソラク面ハンソロ119-72、1階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.6737030408,
+   "lng": 127.50733301,
+   "title_ko": "(주)한수코퍼레이션"
+  },
   {
    "id": "3364731",
    "title": "(株)メディックテル",
@@ -8236,6 +8250,20 @@
    "title_ko": "(주)내주여행사"
   },
   {
+   "id": "4137361",
+   "title": "(株)ノニツアー",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "ソデムン(西大門)区",
+   "addr": "ソウル特別市ソデムン区シンチョンロ283、2階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5576033355,
+   "lng": 126.957680773,
+   "title_ko": "(주)노니투어"
+  },
+  {
    "id": "3364618",
    "title": "(株)ハッピーメディオン",
    "category": "attraction",
@@ -8810,6 +8838,20 @@
    "title_ko": "클림의원 홍대점"
   },
   {
+   "id": "4137391",
+   "title": "Kleamクリニック明洞店",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "チュン(中)区",
+   "addr": "ソウル特別市チュン区ミョンドンギル43、4～5階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5639981807,
+   "lng": 126.9847370548,
+   "title_ko": "클림의원 명동점"
+  },
+  {
    "id": "3407923",
    "title": "L CRÉER（エルクレー）",
    "category": "attraction",
@@ -8866,6 +8908,20 @@
    "title_ko": "엠에스안과의원"
   },
   {
+   "id": "4137131",
+   "title": "NAOLクリニック",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区トサンデロ329、3階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5232166391,
+   "lng": 127.0379155376,
+   "title_ko": "청담나올의원"
+  },
+  {
    "id": "3364906",
    "title": "Nana Plastic Surgery",
    "category": "attraction",
@@ -8919,6 +8975,20 @@
    "lat": 37.505070562,
    "lng": 127.0254101547,
    "title_ko": "스탠탑비뇨의학과의원"
+  },
+  {
+   "id": "4137251",
+   "title": "T1クリニック",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区テヘランロ513、Kタワー15階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5080031582,
+   "lng": 127.0588871858,
+   "title_ko": "티원의원"
   },
   {
    "id": "3549041",
@@ -9339,6 +9409,20 @@
    "lat": 37.5231076562,
    "lng": 127.0420970134,
    "title_ko": "오가나셀피부과의원"
+  },
+  {
+   "id": "4137292",
+   "title": "オガナセル皮膚科クリニック麻谷店",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンソ(江西)区",
+   "addr": "ソウル特別市カンソ区マゴクチュンアンロ105-7、ケースクエアタワー4 2階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5629234843,
+   "lng": 126.8260768878,
+   "title_ko": "오가나셀피부과의원 마곡점"
   },
   {
    "id": "3364921",
@@ -10097,6 +10181,20 @@
    "title_ko": "서울 몽촌토성"
   },
   {
+   "id": "4137047",
+   "title": "ソウル大学歯科病院",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チョンノ区テハクロ101",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5804523853,
+   "lng": 126.9971964379,
+   "title_ko": "서울대학교치과병원"
+  },
+  {
    "id": "3548444",
    "title": "ソウル大学病院",
    "category": "attraction",
@@ -10517,6 +10615,20 @@
    "title_ko": "종로3가 포장마차 거리"
   },
   {
+   "id": "4137471",
+   "title": "ディーデイ美容外科",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区トサンデロ134、シヨンビル9階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5173531693,
+   "lng": 127.023380584,
+   "title_ko": "디데이성형외과의원"
+  },
+  {
    "id": "1259761",
    "title": "トゥクソム漢江公園",
    "category": "attraction",
@@ -10529,6 +10641,20 @@
    "lat": 37.5293645661,
    "lng": 127.073978184,
    "title_ko": "뚝섬한강공원"
+  },
+  {
+   "id": "4137107",
+   "title": "トゥバルロ病院",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区アックジョンロ30ギル45、2～4階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5243502736,
+   "lng": 127.0294032394,
+   "title_ko": "두발로병원"
   },
   {
    "id": "3364886",
@@ -14020,13 +14146,13 @@
    "title": "礼智院",
    "category": "attraction",
    "region": "seoul",
-   "city": "中区",
-   "addr": "ソウル特別市チュン区チャンチュンダンロ72",
+   "city": "ソンブク(城北)区",
+   "addr": "ソウル特別市ソンブク区キルムロ13ギル39",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/04/696904_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/696904_image3_1.jpg",
-   "lat": 37.5515258689,
-   "lng": 127.002658134,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/98/696898_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/98/696898_image3_1.jpg",
+   "lat": 37.608875663,
+   "lng": 127.0181502452,
    "title_ko": "예지원"
   },
   {
@@ -18156,6 +18282,24 @@
    "homepage": "https://jijidaeak.com/"
   },
   {
+   "id": "ko-292961",
+   "title": "서울 왕궁수문장 교대의식",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チュン(中)区",
+   "addr": "",
+   "tel": "02-6242-7402",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/79/4039379_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/79/4039379_image3_1.jpg",
+   "lat": 37.565054919430565,
+   "lng": 126.97657463444833,
+   "start": "20260101",
+   "end": "20261231",
+   "homepage": "http://www.royalguard.kr",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "ko-3107059",
    "title": "2026 숭례문 파수의식",
    "category": "festival",
@@ -18749,24 +18893,6 @@
    "ko": true
   },
   {
-   "id": "ko-2622167",
-   "title": "2026 경북사과홍보행사",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チュン(中)区",
-   "addr": "",
-   "tel": "대경사과원예농협 053-740-3033경상북도 스마트농업혁신과 054-880-3376",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/12/4132112_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/4132112_image3_1.jpg",
-   "lat": 37.565448355,
-   "lng": 126.9787818353,
-   "start": "20261102",
-   "end": "20261104",
-   "homepage": "",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "4116277",
    "title": "BEAUTY SUM水原",
    "category": "festival",
@@ -18999,42 +19125,6 @@
    "homepage": "https://hugrun.kr/",
    "source": "kor",
    "ko": true
-  },
-  {
-   "id": "4135181",
-   "title": "ソウルライト光化門",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "ソウル特別市チョンノ区セジョンロ 1-68 5号線光化門駅",
-   "tel": "+82-2-2133-1936",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/04/3581704_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/3581704_image3_1.jpg",
-   "lat": 37.5716249337,
-   "lng": 126.9767679222,
-   "title_ko": "서울라이트 광화문",
-   "start": "20261211",
-   "end": "20270103",
-   "overview": "ソウルライト光化門（クァンファムン）は、誰もがともに楽しめるメディアアートと文化芸術コンテンツで構成された、ソウルを代表する光の祭典です。ソウルは、多くの人々の動きや物語が集まり、ひとつの生命体のように変化し続ける都市です。その中心に立つ光化門は、長い歴史と市民の暮らしが紡がれてきたソウルの象徴的な空間であり、韓国の近代において初めて電灯がともり、都市の夜が光を得た「光の出発点」でもあります。その光は単に暗闇を照らすにとどまらず、人々の日常や文化を変化させてきました。そしてその流れは今も続き、私たちの暮らしのそこかしこで都市のリズムを生み出しています。ソウルライト光化門は、その最初の光が灯った場所から、ソウルの変化を再び光で照らし出します。",
-   "homepage": ""
-  },
-  {
-   "id": "1956428",
-   "title": "ソウルランタンフェスティバル",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "ソウル特別市チュン区テピョンロ1ガ1（清渓広場～三一橋）",
-   "tel": "+82-2-3788-8168",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image3_1.jpg",
-   "lat": 37.569204,
-   "lng": 126.977633,
-   "title_ko": "서울빛초롱축제",
-   "start": "20261211",
-   "end": "20270131",
-   "overview": "ソウルランタンフェスティバルは2009年に初めて開催されて以来ソウルを代表する夜の光祭りとしてランタン展示やさまざまな体験プログラムなど多彩な見どころを提供しています。",
-   "homepage": "http://stolantern.com"
   },
   {
    "id": "ko-4115260",

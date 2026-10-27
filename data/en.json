@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:07+09:00",
+ "updated": "2026-10-28T07:57+09:00",
  "places": [
   {
    "id": "1426597",
@@ -1344,6 +1344,20 @@
    "lat": 37.5962044468569,
    "lng": 126.826085482108,
    "title_ko": "행주산성먹거리촌"
+  },
+  {
+   "id": "4137319",
+   "title": "HANSOO CORPORATION Co., Ltd.",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "Gapyeong-gun",
+   "addr": "1F, 119-72, Hanseo-ro, Seorak-myeon, Gapyeong-gun, Gyeonggi-do",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.6737030408,
+   "lng": 127.50733301,
+   "title_ko": "(주)한수코퍼레이션"
   },
   {
    "id": "3093062",
@@ -8572,6 +8586,20 @@
    "title_ko": "청담패션거리"
   },
   {
+   "id": "4137130",
+   "title": "Cheongdam NAOL Clinic",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "3F, 329, Dosan-daero, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5232166391,
+   "lng": 127.0379155376,
+   "title_ko": "청담나올의원"
+  },
+  {
    "id": "3074203",
    "title": "Cheonggyecheon Old Books Street",
    "category": "attraction",
@@ -8810,6 +8838,20 @@
    "title_ko": "문화역 서울 284"
   },
   {
+   "id": "4137470",
+   "title": "D-Day Plastic Surgery",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "9F, Siyeon Building, 134, Dosan-daero, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5173531693,
+   "lng": 127.023380584,
+   "title_ko": "디데이성형외과의원"
+  },
+  {
    "id": "3549075",
    "title": "DA Plastic Surgery",
    "category": "attraction",
@@ -8892,6 +8934,20 @@
    "lat": 37.5144002055,
    "lng": 127.0349617988,
    "title_ko": "닥터안헤어플란트의원"
+  },
+  {
+   "id": "4137106",
+   "title": "DUBALO HOSPITAL",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "2F–4F, 45, Apgujeong-ro 30-gil, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5243502736,
+   "lng": 127.0294032394,
+   "title_ko": "두발로병원"
   },
   {
    "id": "1751264",
@@ -10671,6 +10727,20 @@
    "title_ko": "꿩고개공원"
   },
   {
+   "id": "4137390",
+   "title": "Kleam Clinic Myeongdong",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "4F–5F, 43, Myeongdong-gil, Jung-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5639981807,
+   "lng": 126.9847370548,
+   "title_ko": "클림의원 명동점"
+  },
+  {
    "id": "3473879",
    "title": "Kleam Skin Clinic Hongdae",
    "category": "attraction",
@@ -11567,6 +11637,20 @@
    "title_ko": "남산서울타워"
   },
   {
+   "id": "4137360",
+   "title": "NONI Tour Co., Ltd.",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Seodaemun-gu",
+   "addr": "2F, 283, Sinchon-ro, Seodaemun-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5576033355,
+   "lng": 126.957680773,
+   "title_ko": "(주)노니투어"
+  },
+  {
    "id": "264478",
    "title": "Naksan Park",
    "category": "attraction",
@@ -11775,6 +11859,20 @@
    "lat": 37.5231076562,
    "lng": 127.0420970134,
    "title_ko": "오가나셀피부과의원"
+  },
+  {
+   "id": "4137291",
+   "title": "Oganacell Dermatology Clinic Magok",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangseo-gu",
+   "addr": "2F, K-Square Tower 4, 105-7, Magokjungang-ro, Gangseo-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5629234843,
+   "lng": 126.8260768878,
+   "title_ko": "오가나셀피부과의원 마곡점"
   },
   {
    "id": "3106653",
@@ -12784,6 +12882,20 @@
    "title_ko": "국립서울현충원"
   },
   {
+   "id": "4137045",
+   "title": "Seoul National University Dental Hospital",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Jongno-gu",
+   "addr": "101, Daehak-ro, Jongno-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5804523853,
+   "lng": 126.9971964379,
+   "title_ko": "서울대학교치과병원"
+  },
+  {
    "id": "3548388",
    "title": "Seoul National University Hospital",
    "category": "attraction",
@@ -13285,6 +13397,20 @@
    "lat": 37.6211940583,
    "lng": 126.9196498398,
    "title_ko": "주식회사 싱크버스"
+  },
+  {
+   "id": "4137250",
+   "title": "T1 CLINIC",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "15F, K Tower, 513, Teheran-ro, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5080031582,
+   "lng": 127.0588871858,
+   "title_ko": "티원의원"
   },
   {
    "id": "3574535",
@@ -13837,13 +13963,13 @@
    "title": "Yejiwon",
    "category": "attraction",
    "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "72, Jangchungdan-ro, Jung-gu, Seoul",
+   "city": "Seongbuk-gu",
+   "addr": "39 Gireum-ro 13-gil, Seongbuk-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/04/696904_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/696904_image3_1.jpg",
-   "lat": 37.5515258689,
-   "lng": 127.002658134,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/98/696898_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/98/696898_image3_1.jpg",
+   "lat": 37.608875663,
+   "lng": 127.0181502452,
    "title_ko": "예지원"
   },
   {
@@ -15200,8 +15326,8 @@
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/89/3082989_image2_1.JPG",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/89/3082989_image3_1.JPG",
-   "lat": 37.57407964487556,
-   "lng": 126.97755957730631,
+   "lat": 37.5740796449,
+   "lng": 126.9775595773,
    "title_ko": "대한민국역사박물관"
   },
   {
@@ -15242,8 +15368,8 @@
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/75/3350375_image2_1.jpg",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/75/3350375_image3_1.jpg",
-   "lat": 37.57659156422034,
-   "lng": 126.97497486352258,
+   "lat": 37.5765915642,
+   "lng": 126.9749748635,
    "title_ko": "국립고궁박물관"
   },
   {
