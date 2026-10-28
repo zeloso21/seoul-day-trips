@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:57+09:00",
+ "updated": "2026-10-29T08:13+09:00",
  "places": [
   {
    "id": "1426597",
@@ -18083,24 +18083,6 @@
    "ko": true
   },
   {
-   "id": "ko-3348362",
-   "title": "성북거리문화축제 다다페스타",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Seongbuk-gu",
-   "addr": "",
-   "tel": "02-6906-9298",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/37/4113337_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/37/4113337_image3_1.JPG",
-   "lat": 37.6182190963,
-   "lng": 127.0510932378,
-   "start": "20261031",
-   "end": "20261031",
-   "homepage": "https://dadafesta.github.io/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-4121348",
    "title": "동두천시 책문화축제",
    "category": "festival",
@@ -18155,22 +18137,22 @@
    "ko": true
   },
   {
-   "id": "ko-4134834",
-   "title": "지평전통발효축제",
+   "id": "ko-3383613",
+   "title": "Goyang Haengju Hanwoo Beef BBQ Festival",
    "category": "festival",
    "region": "gyeonggi",
-   "city": "Yangpyeong-gun",
+   "city": "Deogyang-gu, Goyang-si",
    "addr": "",
-   "tel": "010-3868-2099",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/35/4134835_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/4134835_image3_1.jpg",
-   "lat": 37.4744917846,
-   "lng": 127.6393184412,
+   "tel": "031-960-3034,3050",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image3_1.JPG",
+   "lat": 37.6546697725,
+   "lng": 126.832763872,
    "start": "20261031",
    "end": "20261101",
-   "homepage": "https://jipyeongfestival.com/",
+   "homepage": "http://gyfestival.kr/",
    "source": "kor",
-   "ko": true
+   "title_ko": "고양행주한우 숯불구이축제"
   },
   {
    "id": "ko-2789700",

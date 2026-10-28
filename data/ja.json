@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:57+09:00",
+ "updated": "2026-10-29T08:13+09:00",
  "places": [
   {
    "id": "4137320",
@@ -7438,20 +7438,6 @@
    "title_ko": "청라호수공원"
   },
   {
-   "id": "3078705",
-   "title": "韓中園",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "チェムルポ(済物浦)区",
-   "addr": "インチョン広域市チェムルポ区ソンリン洞20",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/61/3071261_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/61/3071261_image3_1.jpg",
-   "lat": 37.4740072065,
-   "lng": 126.6186813119,
-   "title_ko": "한중원"
-  },
-  {
    "id": "2559123",
    "title": "首都圏埋立地ドリームパーク野生花団地",
    "category": "attraction",
@@ -7568,13 +7554,13 @@
    "title": "ジャージャー麺博物館",
    "category": "culture",
    "region": "incheon",
-   "city": "中区",
-   "addr": "インチョン広域市チュン区チャイナタウンロ56-14",
+   "city": "チェムルポ(済物浦)区",
+   "addr": "インチョン広域市チェムルポ区チャイナタウンロ56-14",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/06/2363706_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/06/2363706_image3_1.jpg",
-   "lat": 37.4748446068,
-   "lng": 126.6181814505,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/22/4056222_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/22/4056222_image3_1.jpg",
+   "lat": 37.4747905471,
+   "lng": 126.6181675445,
    "title_ko": "짜장면박물관"
   },
   {
@@ -7940,6 +7926,20 @@
    "lat": 37.4740212034,
    "lng": 126.6185591944,
    "title_ko": "태화원"
+  },
+  {
+   "id": "3100635",
+   "title": "トルゴレピザ",
+   "category": "food",
+   "region": "incheon",
+   "city": "チェムルポ(済物浦)区",
+   "addr": "インチョン広域市チェムルポ区トンファマウルアンギル9-1",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/77/1990477_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/77/1990477_image3_1.jpg",
+   "lat": 37.478778992,
+   "lng": 126.6205588662,
+   "title_ko": "돌고래피자"
   },
   {
    "id": "3438248",
@@ -18785,24 +18785,6 @@
    "ko": true
   },
   {
-   "id": "ko-3348362",
-   "title": "성북거리문화축제 다다페스타",
-   "category": "festival",
-   "region": "seoul",
-   "city": "ソンブク(城北)区",
-   "addr": "",
-   "tel": "02-6906-9298",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/37/4113337_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/37/4113337_image3_1.JPG",
-   "lat": 37.6182190963,
-   "lng": 127.0510932378,
-   "start": "20261031",
-   "end": "20261031",
-   "homepage": "https://dadafesta.github.io/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-4121348",
    "title": "동두천시 책문화축제",
    "category": "festival",
@@ -18857,22 +18839,22 @@
    "ko": true
   },
   {
-   "id": "ko-4134834",
-   "title": "지평전통발효축제",
+   "id": "ko-3383613",
+   "title": "高陽幸州韓牛炭火焼き祭り",
    "category": "festival",
    "region": "gyeonggi",
-   "city": "ヤンピョン(楊平)郡",
+   "city": "コヤン(高陽)市トギャン(徳陽)区",
    "addr": "",
-   "tel": "010-3868-2099",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/35/4134835_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/4134835_image3_1.jpg",
-   "lat": 37.4744917846,
-   "lng": 127.6393184412,
+   "tel": "031-960-3034,3050",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image3_1.JPG",
+   "lat": 37.6546697725,
+   "lng": 126.832763872,
    "start": "20261031",
    "end": "20261101",
-   "homepage": "https://jipyeongfestival.com/",
+   "homepage": "http://gyfestival.kr/",
    "source": "kor",
-   "ko": true
+   "title_ko": "고양행주한우 숯불구이축제"
   },
   {
    "id": "ko-2789700",
