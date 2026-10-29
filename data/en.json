@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:13+09:00",
+ "updated": "2026-10-30T08:18+09:00",
  "places": [
   {
    "id": "1426597",
@@ -8222,6 +8222,34 @@
    "title_ko": "반포한강공원"
   },
   {
+   "id": "4139943",
+   "title": "BeautsGO Co,.Ltd.",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "#1424, Geopyeong Town, 129, Bongeunsa-ro, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.505916453,
+   "lng": 127.0283134289,
+   "title_ko": "(주)뷰츠고"
+  },
+  {
+   "id": "4139260",
+   "title": "Biopharma Korea Co., Ltd.",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "3F, 11, Bongeunsa-ro 68-gil, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5112297267,
+   "lng": 127.0503547005,
+   "title_ko": "(유)바이오파마코리아"
+  },
+  {
    "id": "1684868",
    "title": "Bonghwasan Mountain - Seoul",
    "category": "attraction",
@@ -8248,6 +8276,20 @@
    "lat": 37.5723974448,
    "lng": 126.9469959488,
    "title_ko": "봉원사"
+  },
+  {
+   "id": "4139839",
+   "title": "Bonjung Korean Medicine Clinic",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Jongno-gu",
+   "addr": "4F, Owon Building, 20, Insadong 5-gil, Jongno-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5726755449,
+   "lng": 126.9851695171,
+   "title_ko": "본정한의원"
   },
   {
    "id": "264135",
@@ -8472,6 +8514,20 @@
    "lat": 37.4988268657,
    "lng": 127.026707435,
    "title_ko": "코앤미성형외과의원"
+  },
+  {
+   "id": "4139568",
+   "title": "Cellon Dermatology Clinic",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "3F, 37, Seolleung-ro 152-gil, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5246449948,
+   "lng": 127.0426787858,
+   "title_ko": "셀온피부과의원"
   },
   {
    "id": "3366179",
@@ -8766,6 +8822,20 @@
    "lat": 37.5046316919,
    "lng": 127.0236103311,
    "title_ko": "클린외과의원"
+  },
+  {
+   "id": "4139271",
+   "title": "CloudHospital Inc.",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "4F, JS Tower, 6, Teheran-ro 79-gil, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.507316999,
+   "lng": 127.0556322889,
+   "title_ko": "클라우드호스피탈"
   },
   {
    "id": "4095678",
@@ -10643,6 +10713,20 @@
    "title_ko": "똑똑플란트치과의원"
   },
   {
+   "id": "4139654",
+   "title": "KOREA VIBE Co., Ltd.",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "#1124, 11F, 117, Namdaemun-ro, Jung-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5677837366,
+   "lng": 126.9823058234,
+   "title_ko": "(주)코리아바이브"
+  },
+  {
    "id": "3365815",
    "title": "KUIMS",
    "category": "attraction",
@@ -10683,6 +10767,20 @@
    "lat": 37.6649464754,
    "lng": 127.0282025819,
    "title_ko": "간송옛집"
+  },
+  {
+   "id": "4139246",
+   "title": "Keye Eye Clinic",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "2F & 12F, Yeoksam I Tower, 326, Teheran-ro, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5035470556,
+   "lng": 127.047033596,
+   "title_ko": "카이안과의원"
   },
   {
    "id": "1220743",
@@ -12069,6 +12167,20 @@
    "lat": 37.5077180576,
    "lng": 127.0577404698,
    "title_ko": "레이비즈니스그룹(주)"
+  },
+  {
+   "id": "4139878",
+   "title": "ReaLee Plastic Surgery Clinic",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "7F, City Building, 422, Gangnam-daero, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5003941401,
+   "lng": 127.0269849085,
+   "title_ko": "리얼리성형외과의원"
   },
   {
    "id": "3400913",
@@ -13875,6 +13987,20 @@
    "title_ko": "연세힐치과의원"
   },
   {
+   "id": "4139904",
+   "title": "YOU&I Clinic Hongdae-Sinchon Branch",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Mapo-gu",
+   "addr": "5F, Joeunsaramdeul Building, 162, Yanghwa-ro, Mapo-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.556413555,
+   "lng": 126.9238812248,
+   "title_ko": "유앤아이의원 홍대신촌점"
+  },
+  {
    "id": "3562610",
    "title": "YOU&I Clinic Jamsil",
    "category": "attraction",
@@ -13929,6 +14055,20 @@
    "lat": 37.5617264973,
    "lng": 127.0342417873,
    "title_ko": "유앤아이의원 왕십리점"
+  },
+  {
+   "id": "4139598",
+   "title": "YOU&I Clinic Yeongdeungpo Branch",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Yeongdeungpo-gu",
+   "addr": "7F, Esher Building, 12, Yeongjung-ro, Yeongdeungpo-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5176176143,
+   "lng": 126.9065069806,
+   "title_ko": "유앤아이의원 영등포점"
   },
   {
    "id": "3539998",
@@ -18403,6 +18543,24 @@
    "start": "20261205",
    "end": "20261205",
    "homepage": "https://hugrun.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3035607",
+   "title": "광화문 마켓",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Jongno-gu",
+   "addr": "",
+   "tel": "02-3788-8105",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image3_1.jpg",
+   "lat": 37.5716249337,
+   "lng": 126.9767679222,
+   "start": "20261211",
+   "end": "20270110",
+   "homepage": "https://www.stolantern.com/",
    "source": "kor",
    "ko": true
   },

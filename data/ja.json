@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:13+09:00",
+ "updated": "2026-10-30T08:18+09:00",
  "places": [
   {
    "id": "4137320",
@@ -6209,13 +6209,13 @@
    "title": "モク島",
    "category": "attraction",
    "region": "incheon",
-   "city": "甕津郡",
-   "addr": "インチョン広域市ウンジン郡ヨンフン面ソンジェ里サン113",
+   "city": "オンジン(甕津)郡",
+   "addr": "インチョン広域市オンジン郡ヨンフン面ソンジェ里",
    "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.2292466213,
-   "lng": 126.5327987706,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/64/3517564_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/64/3517564_image3_1.jpg",
+   "lat": 37.2289,
+   "lng": 126.5327,
    "title_ko": "목섬"
   },
   {
@@ -6952,13 +6952,13 @@
    "title": "永宗大橋",
    "category": "attraction",
    "region": "incheon",
-   "city": "西区",
-   "addr": "インチョン広域市ソ区キョンソ洞（チャンド）",
+   "city": "ソヘ(西海)区",
+   "addr": "インチョン広域市ソヘ区チョンソジンナムロ25",
    "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5410416276,
-   "lng": 126.5707200573,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/33/4100633_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/33/4100633_image3_1.jpg",
+   "lat": 37.5537785583,
+   "lng": 126.607057484,
    "title_ko": "영종대교"
   },
   {
@@ -7774,20 +7774,6 @@
    "title_ko": "송도컨벤시아"
   },
   {
-   "id": "1008528",
-   "title": "水道局山タルドンネ博物館",
-   "category": "culture",
-   "region": "incheon",
-   "city": "チェムルポ(済物浦)区",
-   "addr": "インチョン広域市トン区ソルピッロ51",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/42/1578842_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/42/1578842_image3_1.jpg",
-   "lat": 37.4774267089,
-   "lng": 126.6391348674,
-   "title_ko": "수도국산달동네박물관"
-  },
-  {
    "id": "1942518",
    "title": "緑青瓷博物館",
    "category": "culture",
@@ -8236,6 +8222,34 @@
    "title_ko": "함허동천야영장"
   },
   {
+   "id": "4139261",
+   "title": "(有)バイオファーマコリア",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区ポンウンサロ68ギル11、3階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5112297267,
+   "lng": 127.0503547005,
+   "title_ko": "(유)바이오파마코리아"
+  },
+  {
+   "id": "4139656",
+   "title": "(株)コリアバイブ",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "チュン(中)区",
+   "addr": "ソウル特別市チュン区ナムデムンロ117、11階1124号",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5677837366,
+   "lng": 126.9823058234,
+   "title_ko": "(주)코리아바이브"
+  },
+  {
    "id": "3364737",
    "title": "(株)ネジュ旅行社",
    "category": "attraction",
@@ -8276,6 +8290,20 @@
    "lat": 37.5041543802,
    "lng": 127.0464777071,
    "title_ko": "(주)해피메디온"
+  },
+  {
+   "id": "4139944",
+   "title": "(株)ビューツゴー",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区ポンウンサロ129、コピョンタウン1424号",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.505916453,
+   "lng": 127.0283134289,
+   "title_ko": "(주)뷰츠고"
   },
   {
    "id": "3366243",
@@ -9047,6 +9075,20 @@
    "title_ko": "유앤아이의원 건대점"
   },
   {
+   "id": "4139906",
+   "title": "YOU&I美容クリニック弘大新村店",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "マポ(麻浦)区",
+   "addr": "ソウル特別市マポ区ヤンファロ162、チョウンサラムドゥルビル5階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.556413555,
+   "lng": 126.9238812248,
+   "title_ko": "유앤아이의원 홍대신촌점"
+  },
+  {
    "id": "3562593",
    "title": "YOU&I美容クリニック往十里店",
    "category": "attraction",
@@ -9073,6 +9115,20 @@
    "lat": 37.5641850248,
    "lng": 126.9830046135,
    "title_ko": "유앤아이의원 명동점"
+  },
+  {
+   "id": "4139617",
+   "title": "YOU&I美容クリニック永登浦店",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "ヨンドゥンポ(永登浦)区",
+   "addr": "ソウル特別市ヨンドゥンポ区ヨンジュンロ12、エシェルビル7階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5176176143,
+   "lng": 126.9065069806,
+   "title_ko": "유앤아이의원 영등포점"
   },
   {
    "id": "3364595",
@@ -9509,6 +9565,20 @@
    "title_ko": "오드의원"
   },
   {
+   "id": "4139248",
+   "title": "カイ眼科医院",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区テヘランロ326、ヨクサムアイタワー2階、12階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5035470556,
+   "lng": 127.047033596,
+   "title_ko": "카이안과의원"
+  },
+  {
    "id": "3365022",
    "title": "カトリック大学 汝矣島聖母病院",
    "category": "attraction",
@@ -9605,6 +9675,20 @@
    "lat": 37.549969869,
    "lng": 127.1222583979,
    "title_ko": "광나루한강공원"
+  },
+  {
+   "id": "4139272",
+   "title": "クラウドホスピタル",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区テヘランロ79ギル6、JSタワー4階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.507316999,
+   "lng": 127.0556322889,
+   "title_ko": "클라우드호스피탈"
   },
   {
    "id": "3562760",
@@ -9969,6 +10053,20 @@
    "lat": 37.5603598026,
    "lng": 126.9384859539,
    "title_ko": "연세대학교 치과대학병원"
+  },
+  {
+   "id": "4139570",
+   "title": "セロン皮膚科",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区ソンルンロ152ギル37、3階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5246449948,
+   "lng": 127.0426787858,
+   "title_ko": "셀온피부과의원"
   },
   {
    "id": "3580255",
@@ -11259,6 +11357,20 @@
    "title_ko": "홍대 아이디의원"
   },
   {
+   "id": "4139841",
+   "title": "ボンジョン韓医院",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チョンノ区インサドン5ギル20、オウォンビル4階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5726755449,
+   "lng": 126.9851695171,
+   "title_ko": "본정한의원"
+  },
+  {
    "id": "984453",
    "title": "ポラメ公園",
    "category": "attraction",
@@ -11579,6 +11691,20 @@
    "lat": 37.5035012829,
    "lng": 127.0244630632,
    "title_ko": "랑뜨산부인과의원"
+  },
+  {
+   "id": "4139881",
+   "title": "リアリー美容外科",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区カンナムデロ422、シティビル7階",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5003941401,
+   "lng": 127.0269849085,
+   "title_ko": "리얼리성형외과의원"
   },
   {
    "id": "3400847",
@@ -18379,8 +18505,8 @@
    "city": "パジュ(坡州)市",
    "addr": "",
    "tel": "031-870-9110",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/50/4127750_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/50/4127750_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/22/4140222_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/22/4140222_image3_1.jpg",
    "lat": 37.7832839326,
    "lng": 126.6946859929,
    "start": "20260314",
@@ -19105,6 +19231,24 @@
    "start": "20261205",
    "end": "20261205",
    "homepage": "https://hugrun.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3035607",
+   "title": "광화문 마켓",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "",
+   "tel": "02-3788-8105",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image3_1.jpg",
+   "lat": 37.5716249337,
+   "lng": 126.9767679222,
+   "start": "20261211",
+   "end": "20270110",
+   "homepage": "https://www.stolantern.com/",
    "source": "kor",
    "ko": true
   },
