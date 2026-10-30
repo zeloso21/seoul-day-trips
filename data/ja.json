@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:18+09:00",
+ "updated": "2026-10-31T07:58+09:00",
  "places": [
   {
    "id": "4137320",
@@ -2550,20 +2550,6 @@
    "title_ko": "권율장군묘"
   },
   {
-   "id": "2996388",
-   "title": "水の庭園",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "南楊州市",
-   "addr": "キョンギ道ナミャンジュ市チョアン面プクハンガンロ398",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/12/2675412_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/2675412_image2_1.jpg",
-   "lat": 37.5575613373,
-   "lng": 127.3132463631,
-   "title_ko": "물의정원"
-  },
-  {
    "id": "2659251",
    "title": "水原チキン屋通り",
    "category": "attraction",
@@ -4203,20 +4189,6 @@
    "title_ko": "솔가람 아트홀"
   },
   {
-   "id": "1798937",
-   "title": "ピアトゥル（豚会いに来て）",
-   "category": "culture",
-   "region": "gyeonggi",
-   "city": "利川市",
-   "addr": "キョンギ道イチョン市ユル面イモサンロ372ボンギル133",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.0857708495,
-   "lng": 127.583907546,
-   "title_ko": "피아뜰(돼지보러오면돼지)"
-  },
-  {
    "id": "3495992",
    "title": "ピョルマダン図書館スターフィールド水原店",
    "category": "culture",
@@ -5799,20 +5771,6 @@
    "title_ko": "한국민속촌 눈썰매장"
   },
   {
-   "id": "3109903",
-   "title": "龍仁レジャースポーツ・屋外プール",
-   "category": "leisure",
-   "region": "gyeonggi",
-   "city": "龍仁市",
-   "addr": "キョンギ道ヨンイン市チョイン区イドン邑イウォンロ495",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/76/1875476_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/76/1875476_image3_1.jpg",
-   "lat": 37.1673885425,
-   "lng": 127.2402640594,
-   "title_ko": "용인레저스포츠 야외수영장"
-  },
-  {
    "id": "3487808",
    "title": "龍仁青少年修練院雪そり場",
    "category": "leisure",
@@ -6371,20 +6329,6 @@
    "lat": 37.4784005834,
    "lng": 126.4250029905,
    "title_ko": "인천국제공항 제2여객터미널"
-  },
-  {
-   "id": "2011849",
-   "title": "仁川国際空港スパ・オン・エア",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "中区",
-   "addr": "インチョン広域市チュン区コンハンロ271 （仁川国際空港旅客ターミナル地下1階）",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4539884835,
-   "lng": 126.4477253664,
-   "title_ko": "인천국제공항 스파온에어"
   },
   {
    "id": "2475802",
@@ -6966,13 +6910,13 @@
    "title": "永宗島",
    "category": "attraction",
    "region": "incheon",
-   "city": "中区",
-   "addr": "仁川広域市 永宗区 雲南西路100",
+   "city": "ヨンジョン(永宗)区",
+   "addr": "インチョン広域市ヨンジョン区ウンナムソロ100",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.4942297169,
-   "lng": 126.5315138256,
+   "lat": 37.4941755361,
+   "lng": 126.5315004726,
    "title_ko": "영종도"
   },
   {
@@ -7142,6 +7086,34 @@
    "lat": 37.7537263369,
    "lng": 126.4786892184,
    "title_ko": "강화향교"
+  },
+  {
+   "id": "1708155",
+   "title": "沿岸埠頭",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "チェムルポ(済物浦)区",
+   "addr": "インチョン広域市チェムルポ区ハン洞1ガ （港洞7街）",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/23/3518423_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/23/3518423_image3_1.jpg",
+   "lat": 37.454279,
+   "lng": 126.598615,
+   "title_ko": "연안부두"
+  },
+  {
+   "id": "1104875",
+   "title": "沿岸埠頭サッパ通り",
+   "category": "attraction",
+   "region": "incheon",
+   "city": "チェムルポ(済物浦)区",
+   "addr": "インチョン広域市チェムルポ区ハン洞7ガ",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/35/3518635_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/3518635_image3_1.jpg",
+   "lat": 37.456266,
+   "lng": 126.603466,
+   "title_ko": "연안부두 밴댕이회무침거리"
   },
   {
    "id": "2551777",
@@ -16368,20 +16340,6 @@
    "title_ko": "동림매듭공방"
   },
   {
-   "id": "281845",
-   "title": "梨花女子大学",
-   "category": "culture",
-   "region": "seoul",
-   "city": "ソデムン(西大門)区",
-   "addr": "ソウル特別市ソデムン区イファヨデギル52",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5592857652,
-   "lng": 126.9456807943,
-   "title_ko": "이화여자대학교"
-  },
-  {
    "id": "1957066",
    "title": "梨花女子大学博物館",
    "category": "culture",
@@ -16807,7 +16765,7 @@
    "category": "food",
    "region": "seoul",
    "city": "カンナム(江南)区",
-   "addr": "ソウル特別市カンナム区トゴクロ23ギル33（ヨクサム洞） 1階",
+   "addr": "ソウル特別市カンナム区トゴクロ23ギル33",
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/77/4068177_image2_1.jpg",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/77/4068177_image3_1.jpg",
@@ -18006,20 +17964,6 @@
    "title_ko": "[북한산 둘레길] 1 소나무숲길"
   },
   {
-   "id": "3491100",
-   "title": "アン山裾道",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "西大門区",
-   "addr": "ソウル特別市ソデムン区ポンウォンサギル75-66",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5712447878,
-   "lng": 126.9462682702,
-   "title_ko": "안산자락길"
-  },
-  {
    "id": "3026173",
    "title": "オリンピック公園体操競技場",
    "category": "leisure",
@@ -18090,20 +18034,6 @@
    "title_ko": "세븐럭카지노（강남코엑스점）"
   },
   {
-   "id": "2363294",
-   "title": "ソウルマリーナヨット＆クラブ",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "永登浦区",
-   "addr": "ソウル特別市ヨンドゥンポ区ヨウィソロ160",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/80/2601180_image2_1.bmp",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/2601180_image3_1.bmp",
-   "lat": 37.5348539529,
-   "lng": 126.9116252334,
-   "title_ko": "서울마리나 요트&클럽"
-  },
-  {
    "id": "282244",
    "title": "ソウルワールドカップ競技場",
    "category": "leisure",
@@ -18122,13 +18052,13 @@
    "title": "ソウル広場スケートリンク",
    "category": "leisure",
    "region": "seoul",
-   "city": "中区",
+   "city": "チュン(中)区",
    "addr": "ソウル特別市チュン区ウルチロ12",
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/00/3043800_image2_1.jpg",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/00/3043800_image3_1.jpg",
-   "lat": 37.5655015943,
-   "lng": 126.9787960237,
+   "lat": 37.5654470617,
+   "lng": 126.9787797829,
    "title_ko": "서울광장 스케이트장"
   },
   {
@@ -19105,24 +19035,6 @@
    "start": "20261113",
    "end": "20261115",
    "homepage": "https://thesool.com/",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-3545306",
-   "title": "포천펫스타",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "ポチョン(抱川)市",
-   "addr": "",
-   "tel": "0502-1949-0514",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
-   "lat": 37.9234466507,
-   "lng": 127.236500949,
-   "start": "20261114",
-   "end": "20261114",
-   "homepage": "https://p-petstar.imweb.me/",
    "source": "kor",
    "ko": true
   },

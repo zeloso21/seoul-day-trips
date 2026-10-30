@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:18+09:00",
+ "updated": "2026-10-31T07:58+09:00",
  "places": [
   {
    "id": "1426597",
@@ -2298,20 +2298,6 @@
    "title_ko": "남한산성 탐방로"
   },
   {
-   "id": "1245307",
-   "title": "Nami Island Zip Wire",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Gapyeong-gun",
-   "addr": "1024, Bukhangangbyeon-ro, Gapyeong-gun, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/33/2433833_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/33/2433833_image3_1.JPG",
-   "lat": 37.8043032299,
-   "lng": 127.5258031978,
-   "title_ko": "남이섬 짚와이어"
-  },
-  {
    "id": "778586",
    "title": "Namyangju Sareung Royal Tomb [UNESCO World Heritage]",
    "category": "attraction",
@@ -3502,20 +3488,6 @@
    "title_ko": "통일정보화마을"
   },
   {
-   "id": "2996449",
-   "title": "Water Garden",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Namyangju-si",
-   "addr": "398 , Bukhangang-ro, Namyangju-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/12/2675412_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/2675412_image2_1.jpg",
-   "lat": 37.5575585596,
-   "lng": 127.3132352539,
-   "title_ko": "물의정원"
-  },
-  {
    "id": "1320325",
    "title": "Wentteok Village",
    "category": "attraction",
@@ -3725,20 +3697,6 @@
    "lat": 37.2972478204,
    "lng": 127.6596974425,
    "title_ko": "신륵사(여주)"
-  },
-  {
-   "id": "3097660",
-   "title": "Yeoju Spa",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Yeoju-si",
-   "addr": "864 Gangmun-ro, Gangcheon-myeon, Yeoju-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/80/1591380_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/1591380_image3_1.jpg",
-   "lat": 37.2712048772,
-   "lng": 127.7288280586,
-   "title_ko": "여주온천"
   },
   {
    "id": "3097255",
@@ -4425,20 +4383,6 @@
    "lat": 37.4310034306829,
    "lng": 127.019929893981,
    "title_ko": "국립현대미술관 (과천관)"
-  },
-  {
-   "id": "1798813",
-   "title": "P.Atteul (Pig Museum)",
-   "category": "culture",
-   "region": "gyeonggi",
-   "city": "Icheon-si",
-   "addr": "133 Imosan-ro 372beon-gil, Yul-myeon, Icheon-si, Gyeonggi-do",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.0857708495,
-   "lng": 127.583907546,
-   "title_ko": "피아뜰(돼지보러오면돼지)"
   },
   {
    "id": "3097308",
@@ -5181,20 +5125,6 @@
    "lat": 37.4618867172,
    "lng": 126.8717253645,
    "title_ko": "광명시민체육관"
-  },
-  {
-   "id": "3096876",
-   "title": "Hantangang Tourist Area Auto Campground",
-   "category": "leisure",
-   "region": "gyeonggi",
-   "city": "Yeoncheon-gun",
-   "addr": "76 Seonsa-ro, Jeongok-eup, Yeoncheon-gun, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/29/2737629_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/29/2737629_image2_1.jpg",
-   "lat": 38.0088847395,
-   "lng": 127.0599647798,
-   "title_ko": "한탄강관광지 오토캠핑장"
   },
   {
    "id": "3505715",
@@ -6133,20 +6063,6 @@
    "lat": 37.4775306269,
    "lng": 126.6307274531,
    "title_ko": "인천 화평동 세숫대야 냉면 거리"
-  },
-  {
-   "id": "1545019",
-   "title": "Incheon International Airport Spa On Air",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "Jung-gu",
-   "addr": "271 Gonghang-ro, Yeongjong-gu, Incheon (Incheon International Airport Passenger Terminal, B1F)",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4539884835,
-   "lng": 126.4477253664,
-   "title_ko": "인천국제공항 스파온에어"
   },
   {
    "id": "2535677",
@@ -10531,20 +10447,6 @@
    "title_ko": "장덕한방병원"
   },
   {
-   "id": "3474120",
-   "title": "Jennyhouse",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "56 Seolleung-ro 146-gil, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/69/3474069_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/69/3474069_image3_1.jpg",
-   "lat": 37.5213912279,
-   "lng": 127.0442774197,
-   "title_ko": "제니하우스"
-  },
-  {
    "id": "264465",
    "title": "Jeoldusan Martyrs' Shrine",
    "category": "attraction",
@@ -13586,12 +13488,12 @@
    "category": "attraction",
    "region": "seoul",
    "city": "Jongno-gu",
-   "addr": "56, Ujeongguk-ro, Jongno-gu, Seoul",
+   "addr": "56 Ujeongguk-ro, Jongno-gu, Seoul",
    "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5739312489,
-   "lng": 126.9831814961,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/83/3050183_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/83/3050183_image3_1.JPG",
+   "lat": 37.5738766687,
+   "lng": 126.9831652256,
    "title_ko": "템플스테이 홍보관"
   },
   {
@@ -13901,20 +13803,6 @@
    "lat": 37.5452284392,
    "lng": 126.9503158589,
    "title_ko": "(주)우리클럽관광개발"
-  },
-  {
-   "id": "1024874",
-   "title": "Will Spa",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "524, Bongeunsa-ro, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.512928552,
-   "lng": 127.0570876042,
-   "title_ko": "윌스파"
   },
   {
    "id": "3099680",
@@ -14421,20 +14309,6 @@
    "title_ko": "아르코예술극장"
   },
   {
-   "id": "1240804",
-   "title": "Art Center K",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "101, Dongsung-gil, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/09/1837909_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/1837909_image3_1.jpg",
-   "lat": 37.5824611874,
-   "lng": 127.004012689,
-   "title_ko": "아트센터 K"
-  },
-  {
    "id": "3024927",
    "title": "Bank of Korea Money Museum",
    "category": "culture",
@@ -14797,20 +14671,6 @@
    "lat": 37.5658819712,
    "lng": 126.9713189165,
    "title_ko": "이화여고100주년기념관"
-  },
-  {
-   "id": "2992566",
-   "title": "Ewha Womans University",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Seodaemun-gu",
-   "addr": "52, Ewhayeodae-gil, Seodaemun-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5593378282,
-   "lng": 126.9456964364,
-   "title_ko": "이화여자대학교"
   },
   {
    "id": "1351623",
@@ -17598,20 +17458,6 @@
    "title_ko": "서대문 문화체육회관 실내수영장"
   },
   {
-   "id": "1391859",
-   "title": "Seoul Marina Club & Yacht",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "Yeongdeungpo-gu",
-   "addr": "160 Yeouiseo-ro, Yeongdeungpo-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/80/2601180_image2_1.bmp",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/2601180_image3_1.bmp",
-   "lat": 37.5348539529,
-   "lng": 126.9116252334,
-   "title_ko": "서울마리나 요트&클럽"
-  },
-  {
    "id": "1105499",
    "title": "Seoul Sports Complex (Jamsil Sports Complex)",
    "category": "leisure",
@@ -18417,24 +18263,6 @@
    "start": "20261113",
    "end": "20261115",
    "homepage": "https://thesool.com/",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-3545306",
-   "title": "포천펫스타",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Pocheon-si",
-   "addr": "",
-   "tel": "0502-1949-0514",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
-   "lat": 37.9234466507,
-   "lng": 127.236500949,
-   "start": "20261114",
-   "end": "20261114",
-   "homepage": "https://p-petstar.imweb.me/",
    "source": "kor",
    "ko": true
   },
