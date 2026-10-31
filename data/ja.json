@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:58+09:00",
+ "updated": "2026-11-01T07:29+09:00",
  "places": [
   {
    "id": "4137320",
@@ -2662,20 +2662,6 @@
    "title_ko": "수종사"
   },
   {
-   "id": "1302134",
-   "title": "法輪寺（龍仁文殊山）",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "龍仁市",
-   "addr": "京畿道 龍仁市 処仁区 遠三面 農村パーク路126",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.1696948894,
-   "lng": 127.2990447883,
-   "title_ko": "법륜사（용인 문수산）"
-  },
-  {
    "id": "1991051",
    "title": "洗美苑",
    "category": "attraction",
@@ -3248,20 +3234,6 @@
    "lat": 37.9650701065,
    "lng": 126.8897010962,
    "title_ko": "임진강 황포돛배"
-  },
-  {
-   "id": "2653211",
-   "title": "自由の橋（坡州）",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "坡州市",
-   "addr": "キョンギ道パジュ市ムンサン邑イムジンガクロ148-53",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/55/2567555_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/55/2567555_image3_1.jpg",
-   "lat": 37.8899150642,
-   "lng": 126.7389615126,
-   "title_ko": "자유의 다리（파주）"
   },
   {
    "id": "2530311",
@@ -5489,20 +5461,6 @@
    "lat": 37.2867042378,
    "lng": 127.0264106512,
    "title_ko": "플라잉 수원"
-  },
-  {
-   "id": "3097885",
-   "title": "ミリネキャンプ",
-   "category": "leisure",
-   "region": "gyeonggi",
-   "city": "楊平郡",
-   "addr": "キョンギ道ヤンピョン郡チピョン面ウォルサンチョスジギル21",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4810402612,
-   "lng": 127.6497819204,
-   "title_ko": "미리내캠프"
   },
   {
    "id": "3090472",
@@ -8138,20 +8096,6 @@
    "title_ko": "인천문학경기장 스노우파크"
   },
   {
-   "id": "1310265",
-   "title": "仁川文鶴競技場（仁川ワールドカップ競技場）",
-   "category": "leisure",
-   "region": "incheon",
-   "city": "弥鄒忽区",
-   "addr": "インチョン広域市ミチュホル区メソホルロ618",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/60/1869660_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/60/1869660_image3_1.jpg",
-   "lat": 37.4366169207,
-   "lng": 126.686465173,
-   "title_ko": "인천문학경기장（인천월드컵경기장）"
-  },
-  {
    "id": "3099844",
    "title": "桂陽山トゥルレ道",
    "category": "leisure",
@@ -9481,20 +9425,6 @@
    "title_ko": "올림픽공원"
   },
   {
-   "id": "1468742",
-   "title": "オンゴ・フード",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "ソウル特別市チョンノ区プクチョンロ137-11",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5869607129978,
-   "lng": 126.98279258360495,
-   "title_ko": "온고푸드"
-  },
-  {
    "id": "3549129",
    "title": "オンヌリスマイル眼科医院",
    "category": "attraction",
@@ -10531,20 +10461,6 @@
    "title_ko": "서울로 7017"
   },
   {
-   "id": "3107833",
-   "title": "ソウル都心登山観光センター（北岳山）",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "鐘路区",
-   "addr": "ソウル特別市チョンノ区サムチョンロ88",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/31/3102531_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/3102531_image3_1.jpg",
-   "lat": 37.5832579211,
-   "lng": 126.9819868962,
-   "title_ko": "서울도심등산관광센터（북악산）"
-  },
-  {
    "id": "2989590",
    "title": "ソウル都心登山観光センター（北漢山）",
    "category": "attraction",
@@ -11173,20 +11089,6 @@
    "lat": 37.5479742491,
    "lng": 127.0441516773,
    "title_ko": "주식회사 프렌트립"
-  },
-  {
-   "id": "1468482",
-   "title": "フード＆カルチャーコリア",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "ソウル特別市チョンノ区サジクロ101 弼雲ビル3階",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/25/2541025_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/25/2541025_image3_1.jpg",
-   "lat": 37.5836474603536,
-   "lng": 126.969949569591,
-   "title_ko": "푸드앤컬쳐 코리아"
   },
   {
    "id": "3547851",
@@ -12223,20 +12125,6 @@
    "lat": 37.575408824216616,
    "lng": 126.98350755785005,
    "title_ko": "인사동"
-  },
-  {
-   "id": "2008655",
-   "title": "仁寺洞広報館",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "鐘路区",
-   "addr": "ソウル特別市チョンノ区インサドン11ギル19",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/48/1999248_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/48/1999248_image3_1.jpg",
-   "lat": 37.5736729522,
-   "lng": 126.9835675794,
-   "title_ko": "인사동홍보관"
   },
   {
    "id": "3075116",
@@ -15010,20 +14898,6 @@
    "title_ko": "디뮤지엄 성수"
   },
   {
-   "id": "2943892",
-   "title": "GROUNDSEESAW 西村",
-   "category": "culture",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "ソウル特別市チョンノ区チャハムンロ6ギル18-8",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/79/3526479_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/79/3526479_image3_1.jpg",
-   "lat": 37.57784039724437,
-   "lng": 126.97291610540746,
-   "title_ko": "그라운드시소 서촌"
-  },
-  {
    "id": "3493325",
    "title": "HANSIK Space E:eum",
    "category": "culture",
@@ -15078,20 +14952,6 @@
    "lat": 37.5509355861,
    "lng": 126.9210433658,
    "title_ko": "KT&G 상상마당（홍대）"
-  },
-  {
-   "id": "3305211",
-   "title": "Ktown4u coex",
-   "category": "culture",
-   "region": "seoul",
-   "city": "江南区",
-   "addr": "ソウル特別市カンナム区ヨンドンデロ513",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/73/3305173_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/3305173_image3_1.png",
-   "lat": 37.5119175967,
-   "lng": 127.059217995,
-   "title_ko": "케이타운포유 코엑스"
   },
   {
    "id": "282285",
@@ -16284,20 +16144,6 @@
    "title_ko": "교보문고"
   },
   {
-   "id": "282287",
-   "title": "斗山アートセンター",
-   "category": "culture",
-   "region": "seoul",
-   "city": "鐘路区",
-   "addr": "ソウル特別市 鐘路区 鐘路33キル15 （蓮池洞）",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/03/2022403_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/03/2022403_image3_1.jpg",
-   "lat": 37.5718095925,
-   "lng": 127.0009799341,
-   "title_ko": "두산아트센터"
-  },
-  {
    "id": "3486421",
    "title": "明宝アートホール",
    "category": "culture",
@@ -16492,20 +16338,6 @@
    "lat": 37.4785261578,
    "lng": 127.0107150202,
    "title_ko": "예술의전당"
-  },
-  {
-   "id": "1976348",
-   "title": "芸術の殿堂 ハンガラム美術館",
-   "category": "culture",
-   "region": "seoul",
-   "city": "瑞草区",
-   "addr": "ソウル特別市ソチョ区ナンブスンファンロ2406",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4793094549,
-   "lng": 127.0137702756,
-   "title_ko": "예술의전당 한가람미술관"
   },
   {
    "id": "1179657",
@@ -17628,6 +17460,21 @@
    "title_ko": "수연산방"
   },
   {
+   "id": "ko-132183",
+   "title": "広蔵市場",
+   "title_ko": "광장시장",
+   "category": "food",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/46/4135946_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/46/4135946_image3_1.jpg",
+   "lat": 37.5701196321,
+   "lng": 126.9997989647,
+   "supplement": true
+  },
+  {
    "id": "2441817",
    "title": "忠武路チュクミプルゴギ",
    "category": "food",
@@ -17934,20 +17781,6 @@
    "lat": 37.5710121125,
    "lng": 126.9814539585,
    "title_ko": "롤파크"
-  },
-  {
-   "id": "2996371",
-   "title": "WeRide",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "中区",
-   "addr": "ソウル特別市チュン区チョンギェチョンロ40 韓国観光公社ソウルセンター",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.568581843,
-   "lng": 126.9816428989,
-   "title_ko": "위라이드"
   },
   {
    "id": "3078772",
@@ -18500,24 +18333,6 @@
    "homepage": ""
   },
   {
-   "id": "ko-3497454",
-   "title": "의정부지 상설 전통문화행사",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "",
-   "tel": "02-737-6444",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/13/4056513_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/4056513_image3_1.jpg",
-   "lat": 37.574618321885374,
-   "lng": 126.97838493180903,
-   "start": "20260411",
-   "end": "20261031",
-   "homepage": "https://cafe.naver.com/ujbj2025",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-3111722",
    "title": "한강역사탐방",
    "category": "festival",
@@ -18554,6 +18369,24 @@
    "ko": true
   },
   {
+   "id": "ko-2720203",
+   "title": "2026 서울거리공연 구석구석라이브",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "",
+   "tel": "02-2088-7218",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/74/4060474_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/74/4060474_image3_1.png",
+   "lat": 37.5716228232824,
+   "lng": 126.976787992565,
+   "start": "20260501",
+   "end": "20261231",
+   "homepage": "https://www.instagram.com/seoulbusking/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "ko-4082595",
    "title": "팔색찬란",
    "category": "festival",
@@ -18570,42 +18403,6 @@
    "homepage": "https://cwdsarangchae.kr",
    "source": "kor",
    "ko": true
-  },
-  {
-   "id": "ko-3495437",
-   "title": "2026 文化のある日 文化配達",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "ヨンチョン(漣川)郡",
-   "addr": "",
-   "tel": "033-253-7111",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/93/4080593_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/4080593_image3_1.jpg",
-   "lat": 38.1345233861,
-   "lng": 127.0274821632,
-   "start": "20260624",
-   "end": "20261031",
-   "homepage": "https://ccmicsynergy2026.imweb.me/index",
-   "source": "kor",
-   "title_ko": "2026 문화가 있는날  - 문화배달"
-  },
-  {
-   "id": "ko-4109448",
-   "title": "洗美苑 睡蓮文化祭",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "ヤンピョン(楊平)郡",
-   "addr": "",
-   "tel": "031-775-1835",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/52/4109452_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/52/4109452_image3_1.jpg",
-   "lat": 37.5409386578,
-   "lng": 127.3239607947,
-   "start": "20260901",
-   "end": "20261031",
-   "homepage": "https://www.semiwon.or.kr/bbs/board.php?bo_table=notice&wr_id=120",
-   "source": "kor",
-   "title_ko": "세미원 수련문화제"
   },
   {
    "id": "ko-4056606",
@@ -18805,24 +18602,6 @@
    "ko": true
   },
   {
-   "id": "ko-3537267",
-   "title": "백년나이트 야시장 「26년 10월 : WICKED」",
-   "category": "festival",
-   "region": "seoul",
-   "city": "カンブク(江北)区",
-   "addr": "",
-   "tel": "02-903-9110",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/20/4127720_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/20/4127720_image3_1.jpg",
-   "lat": 37.641720888,
-   "lng": 127.0259140093,
-   "start": "20261030",
-   "end": "20261031",
-   "homepage": "https://www.100night.com/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-3113995",
    "title": "경기‧양주‧지작사 드론봇 페스티벌",
    "category": "festival",
@@ -18839,42 +18618,6 @@
    "homepage": "https://www.yangju.go.kr/",
    "source": "kor",
    "ko": true
-  },
-  {
-   "id": "ko-4121348",
-   "title": "동두천시 책문화축제",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "トンドゥチョン(東豆川)市",
-   "addr": "",
-   "tel": "031-860-2707",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/51/4121351_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/51/4121351_image3_1.JPG",
-   "lat": 37.9097423409,
-   "lng": 127.0566853505,
-   "start": "20261031",
-   "end": "20261031",
-   "homepage": "https://lib.ddc.go.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-1841539",
-   "title": "マト芸術祭",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "ピョンテク(平沢)市",
-   "addr": "",
-   "tel": "031-669-0974",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/61/4108761_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/61/4108761_image3_1.jpg",
-   "lat": 36.9596136599,
-   "lng": 127.0441409123,
-   "start": "20261031",
-   "end": "20261031",
-   "homepage": "https://www.pccf.or.kr/evnt/evntView.do?evntSn=2609040001",
-   "source": "kor",
-   "title_ko": "마토예술제"
   },
   {
    "id": "ko-4134876",
@@ -19143,24 +18886,6 @@
    "start": "20261205",
    "end": "20261205",
    "homepage": "https://hugrun.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-3035607",
-   "title": "광화문 마켓",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "",
-   "tel": "02-3788-8105",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image3_1.jpg",
-   "lat": 37.5716249337,
-   "lng": 126.9767679222,
-   "start": "20261211",
-   "end": "20270110",
-   "homepage": "https://www.stolantern.com/",
    "source": "kor",
    "ko": true
   },
