@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:29+09:00",
+ "updated": "2026-11-02T07:49+09:00",
  "places": [
   {
    "id": "1426597",
@@ -1486,20 +1486,6 @@
    "title_ko": "한탄강 관광지"
   },
   {
-   "id": "3098288",
-   "title": "Hanwha Resort Sanjeonghosu Annecy Hot Spring",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Pocheon-si",
-   "addr": "402 Sanjeonghosu-ro, Yeongbuk-myeon, Pocheon-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/05/3027705_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/05/3027705_image3_1.jpg",
-   "lat": 38.0657994142,
-   "lng": 127.3143509302,
-   "title_ko": "한화리조트 산정호수 안시 온천사우나"
-  },
-  {
    "id": "3098430",
    "title": "Hapy Land",
    "category": "attraction",
@@ -2788,18 +2774,19 @@
    "title_ko": "상승전망대(제1땅굴)"
   },
   {
-   "id": "3098282",
-   "title": "Saruru Farm",
+   "id": "ko-125523",
+   "title": "Sanjeong Lake",
+   "title_ko": "포천 산정호수",
    "category": "attraction",
    "region": "gyeonggi",
    "city": "Pocheon-si",
-   "addr": "130 Sanjeonghosu-ro, Yeongbuk-myeon, Pocheon-si, Gyeonggi-do",
+   "addr": "",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/61/2820261_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/61/2820261_image2_1.jpg",
-   "lat": 38.0729841938,
-   "lng": 127.2875587267,
-   "title_ko": "사르르목장"
+   "img": "https://tong.visitkorea.or.kr/cms/resource/49/4122549_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/49/4122549_image3_1.jpg",
+   "lat": 38.0654726223,
+   "lng": 127.3144288982,
+   "supplement": true
   },
   {
    "id": "1624796",
@@ -2996,20 +2983,6 @@
    "lat": null,
    "lng": null,
    "title_ko": "월산대군사당"
-  },
-  {
-   "id": "3097101",
-   "title": "Siheung Baegot Hanul Park Seawater Pool",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Siheung-si",
-   "addr": "61 Haesongsimni-ro, Siheung-si, Gyeonggi-do",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.354704484,
-   "lng": 126.7020465803,
-   "title_ko": "시흥배곧한울공원 해수체험장"
   },
   {
    "id": "2482013",
@@ -3486,20 +3459,6 @@
    "lat": 37.9063713366,
    "lng": 126.7311617586,
    "title_ko": "통일정보화마을"
-  },
-  {
-   "id": "1320325",
-   "title": "Wentteok Village",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Yongin-si",
-   "addr": "10, Eohyeon-ro, Wonsam-myeon, Cheoin-gu, Yongin-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/66/2482066_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/66/2482066_image2_1.jpg",
-   "lat": 37.1395263015,
-   "lng": 127.3072976681,
-   "title_ko": "웬떡마을"
   },
   {
    "id": "3098452",
@@ -9902,20 +9861,6 @@
    "title_ko": "하이디하우스"
   },
   {
-   "id": "2989577",
-   "title": "Hema Studio",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "20-10 Nonhyeon-dong, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5134306323,
-   "lng": 127.021493608,
-   "title_ko": "헤마스튜디오"
-  },
-  {
    "id": "1751262",
    "title": "Heoninneung Royal Tombs Ecological Preservation Area (Alder Tree Forests)",
    "category": "attraction",
@@ -10280,20 +10225,6 @@
    "title_ko": "제이더블유(JW)정원성형외과의원"
   },
   {
-   "id": "1300249",
-   "title": "JW Spa",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "565, Nonhyeon-ro, Gangnam-gu, Seoul-si",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5065205433,
-   "lng": 127.0337426883,
-   "title_ko": "제이더블유스파"
-  },
-  {
    "id": "1000299",
    "title": "Jamsil Hangang Park",
    "category": "attraction",
@@ -10389,20 +10320,6 @@
    "lat": 37.6380064804,
    "lng": 126.9469052095,
    "title_ko": "진관사(서울)"
-  },
-  {
-   "id": "3103006",
-   "title": "Jingwansaggyegok Valley",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Eunpyeong-gu",
-   "addr": "73 Jingwan-gil, Eunpyeong-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.6379287052,
-   "lng": 126.9465496889,
-   "title_ko": "진관사 계곡"
   },
   {
    "id": "3580474",
@@ -11481,20 +11398,6 @@
    "lat": 37.5651434137,
    "lng": 126.9850038013,
    "title_ko": "명동"
-  },
-  {
-   "id": "2593943",
-   "title": "Myeong-dong Tourist Information Center",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "66, Eulji-ro, Jung-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/94/2582594_image2_1.bmp",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/94/2582594_image2_1.bmp",
-   "lat": 37.5651545234,
-   "lng": 126.9849815808,
-   "title_ko": "명동관광정보센터"
   },
   {
    "id": "1963058",
@@ -12588,20 +12491,6 @@
    "title_ko": "서울크루즈"
   },
   {
-   "id": "1748369",
-   "title": "Seoul Daehan Hospital",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "101, Daehak-ro, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/29/1554829_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/29/1554829_image3_1.jpg",
-   "lat": 37.5797669664,
-   "lng": 126.9990326638,
-   "title_ko": "서울 대한의원"
-  },
-  {
    "id": "1348684",
    "title": "Seoul Doseonsa Temple",
    "category": "attraction",
@@ -12642,34 +12531,6 @@
    "lat": 37.5430715815,
    "lng": 127.041798446,
    "title_ko": "서울숲"
-  },
-  {
-   "id": "2989389",
-   "title": "Seoul Hiking Tourism Center - Bukhansan Branch",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Gangbuk-gu",
-   "addr": "5F, 181-7 Ui-dong, Gangbuk-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.6624797624,
-   "lng": 127.0097182276,
-   "title_ko": "서울도심등산관광센터(북한산)"
-  },
-  {
-   "id": "1121158",
-   "title": "Seoul Hwagyesa Temple",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Gangbuk-gu",
-   "addr": "117, Hwagyesa-gil, Gangbuk-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/18/1927918_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/18/1927918_image3_1.jpg",
-   "lat": 37.6326415233,
-   "lng": 127.007322073,
-   "title_ko": "화계사(서울)"
   },
   {
    "id": "1747993",
@@ -13061,20 +12922,6 @@
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/23/3508023_image3_1.jpg",
    "lat": 37.5065841346452,
    "lng": 127.06532667819326
-  },
-  {
-   "id": "1459282",
-   "title": "Spa In New York",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "406, Gangnam-daero, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4989324255,
-   "lng": 127.0276129057,
-   "title_ko": "스파인뉴욕 (SPA IN NEWYORK)"
   },
   {
    "id": "610302",
@@ -13861,20 +13708,6 @@
    "title_ko": "예지원"
   },
   {
-   "id": "2484384",
-   "title": "Yeonnam-dong",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Mapo-gu",
-   "addr": "Yeonnam-dong, Mapo-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/23/3109623_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/23/3109623_image3_1.JPG",
-   "lat": 37.5616621632,
-   "lng": 126.9236317158,
-   "title_ko": "연남동"
-  },
-  {
    "id": "264376",
    "title": "Yeonsero (Yonsei University Street)",
    "category": "attraction",
@@ -14225,20 +14058,6 @@
    "title_ko": "블루스퀘어"
   },
   {
-   "id": "2997768",
-   "title": "Boan1942",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "33 , Hyoja-ro, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5791638028,
-   "lng": 126.9736655485,
-   "title_ko": "보안1942"
-  },
-  {
    "id": "1030341",
    "title": "Bukchon Museum",
    "category": "culture",
@@ -14281,20 +14100,6 @@
    "title_ko": "코엑스아티움"
   },
   {
-   "id": "3107723",
-   "title": "Ceramic Palace Hall",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "90 Irwon-ro, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4861432273,
-   "lng": 127.0823555084,
-   "title_ko": "세라믹 팔레스 홀"
-  },
-  {
    "id": "268226",
    "title": "Charlotte Theater",
    "category": "culture",
@@ -14307,20 +14112,6 @@
    "lat": 37.511068396,
    "lng": 127.0981394766,
    "title_ko": "샤롯데씨어터"
-  },
-  {
-   "id": "268210",
-   "title": "Cheonggyecheon Museum",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Seongdong-gu",
-   "addr": "530, Cheonggyecheon-ro, Seongdong-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/27/2034227_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/27/2034227_image3_1.jpg",
-   "lat": 37.571274156,
-   "lng": 127.0350435124,
-   "title_ko": "청계천박물관"
   },
   {
    "id": "2997891",
@@ -14827,20 +14618,6 @@
    "title_ko": "한전아트센터 공연장"
   },
   {
-   "id": "2473400",
-   "title": "Korea Etiquette Institute",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Seodaemun-gu",
-   "addr": "43 , Gajaeul-ro 4-gil, Seodaemun-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/92/2376892_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/92/2376892_image2_1.jpg",
-   "lat": 37.5758855137,
-   "lng": 126.9238646261,
-   "title_ko": "한국예절문화원"
-  },
-  {
    "id": "268146",
    "title": "Korea House",
    "category": "culture",
@@ -14965,20 +14742,6 @@
    "lat": 37.5019766908,
    "lng": 127.037334157,
    "title_ko": "LG아트센터"
-  },
-  {
-   "id": "268138",
-   "title": "Lee Ri-Ja Hanbok Museum",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "20, Samcheong-ro, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5776168732,
-   "lng": 126.9799483526,
-   "title_ko": "이리자 한복전시관"
   },
   {
    "id": "268217",
@@ -15233,20 +14996,6 @@
    "title_ko": "박여숙화랑"
   },
   {
-   "id": "1802823",
-   "title": "S.J. Cho Korean Paper Art Gallery",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "14, Teheran-ro 92-gil, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5070904146,
-   "lng": 127.0611762867,
-   "title_ko": "조수정 한지그림 갤러리"
-  },
-  {
    "id": "1142211",
    "title": "Savina Museum of Contemporary Art",
    "category": "culture",
@@ -15273,20 +15022,6 @@
    "lat": 37.5720646708,
    "lng": 126.9760488661,
    "title_ko": "세종문화회관"
-  },
-  {
-   "id": "1748359",
-   "title": "Sejong University Museum",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Gwangjin-gu",
-   "addr": "209, Neungdong-ro, Gwangjin-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/41/1504741_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/41/1504741_image3_1.jpg",
-   "lat": 37.5514577128,
-   "lng": 127.0738627621,
-   "title_ko": "세종대학교 박물관"
   },
   {
    "id": "1215646",
@@ -15693,20 +15428,6 @@
    "lat": 37.4978884026,
    "lng": 127.0443114151,
    "title_ko": "예림당아트홀"
-  },
-  {
-   "id": "2992565",
-   "title": "Yonsei University",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Seodaemun-gu",
-   "addr": "50, Yonsei-ro, Seodaemun-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5605791904,
-   "lng": 126.9367638823,
-   "title_ko": "연세대학교"
   },
   {
    "id": "1988054",
@@ -17152,19 +16873,6 @@
    "title_ko": "롯데월드 아이스링크"
   },
   {
-   "id": "1393307",
-   "title": "Mokdong Stadium (목동운동장(목동아이스링크,사격장)",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "Yangcheon-gu",
-   "addr": "939, Anyangcheon-ro, Yangcheon-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/71/1807971_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/71/1807971_image3_1.jpg",
-   "lat": 37.5301456356,
-   "lng": 126.8819114075
-  },
-  {
    "id": "1989051",
    "title": "Nanji Hangang Park MTB Course Site",
    "category": "leisure",
@@ -17193,20 +16901,6 @@
    "title_ko": "올림픽체조경기장(KSPO DOME)"
   },
   {
-   "id": "266911",
-   "title": "Paradise Casino Walker Hill",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "Gwangjin-gu",
-   "addr": "177, Walkerhill-ro, Gwangjin-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/32/3491432_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/32/3491432_image3_1.jpg",
-   "lat": 37.5552218298,
-   "lng": 127.1107898477,
-   "title_ko": "파라다이스 카지노 워커힐"
-  },
-  {
    "id": "3407800",
    "title": "River City Water Ski Resort",
    "category": "leisure",
@@ -17233,20 +16927,6 @@
    "lat": 37.527152424,
    "lng": 126.9314153136,
    "title_ko": "여의나루역 러너스테이션"
-  },
-  {
-   "id": "495641",
-   "title": "SEVEN LUCK CASINO - Gangnam COEX Branch",
-   "category": "leisure",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "58, Teheran-ro 87-gil, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/40/2996840_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/40/2996840_image3_1.jpg",
-   "lat": 37.512025887,
-   "lng": 127.0575320333,
-   "title_ko": "세븐럭카지노(강남코엑스점)"
   },
   {
    "id": "3110497",
@@ -17537,24 +17217,6 @@
    "ko": true
   },
   {
-   "id": "ko-2657619",
-   "title": "2026 화성행궁 야간개장",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Paldal-gu, Suwon-si",
-   "addr": "",
-   "tel": "031-290-3600",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/63/4081263_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/63/4081263_image3_1.jpg",
-   "lat": 37.2818163237,
-   "lng": 127.0163732353,
-   "start": "20260501",
-   "end": "20261101",
-   "homepage": "https://www.swcf.or.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-2720203",
    "title": "2026 서울거리공연 구석구석라이브",
    "category": "festival",
@@ -17607,42 +17269,6 @@
    "homepage": "",
    "source": "kor",
    "title_ko": "청백리의 집, 오늘을 비추다"
-  },
-  {
-   "id": "3358416",
-   "title": "Hantangang Garden Festa",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Pocheon-si",
-   "addr": "832 Changdong-ro, Gwanin-myeon, Pocheon-si, Gyeonggi-do",
-   "tel": "+82-31-538-3030",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/47/4114547_image2_1.jpeg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/47/4114547_image3_1.jpeg",
-   "lat": 38.0829307871,
-   "lng": 127.2085797227,
-   "title_ko": "포천 한탄강 가든페스타",
-   "start": "20260912",
-   "end": "20261101",
-   "overview": "The Hantangang Garden Festa is a large-scale ecological and garden festival themed around seasonal flowers and nature, held at the Pocheon Hantangang River Ecological Landscape Complex. It is a festival where visitors can enjoy the thrill of a 410-meter-long Y-shaped suspension bridge along with the vast natural landscapes of the Hantangang River region, a registered UNESCO World Geopark. The event features a photo zone with an autumn camping concept, a River Market where visitors can enjoy Pocheon's representative agricultural products and various foods, themed gardens created in collaboratio",
-   "homepage": ""
-  },
-  {
-   "id": "1391047",
-   "title": "Gyeonggi Ceramics Biennale",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Icheon-si",
-   "addr": "263 Gyeongchung-daero 2697beon-gil, Icheon-si, Gyeonggi-do",
-   "tel": "+31-631-6501",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/99/4114099_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/99/4114099_image3_1.jpg",
-   "lat": 37.2769208162,
-   "lng": 127.4237253326,
-   "title_ko": "경기도자비엔날레",
-   "start": "20260918",
-   "end": "20261101",
-   "overview": "The Gyeonggi Ceramics Biennale features a range of exhibitions and educational events. The event takes place at various locations in Korea famous for ceramics, including Icheon, Yeoju, and Gwangju.",
-   "homepage": ""
   },
   {
    "id": "3364856",
@@ -17786,60 +17412,6 @@
    "homepage": "https://namsannightfestival.com/",
    "source": "kor",
    "ko": true
-  },
-  {
-   "id": "ko-3113995",
-   "title": "경기‧양주‧지작사 드론봇 페스티벌",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Yangju-si",
-   "addr": "",
-   "tel": "031-8082-6161",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/54/4124654_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/54/4124654_image3_1.JPG",
-   "lat": 37.833553,
-   "lng": 126.989798,
-   "start": "20261030",
-   "end": "20261101",
-   "homepage": "https://www.yangju.go.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-4134876",
-   "title": "고양도시농업축제",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Ilsandong-gu, Goyang-si",
-   "addr": "",
-   "tel": "031-8075-4279",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/77/4134877_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/77/4134877_image3_1.png",
-   "lat": 37.6579266299,
-   "lng": 126.7700640931,
-   "start": "20261031",
-   "end": "20261101",
-   "homepage": "https://www.goyang.go.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-3383613",
-   "title": "Goyang Haengju Hanwoo Beef BBQ Festival",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Deogyang-gu, Goyang-si",
-   "addr": "",
-   "tel": "031-960-3034,3050",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image3_1.JPG",
-   "lat": 37.6546697725,
-   "lng": 126.832763872,
-   "start": "20261031",
-   "end": "20261101",
-   "homepage": "http://gyfestival.kr/",
-   "source": "kor",
-   "title_ko": "고양행주한우 숯불구이축제"
   },
   {
    "id": "ko-2789700",
