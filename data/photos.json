@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:57+09:00",
+ "updated": "2026-11-03T10:35+09:00",
  "photos": [
   {
    "id": "3551001",
@@ -530,6 +530,17 @@
    "photographer": "한건우"
   },
   {
+   "id": "4136413",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/13/4136413.jpg",
+   "region": "seoul",
+   "label": {
+    "en": "Han River",
+    "ja": "漢江"
+   },
+   "month": "202607",
+   "photographer": "임귀빈"
+  },
+  {
    "id": "4063123",
    "img": "https://tong.visitkorea.or.kr/cms2/website/23/4063123.jpg",
    "region": "seoul",
@@ -642,17 +653,6 @@
   {
    "id": "4063109",
    "img": "https://tong.visitkorea.or.kr/cms2/website/09/4063109.jpg",
-   "region": "seoul",
-   "label": {
-    "en": "Han River",
-    "ja": "漢江"
-   },
-   "month": "202511",
-   "photographer": "한건우"
-  },
-  {
-   "id": "4063110",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/10/4063110.jpg",
    "region": "seoul",
    "label": {
     "en": "Han River",
@@ -1355,136 +1355,136 @@
    "photographer": "정규진"
   },
   {
-   "id": "3460540",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/40/3460540.jpg",
+   "id": "4135156",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/56/4135156.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202410",
-   "photographer": "정규진"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3460541",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/41/3460541.jpg",
+   "id": "4135158",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/58/4135158.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202410",
-   "photographer": "정규진"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3460539",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/39/3460539.jpg",
+   "id": "4135159",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/59/4135159.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202410",
-   "photographer": "정규진"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3460537",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/37/3460537.jpg",
+   "id": "4135161",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/61/4135161.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202410",
-   "photographer": "정규진"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3460538",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/38/3460538.jpg",
+   "id": "4135163",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/63/4135163.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202410",
-   "photographer": "정규진"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3460536",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/36/3460536.jpg",
+   "id": "4135171",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/71/4135171.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202410",
-   "photographer": "정규진"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3332708",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/08/3332708.jpg",
+   "id": "4135173",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/73/4135173.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202405",
-   "photographer": "황성훈"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3332707",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/07/3332707.jpg",
+   "id": "4135175",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/75/4135175.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202405",
-   "photographer": "황성훈"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3332705",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/05/3332705.jpg",
+   "id": "4135177",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/77/4135177.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202405",
-   "photographer": "황성훈"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3332704",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/04/3332704.jpg",
+   "id": "4135179",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/79/4135179.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202405",
-   "photographer": "황성훈"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3332703",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/03/3332703.jpg",
+   "id": "4135182",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/82/4135182.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202405",
-   "photographer": "황성훈"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
-   "id": "3332702",
-   "img": "https://tong.visitkorea.or.kr/cms2/website/02/3332702.jpg",
+   "id": "4135183",
+   "img": "https://tong.visitkorea.or.kr/cms2/website/83/4135183.jpg",
    "region": "gyeonggi",
    "label": {
     "en": "Paju",
     "ja": "坡州"
    },
-   "month": "202405",
-   "photographer": "황성훈"
+   "month": "202607",
+   "photographer": "이지윤"
   },
   {
    "id": "3512105",

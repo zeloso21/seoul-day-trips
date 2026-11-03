@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:49+09:00",
+ "updated": "2026-11-03T10:35+09:00",
  "places": [
   {
    "id": "4137320",
@@ -2338,20 +2338,6 @@
    "lat": 37.0796508984,
    "lng": 127.053700057,
    "title_ko": "송탄 관광특구"
-  },
-  {
-   "id": "281917",
-   "title": "板門店",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "坡州市",
-   "addr": "キョンギ道パジュ市ムンサン邑イムジンガクロ148-40",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/23/774723_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/23/774723_image3_1.jpg",
-   "lat": 37.8920982471,
-   "lng": 126.7448053593,
-   "title_ko": "판문점"
   },
   {
    "id": "2993327",
@@ -5813,20 +5799,6 @@
    "title_ko": "더 스파 하스타"
   },
   {
-   "id": "3502711",
-   "title": "シーサイドパーク海水足浴場",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "中区",
-   "addr": "インチョン広域市チュン区ヨンスマルロ28ボンギル12 (운남동)",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/31/3501131_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/3501131_image3_1.jpg",
-   "lat": 37.4720987198,
-   "lng": 126.5179962274,
-   "title_ko": "씨사이드파크해수족욕장"
-  },
-  {
    "id": "3366088",
    "title": "ナウン病院",
    "category": "attraction",
@@ -8404,20 +8376,6 @@
    "title_ko": "코코리색채연구소（홍대점）"
   },
   {
-   "id": "4091411",
-   "title": "COCORY色彩研究所（明洞店）",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "チュン(中)区",
-   "addr": "ソウル特別市チュン区ミョンドン10ギル7-9 T Avenue 2ビル3階",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/43/4091243_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/43/4091243_image3_1.jpg",
-   "lat": 37.5635619547,
-   "lng": 126.9857494761,
-   "title_ko": "코코리색채연구소（명동점）"
-  },
-  {
    "id": "4091427",
    "title": "COCORY色彩研究所（江南店）",
    "category": "attraction",
@@ -9975,13 +9933,13 @@
    "title": "ソウルパルグンセサン眼科",
    "category": "attraction",
    "region": "seoul",
-   "city": "江南区",
+   "city": "カンナム(江南)区",
    "addr": "ソウル特別市カンナム区ソンルンロ823、2階・5～7階",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.5256878628,
-   "lng": 127.0393583011,
+   "lat": 37.5256355781,
+   "lng": 127.0393425512,
    "title_ko": "서울밝은세상안과"
   },
   {
@@ -12295,20 +12253,6 @@
    "title_ko": "남산 야외식물원"
   },
   {
-   "id": "2481039",
-   "title": "合井洞カフェ通り",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "麻浦区",
-   "addr": "ソウル特別市マポ区ソギョ洞415 西橋洞一帯",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/02/3109602_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/02/3109602_image3_1.JPG",
-   "lat": 37.002330273,
-   "lng": 127.1099610007,
-   "title_ko": "합정동 카페거리"
-  },
-  {
    "id": "1979533",
    "title": "吉祥寺（ソウル）",
    "category": "attraction",
@@ -13222,13 +13166,13 @@
    "title": "株式会社メディカルアベニュー",
    "category": "attraction",
    "region": "seoul",
-   "city": "麻浦区",
+   "city": "マポ(麻浦)区",
    "addr": "ソウル特別市麻浦区マポデロ144 マポTタウン1433号",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.547053289,
-   "lng": 126.9537710481,
+   "lat": 37.5470013401,
+   "lng": 126.9537568317,
    "title_ko": "(주)메디컬애비뉴"
   },
   {
@@ -13334,13 +13278,13 @@
    "title": "梨花女子大学附属ソウル病院",
    "category": "attraction",
    "region": "seoul",
-   "city": "江西区",
+   "city": "カンソ(江西)区",
    "addr": "ソウル特別市江西区コンハンデロ260",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.5573166632,
-   "lng": 126.8362814705,
+   "lat": 37.5572628666,
+   "lng": 126.8362668393,
    "title_ko": "이화의대부속서울병원"
   },
   {
@@ -14800,6 +14744,20 @@
    "title_ko": "SJ쿤스트할레"
   },
   {
+   "id": "4141590",
+   "title": "U+日常非日常の間",
+   "category": "culture",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "ソウル特別市カンナム区カンナムデロ426",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/39/4136039_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/39/4136039_image3_1.jpg",
+   "lat": 37.5005866358,
+   "lng": 127.0267708063,
+   "title_ko": "U+일상비일상의틈"
+  },
+  {
    "id": "2514558",
    "title": "aTセンター",
    "category": "culture",
@@ -15080,20 +15038,6 @@
    "title_ko": "서울도서관"
   },
   {
-   "id": "1283321",
-   "title": "ソウル大学",
-   "category": "culture",
-   "region": "seoul",
-   "city": "冠岳区",
-   "addr": "ソウル特別市クァナク区クァナクロ1 ソウル大学",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4639934641,
-   "lng": 126.9522096436,
-   "title_ko": "서울대학교"
-  },
-  {
    "id": "766655",
    "title": "ソウル大学 奎章閣",
    "category": "culture",
@@ -15330,20 +15274,6 @@
    "lat": 37.5408548829,
    "lng": 127.002458454,
    "title_ko": "블루스퀘어"
-  },
-  {
-   "id": "282286",
-   "title": "ユニバーサルアートセンター",
-   "category": "culture",
-   "region": "seoul",
-   "city": "クァンジン(広津)区",
-   "addr": "ソウル特別市クァンジン区チョンホデロ664",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/26/3109526_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/26/3109526_image3_1.JPG",
-   "lat": 37.55102100612842,
-   "lng": 127.08726198693844,
-   "title_ko": "유니버설아트센터"
   },
   {
    "id": "2476732",
@@ -16142,20 +16072,6 @@
    "lat": 37.5596854342,
    "lng": 126.9693637143,
    "title_ko": "서소문성지역사박물관"
-  },
-  {
-   "id": "1283324",
-   "title": "西江大学",
-   "category": "culture",
-   "region": "seoul",
-   "city": "麻浦区",
-   "addr": "ソウル特別市マポ区ペクポムロ35 西江大学",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5516997442,
-   "lng": 126.9410415214,
-   "title_ko": "서강대학교"
   },
   {
    "id": "282291",
@@ -17293,6 +17209,20 @@
    "title_ko": "봉피양"
   },
   {
+   "id": "4141550",
+   "title": "益善洞ゴギチプ",
+   "category": "food",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チョンノ区スピョロ28ギル47",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/56/4121756_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/56/4121756_image3_1.jpg",
+   "lat": 37.5733753822,
+   "lng": 126.9908261196,
+   "title_ko": "익선동고기집"
+  },
+  {
    "id": "3106652",
    "title": "真味食堂",
    "category": "food",
@@ -17899,24 +17829,6 @@
    "ko": true
   },
   {
-   "id": "ko-3473295",
-   "title": "DDP 건축투어",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チュン(中)区",
-   "addr": "",
-   "tel": "02-2153-0310, 0311 (12:00~13:00 점심시간)",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/09/4046009_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/4046009_image3_1.png",
-   "lat": 37.5660539726,
-   "lng": 127.0095547691,
-   "start": "20260101",
-   "end": "20261231",
-   "homepage": "https://ddp.or.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-2433596",
    "title": "王家の散策",
    "category": "festival",
@@ -18039,24 +17951,6 @@
    "start": "20260420",
    "end": "20261115",
    "homepage": "",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-2720203",
-   "title": "2026 서울거리공연 구석구석라이브",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チョンノ(鐘路)区",
-   "addr": "",
-   "tel": "02-2088-7218",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/74/4060474_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/74/4060474_image3_1.png",
-   "lat": 37.5716228232824,
-   "lng": 126.976787992565,
-   "start": "20260501",
-   "end": "20261231",
-   "homepage": "https://www.instagram.com/seoulbusking/",
    "source": "kor",
    "ko": true
   },
@@ -18366,6 +18260,42 @@
    "ko": true
   },
   {
+   "id": "ko-3545306",
+   "title": "포천펫스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "ポチョン(抱川)市",
+   "addr": "",
+   "tel": "0502-1949-0514",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
+   "lat": 37.9234466507,
+   "lng": 127.236500949,
+   "start": "20261114",
+   "end": "20261114",
+   "homepage": "https://p-petstar.imweb.me/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "3552926",
+   "title": "大韓民国観光記念品博覧会",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チュン(中)区",
+   "addr": "ソウル特別市チュン区ウルチロ 281",
+   "tel": "+82-10-3489-3637",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/49/4135249_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/49/4135249_image3_1.jpg",
+   "lat": 37.5660539726,
+   "lng": 127.0095547691,
+   "title_ko": "대한민국 관광기념품 박람회",
+   "start": "20261120",
+   "end": "20261122",
+   "overview": "大韓民国観光記念品博覧会（The Souvenir Fair）が東大門デザインプラザ（DDP）アートホール1・2館で開催されます。約140社が参加して多様な観光記念品をお披露目します。大韓民国観光コンテスト記念品部門の受賞作25点をはじめ、K-グッズのお買い物や体験型イベント、ステージプログラムなどを楽しめます。伝統の美と冬のときめきが詰まった会場で、お気に入りの記念品や特別な年末の贈り物を見つけることができます。",
+   "homepage": "https://kto.visitkorea.or.kr/"
+  },
+  {
    "id": "ko-1129018",
    "title": "INDEF",
    "category": "festival",
@@ -18472,6 +18402,24 @@
    "homepage": "https://hugrun.kr/",
    "source": "kor",
    "ko": true
+  },
+  {
+   "id": "3039340",
+   "title": "光化門マーケット",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チョンノ区セジョンデロチハ172",
+   "tel": "+82-2-3788-8105",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image3_1.jpg",
+   "lat": 37.5720098878,
+   "lng": 126.9767679222,
+   "title_ko": "광화문 마켓",
+   "start": "20261211",
+   "end": "20270110",
+   "overview": "ソウルの冬の夜を照らす光化門（クァンファムン）マーケットが光化門広場で開催されます。2026年は「時間が止まったサンタ村」をテーマに、忙しい日常の中でしばしば立ち止まり、クリスマスのときめきを存分に楽しめる特別な冬の風景をお届けします。大型ツリーやマーケットビレッジを中心に、クリスマスシーズンの小物やあたたかいグルメを一堂に集めてお披露目し、五感を刺激する没入型フォトゾーンや多彩な体験プログラムも各所に用意される予定です。",
+   "homepage": "https://www.stolantern.com/"
   },
   {
    "id": "ko-4115260",

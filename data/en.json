@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:49+09:00",
+ "updated": "2026-11-03T10:35+09:00",
  "places": [
   {
    "id": "1426597",
@@ -2534,20 +2534,6 @@
    "lat": 37.2774828014,
    "lng": 127.0167009214,
    "title_ko": "팔달문"
-  },
-  {
-   "id": "264490",
-   "title": "Panmunjeom (Joint Security Area)",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Paju-si",
-   "addr": "148-40 Imjingak-ro, Paju-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/23/774723_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/23/774723_image3_1.jpg",
-   "lat": 37.8920982471,
-   "lng": 126.7448053593,
-   "title_ko": "판문점"
   },
   {
    "id": "815994",
@@ -6445,20 +6431,6 @@
    "title_ko": "상상플랫폼"
   },
   {
-   "id": "3547198",
-   "title": "Seaside Park Foot Spa",
-   "category": "attraction",
-   "region": "incheon",
-   "city": "Jung-gu",
-   "addr": "12 Yongsumal-ro 28beon-gil, Yeongjong-gu, Incheon",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/31/3501131_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/3501131_image3_1.jpg",
-   "lat": 37.4720987198,
-   "lng": 126.5179962274,
-   "title_ko": "씨사이드파크해수족욕장"
-  },
-  {
    "id": "2948324",
    "title": "Seongmodo Island Arboretum",
    "category": "attraction",
@@ -7943,20 +7915,6 @@
    "title_ko": "백범광장(백범 김구선생 동상)"
   },
   {
-   "id": "3488858",
-   "title": "Bamseom Island (Ecosystem Conservation Area)",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Yeongdeungpo-gu",
-   "addr": "Yeouido-dong, Yeongdeungpo-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/90/1894490_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/90/1894490_image3_1.jpg",
-   "lat": 37.523214003,
-   "lng": 126.9319959273,
-   "title_ko": "밤섬 생태경관 보전지역"
-  },
-  {
    "id": "3367418",
    "title": "Banobagi Plastic Surgery",
    "category": "attraction",
@@ -8643,20 +8601,6 @@
    "title_ko": "코코리색채연구소(홍대점)"
   },
   {
-   "id": "4095662",
-   "title": "Cocory Color Research Institute - Myeongdong Branch",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "7-9 Myeongdong 10-gil, Jung-gu, Seoul T Avenue Building 2, 3rd Floor",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/43/4091243_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/43/4091243_image3_1.jpg",
-   "lat": 37.5635619547,
-   "lng": 126.9857494761,
-   "title_ko": "코코리색채연구소(명동점)"
-  },
-  {
    "id": "4095684",
    "title": "Cocory Color Research Institute - Yeonhui Main Branch",
    "category": "attraction",
@@ -9100,8 +9044,8 @@
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.5573166632,
-   "lng": 126.8362814705,
+   "lat": 37.5572628666,
+   "lng": 126.8362668393,
    "title_ko": "이화의대부속서울병원"
   },
   {
@@ -9789,20 +9733,6 @@
    "lat": 37.5596561735,
    "lng": 127.0428802259,
    "title_ko": "한양대학교병원(서울)"
-  },
-  {
-   "id": "2482058",
-   "title": "Hapjeong-dong Café Street",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Mapo-gu",
-   "addr": "415 Seogyo-dong, Mapo-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/02/3109602_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/02/3109602_image3_1.JPG",
-   "lat": 37.002330273,
-   "lng": 127.1099610007,
-   "title_ko": "합정동 카페거리"
   },
   {
    "id": "3364607",
@@ -11227,8 +11157,8 @@
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.547053289,
-   "lng": 126.9537710481,
+   "lat": 37.5470013401,
+   "lng": 126.9537568317,
    "title_ko": "(주)메디컬애비뉴"
   },
   {
@@ -12388,8 +12318,8 @@
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.5256878628,
-   "lng": 127.0393583011,
+   "lat": 37.5256355781,
+   "lng": 127.0393425512,
    "title_ko": "서울밝은세상안과"
   },
   {
@@ -14436,20 +14366,6 @@
    "title_ko": "한식문화공간 이음"
   },
   {
-   "id": "1382730",
-   "title": "Hallym University of Graduate Studies",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "405, Yeoksam-ro, Gangnam-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5009992789,
-   "lng": 127.0513884609,
-   "title_ko": "한림국제대학원대학교"
-  },
-  {
    "id": "3512352",
    "title": "Hanji House",
    "category": "culture",
@@ -14672,20 +14588,6 @@
    "lat": 37.5848941626,
    "lng": 126.9998463331,
    "title_ko": "짚풀생활사박물관"
-  },
-  {
-   "id": "2005103",
-   "title": "Korean National Police Heritage Museum",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "41, Saemunan-ro, Jongno-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/62/1568262_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/1568262_image3_1.jpg",
-   "lat": 37.5690121333,
-   "lng": 126.9696606454,
-   "title_ko": "경찰박물관"
   },
   {
    "id": "616931",
@@ -15206,20 +15108,6 @@
    "title_ko": "서울역사박물관"
   },
   {
-   "id": "1752579",
-   "title": "Seoul National University",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Gwanak-gu",
-   "addr": "1, Gwanak-ro, Gwanak-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.4639934641,
-   "lng": 126.9522096436,
-   "title_ko": "서울대학교"
-  },
-  {
    "id": "1252554",
    "title": "Simsan Cultural Center",
    "category": "culture",
@@ -15232,20 +15120,6 @@
    "lat": 37.4988456583,
    "lng": 126.9904940651,
    "title_ko": "심산기념문화센터"
-  },
-  {
-   "id": "1392965",
-   "title": "Sogang University",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Mapo-gu",
-   "addr": "35, Baekbeom-ro, Mapo-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5516997442,
-   "lng": 126.9410415214,
-   "title_ko": "서강대학교"
   },
   {
    "id": "2642344",
@@ -15358,20 +15232,6 @@
    "lat": 37.6121405603,
    "lng": 126.9756699867,
    "title_ko": "토탈미술관"
-  },
-  {
-   "id": "268088",
-   "title": "Universal Arts Center",
-   "category": "culture",
-   "region": "seoul",
-   "city": "Gwangjin-gu",
-   "addr": "664 Cheonho-daero, Gwangjin-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/26/3109526_image2_1.JPG",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/26/3109526_image3_1.JPG",
-   "lat": 37.5500692339,
-   "lng": 127.0876726551,
-   "title_ko": "유니버설아트센터"
   },
   {
    "id": "268099",
@@ -17536,6 +17396,24 @@
    "start": "20261113",
    "end": "20261115",
    "homepage": "https://thesool.com/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-3545306",
+   "title": "포천펫스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Pocheon-si",
+   "addr": "",
+   "tel": "0502-1949-0514",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
+   "lat": 37.9234466507,
+   "lng": 127.236500949,
+   "start": "20261114",
+   "end": "20261114",
+   "homepage": "https://p-petstar.imweb.me/",
    "source": "kor",
    "ko": true
   },
