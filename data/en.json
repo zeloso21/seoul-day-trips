@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:35+09:00",
+ "updated": "2026-11-04T08:59+09:00",
  "places": [
   {
    "id": "1426597",
@@ -15234,6 +15234,20 @@
    "title_ko": "토탈미술관"
   },
   {
+   "id": "4143361",
+   "title": "U+ The Gap Between the Ordinary and the Extraordinary",
+   "category": "culture",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "426 Gangnam-daero, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/39/4136039_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/39/4136039_image3_1.jpg",
+   "lat": 37.5005866358,
+   "lng": 127.0267708063,
+   "title_ko": "U+ 일상비일상의틈"
+  },
+  {
    "id": "268099",
    "title": "Whanki Art Museum",
    "category": "culture",
@@ -15709,6 +15723,20 @@
    "lat": 37.5510195488,
    "lng": 126.9567484423,
    "title_ko": "황금콩밭"
+  },
+  {
+   "id": "4143341",
+   "title": "Ikseon-dong Gogijip",
+   "category": "food",
+   "region": "seoul",
+   "city": "Jongno-gu",
+   "addr": "47 Supyo-ro 28-gil, Jongno-gu, Seoul First Floor",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/56/4121756_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/56/4121756_image3_1.jpg",
+   "lat": 37.5733753822,
+   "lng": 126.9908261196,
+   "title_ko": "익선동고기집"
   },
   {
    "id": "2676341",
@@ -16803,6 +16831,20 @@
    "title_ko": "서대문 문화체육회관 실내수영장"
   },
   {
+   "id": "686510",
+   "title": "Seoul Plaza Ice Skating Rink",
+   "category": "leisure",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "B12 Eulji-ro, Jung-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5654470617,
+   "lng": 126.9787797829,
+   "title_ko": "서울광장 스케이트장"
+  },
+  {
    "id": "1105499",
    "title": "Seoul Sports Complex (Jamsil Sports Complex)",
    "category": "leisure",
@@ -16933,24 +16975,6 @@
    "ko": true
   },
   {
-   "id": "ko-3473295",
-   "title": "DDP 건축투어",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "",
-   "tel": "02-2153-0310, 0311 (12:00~13:00 점심시간)",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/09/4046009_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/09/4046009_image3_1.png",
-   "lat": 37.5660539726,
-   "lng": 127.0095547691,
-   "start": "20260101",
-   "end": "20261231",
-   "homepage": "https://ddp.or.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-2433596",
    "title": "A Royal Stroll",
    "category": "festival",
@@ -17073,24 +17097,6 @@
    "start": "20260420",
    "end": "20261115",
    "homepage": "",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-2720203",
-   "title": "2026 서울거리공연 구석구석라이브",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Jongno-gu",
-   "addr": "",
-   "tel": "02-2088-7218",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/74/4060474_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/74/4060474_image3_1.png",
-   "lat": 37.5716228232824,
-   "lng": 126.976787992565,
-   "start": "20260501",
-   "end": "20261231",
-   "homepage": "https://www.instagram.com/seoulbusking/",
    "source": "kor",
    "ko": true
   },
@@ -17418,6 +17424,24 @@
    "ko": true
   },
   {
+   "id": "3554627",
+   "title": "The Souvenir Fair",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "281 Eulji-ro, Jung-gu, Seoul",
+   "tel": "+82-10-3489-3637",
+   "img": "",
+   "thumb": "",
+   "lat": 37.5660539726,
+   "lng": 127.0095547691,
+   "title_ko": "대한민국 관광기념품 박람회",
+   "start": "20261120",
+   "end": "20261122",
+   "overview": "The Souvenir Fair brings together various companies and local governments to showcase a variety of souvenirs, both traditional and trendy. Visitors can freely explore the exhibition space, enjoy souvenir shopping, and take part in various programs. Highlights of the fair include an exhibition of competition-winning works, a zone featuring outstanding local souvenirs, and a special exhibition of overseas souvenirs.",
+   "homepage": ""
+  },
+  {
    "id": "ko-1129018",
    "title": "INDEF",
    "category": "festival",
@@ -17490,22 +17514,22 @@
    "title_ko": "2026 우리쌀 우리술 K-라이스페스타"
   },
   {
-   "id": "ko-3522322",
-   "title": "오슬로우 빈티지 크리스마스 마켓",
+   "id": "3536904",
+   "title": "Oh Slow Vintage Christmas Market",
    "category": "festival",
    "region": "incheon",
    "city": "Jemulpo-gu",
-   "addr": "",
-   "tel": "010-2258-9475",
+   "addr": "33 Wolmi-ro, Jemulpo-gu, Incheon",
+   "tel": "+82-10-2258-9475",
    "img": "https://tong.visitkorea.or.kr/cms/resource/24/4136124_image2_1.jpg",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/24/4136124_image3_1.jpg",
    "lat": 37.476568524,
    "lng": 126.6144291728,
+   "title_ko": "오슬로우 빈티지 크리스마스 마켓",
    "start": "20261204",
    "end": "20261220",
-   "homepage": "https://ohslowmarket.com/",
-   "source": "kor",
-   "ko": true
+   "overview": "A special winter where the romance of vintage meets the excitement of Christmas! This winter, a massive indoor Christmas market will be held at Incheon Sangsang Platform. From unique vintage, fashion, antique, and lifestyle brands gathered from all over the country to spaces filled with Christmas vibes, large photo zones, and diverse live performances including jazz, city pop, acoustic music, and DJs, this is a special year-end festival where you can experience the joy of vintage shopping and the romance of Christmas all in one place.",
+   "homepage": ""
   },
   {
    "id": "ko-4108260",
@@ -17524,6 +17548,24 @@
    "homepage": "https://hugrun.kr/",
    "source": "kor",
    "ko": true
+  },
+  {
+   "id": "3043397",
+   "title": "Gwanghwamun Market",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Jongno-gu",
+   "addr": "B172 Sejong-daero, Jongno-gu, Seoul",
+   "tel": "+82-2-3788-8105",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image3_1.jpg",
+   "lat": 37.5716249337,
+   "lng": 126.9767679222,
+   "title_ko": "광화문 마켓",
+   "start": "20261211",
+   "end": "20270110",
+   "overview": "Gwanghwamun Market takes place along with the Seoul Lantern Festival to support local small businesses and promote Seoul night tourism. The market features local store owners and businesses that exhibit and sell seasonal decor, handcrafted items, and winter snacks.",
+   "homepage": ""
   },
   {
    "id": "ko-4115260",

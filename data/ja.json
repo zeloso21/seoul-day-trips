@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:35+09:00",
+ "updated": "2026-11-04T08:59+09:00",
  "places": [
   {
    "id": "4137320",
@@ -1364,13 +1364,13 @@
    "title": "北漢山城",
    "category": "attraction",
    "region": "gyeonggi",
-   "city": "高陽市",
-   "addr": "キョンギ道コヤン市トギャン区ソデムンギル375",
+   "city": "コヤン(高陽)市トギャン(徳陽)区",
+   "addr": "キョンギ道コヤン市トギャン区プクハン洞",
    "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.6457643949,
-   "lng": 126.9738386433,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/12/3510112_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/3510112_image3_1.jpg",
+   "lat": 37.6461,
+   "lng": 126.9612,
    "title_ko": "북한산성"
   },
   {
@@ -17793,24 +17793,6 @@
    "homepage": "https://jijidaeak.com/"
   },
   {
-   "id": "ko-292961",
-   "title": "서울 왕궁수문장 교대의식",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チュン(中)区",
-   "addr": "",
-   "tel": "02-6242-7402",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/79/4039379_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/79/4039379_image3_1.jpg",
-   "lat": 37.565054919430565,
-   "lng": 126.97657463444833,
-   "start": "20260101",
-   "end": "20261231",
-   "homepage": "http://www.royalguard.kr",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-3107059",
    "title": "2026 숭례문 파수의식",
    "category": "festival",
@@ -18152,6 +18134,24 @@
    "ko": true
   },
   {
+   "id": "ko-2622167",
+   "title": "2026 경북사과홍보행사",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チュン(中)区",
+   "addr": "",
+   "tel": "대경사과원예농협 053-740-3033경상북도 스마트농업혁신과 054-880-3376",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/12/4132112_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/4132112_image3_1.jpg",
+   "lat": 37.565448355,
+   "lng": 126.9787818353,
+   "start": "20261102",
+   "end": "20261104",
+   "homepage": "",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "4116277",
    "title": "BEAUTY SUM水原",
    "category": "festival",
@@ -18404,6 +18404,24 @@
    "ko": true
   },
   {
+   "id": "4135181",
+   "title": "ソウルライト光化門",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チョンノ区セジョンロ 1-68 5号線光化門駅",
+   "tel": "+82-2-2133-1936",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/04/3581704_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/3581704_image3_1.jpg",
+   "lat": 37.5716249337,
+   "lng": 126.9767679222,
+   "title_ko": "서울라이트 광화문",
+   "start": "20261211",
+   "end": "20270103",
+   "overview": "下記の開催内容は2025年~2026年シーズンのもので、2026年～2027年シーズンの開催内容は現在準備中です。\n\nソウルライト光化門（クァンファムン）は、誰もがともに楽しめるメディアアートと文化芸術コンテンツで構成された、ソウルを代表する光の祭典です。ソウルは、多くの人々の動きや物語が集まり、ひとつの生命体のように変化し続ける都市です。その中心に立つ光化門は、長い歴史と市民の暮らしが紡がれてきたソウルの象徴的な空間であり、韓国の近代において初めて電灯がともり、都市の夜が光を得た「光の出発点」でもあります。その光は単に暗闇を照らすにとどまらず、人々の日常や文化を変化させてきました。そしてその流れは今も続き、私たちの暮らしのそこかしこで都市のリズムを生み出しています。ソウルライト光化門は、その最初の光が灯った場所から、ソウルの変化を再び光で照らし出します。",
+   "homepage": ""
+  },
+  {
    "id": "3039340",
    "title": "光化門マーケット",
    "category": "festival",
@@ -18420,6 +18438,24 @@
    "end": "20270110",
    "overview": "ソウルの冬の夜を照らす光化門（クァンファムン）マーケットが光化門広場で開催されます。2026年は「時間が止まったサンタ村」をテーマに、忙しい日常の中でしばしば立ち止まり、クリスマスのときめきを存分に楽しめる特別な冬の風景をお届けします。大型ツリーやマーケットビレッジを中心に、クリスマスシーズンの小物やあたたかいグルメを一堂に集めてお披露目し、五感を刺激する没入型フォトゾーンや多彩な体験プログラムも各所に用意される予定です。",
    "homepage": "https://www.stolantern.com/"
+  },
+  {
+   "id": "1956428",
+   "title": "ソウルランタンフェスティバル",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チュン区テピョンロ1ガ1（清渓広場～三一橋）",
+   "tel": "+82-2-3788-8168",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image3_1.jpg",
+   "lat": 37.569204,
+   "lng": 126.977633,
+   "title_ko": "서울빛초롱축제",
+   "start": "20261211",
+   "end": "20270131",
+   "overview": "下記の開催内容は2025年~2026年シーズンのもので、2026年～2027年シーズンの開催内容は現在準備中です。\n\nソウルランタンフェスティバルは2009年に初めて開催されて以来ソウルを代表する夜の光祭りとしてランタン展示やさまざまな体験プログラムなど多彩な見どころを提供しています。",
+   "homepage": "http://stolantern.com"
   },
   {
    "id": "ko-4115260",
