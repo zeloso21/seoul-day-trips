@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:59+09:00",
+ "updated": "2026-11-05T09:22+09:00",
  "places": [
   {
    "id": "1426597",
@@ -2985,20 +2985,6 @@
    "title_ko": "시흥 갯골생태공원"
   },
   {
-   "id": "822848",
-   "title": "Silleuk Temple Resort",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Yeoju-si",
-   "addr": "73, Silleuksa-gil, Yeoju-si, Gyeonggi-do",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/59/2481459_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/59/2481459_image2_1.jpg",
-   "lat": 37.2974200264,
-   "lng": 127.6599168624,
-   "title_ko": "신륵사관광지"
-  },
-  {
    "id": "4011994",
    "title": "Simgokseowon Confucian Academy",
    "category": "attraction",
@@ -3726,20 +3712,6 @@
    "lat": 37.8594737524,
    "lng": 127.480533482,
    "title_ko": "용추계곡"
-  },
-  {
-   "id": "1312170",
-   "title": "Yongin Beomnyunsa Temple",
-   "category": "attraction",
-   "region": "gyeonggi",
-   "city": "Yongin-si",
-   "addr": "126, Nongchonpark-ro, Cheoin-gu, Yongin-si, Gyeonggi-do",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.1696948894,
-   "lng": 127.2990447883,
-   "title_ko": "법륜사(용인 문수산)"
   },
   {
    "id": "1312088",
@@ -11778,6 +11750,20 @@
    "title_ko": "푸른수목원&항동철길"
   },
   {
+   "id": "3367607",
+   "title": "REDTABLE INC.",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "10F, SIGNATURE TOWER(WEST),100,Cheonggyecheon-ro, Jung-gu, Seoul",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.567724,
+   "lng": 126.988558,
+   "title_ko": "주식회사 레드테이블"
+  },
+  {
    "id": "3366246",
    "title": "Ray Business Group Inc.",
    "category": "attraction",
@@ -11860,20 +11846,6 @@
    "lat": 37.51630841,
    "lng": 127.0400862785,
    "title_ko": "리봄한방병원"
-  },
-  {
-   "id": "3367607",
-   "title": "Redtable Inc",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "10F, SIGNATURE TOWER(WEST),100,Cheonggyecheon-ro, Jung-gu, Seoul",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.5675404193,
-   "lng": 126.9884367538,
-   "title_ko": "주식회사 레드테이블"
   },
   {
    "id": "669211",
@@ -16939,24 +16911,6 @@
    "homepage": ""
   },
   {
-   "id": "ko-292961",
-   "title": "서울 왕궁수문장 교대의식",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "",
-   "tel": "02-6242-7402",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/79/4039379_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/79/4039379_image3_1.jpg",
-   "lat": 37.565054919430565,
-   "lng": 126.97657463444833,
-   "start": "20260101",
-   "end": "20261231",
-   "homepage": "http://www.royalguard.kr",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-3107059",
    "title": "2026 숭례문 파수의식",
    "category": "festival",
@@ -17334,24 +17288,6 @@
    "ko": true
   },
   {
-   "id": "ko-3401306",
-   "title": "김포 해병대 문화축제 in 대명항",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Gimpo-si",
-   "addr": "",
-   "tel": "031-980-5110",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/71/4131171_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/71/4131171_image3_1.jpg",
-   "lat": 37.6400140918,
-   "lng": 126.539451725,
-   "start": "20261107",
-   "end": "20261107",
-   "homepage": "https://www.gimpo.go.kr/u/53850",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-3399435",
    "title": "2026 안성맞춤 상설공연 “톡톡달콤 페스티벌”",
    "category": "festival",
@@ -17532,6 +17468,24 @@
    "homepage": ""
   },
   {
+   "id": "1866962",
+   "title": "Lighting Festival at The Garden of Morning Calm",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Gapyeong-gun",
+   "addr": "432 Sumogwon-ro, Gapyeong-gun, Gyeonggi-do",
+   "tel": "+82-1544-6703",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/52/3430052_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/52/3430052_image3_1.jpg",
+   "lat": 37.7447847934,
+   "lng": 127.3525659127,
+   "title_ko": "아침고요수목원 오색별빛정원전",
+   "start": "20261204",
+   "end": "20270314",
+   "overview": "Held at the Garden of Morning Calm, the Lighting Festival was the first light festival in Korea to combine the natural surroundings with lights, covering 330 thousand square meters. Held from December to March, the environmental-friendly LED lights shine throughout the garden.",
+   "homepage": ""
+  },
+  {
    "id": "ko-4108260",
    "title": "2026 HUG RUN 허그런",
    "category": "festival",
@@ -17550,6 +17504,24 @@
    "ko": true
   },
   {
+   "id": "4135897",
+   "title": "Seoul Light Gwanghwamun",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Jongno-gu",
+   "addr": "1-68 Sejongno, Jongno-gu, Seoul",
+   "tel": "+82-2-2133-1936",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/04/3581704_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/04/3581704_image3_1.jpg",
+   "lat": 37.5716249337,
+   "lng": 126.9767679222,
+   "title_ko": "서울라이트 광화문",
+   "start": "20261211",
+   "end": "20270103",
+   "overview": "Seoul Light Gwanghwamun is Seoul’s premier light festival, featuring a combination of media art with cultural and artistic content. Seoul is a city that transforms like a living organism, shaped by the movements and stories of countless people. Standing at its heart, Gwanghwamun Gate is a symbolic space where Seoul’s history and the lives of its citizens have intertwined over time; it is also the “birthplace of light,” where electricity first entered modern Korea and illuminated the city’s nights. That light did more than simply dispel the darkness; it transformed people’s daily lives and cult",
+   "homepage": ""
+  },
+  {
    "id": "3043397",
    "title": "Gwanghwamun Market",
    "category": "festival",
@@ -17565,6 +17537,24 @@
    "start": "20261211",
    "end": "20270110",
    "overview": "Gwanghwamun Market takes place along with the Seoul Lantern Festival to support local small businesses and promote Seoul night tourism. The market features local store owners and businesses that exhibit and sell seasonal decor, handcrafted items, and winter snacks.",
+   "homepage": ""
+  },
+  {
+   "id": "1121607",
+   "title": "Seoul Lantern Festival",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "Taepyeongno 1(il)-ga, Jung-gu, Seoul",
+   "tel": "+82-2-3788-8168",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image3_1.jpg",
+   "lat": 37.569204,
+   "lng": 126.977633,
+   "title_ko": "서울빛초롱축제",
+   "start": "20261211",
+   "end": "20270131",
+   "overview": "The Seoul Lantern Festival is held every year and is one of the most anticipated festivals in Seoul. With various themed lanterns around Cheonggyecheon Stream, visitors can enjoy both traditional lanterns and modern LED lanterns. The festival provides much to see and do with the addition of Gwanghwamun Square Market.",
    "homepage": ""
   },
   {

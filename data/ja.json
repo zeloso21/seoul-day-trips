@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:59+09:00",
+ "updated": "2026-11-05T09:22+09:00",
  "places": [
   {
    "id": "4137320",
@@ -5167,20 +5167,6 @@
    "lat": 37.2874813034,
    "lng": 126.9915582378,
    "title_ko": "스몹 수원"
-  },
-  {
-   "id": "2655115",
-   "title": "アラマリーナ海洋アカデミー",
-   "category": "leisure",
-   "region": "gyeonggi",
-   "city": "金浦市",
-   "addr": "京畿道 金浦市 高村邑 アラ陸路270番キル 73",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/54/1720954_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/54/1720954_image3_1.jpg",
-   "lat": 37.5993498246,
-   "lng": 126.7891706982,
-   "title_ko": "아라마리나 해양아카데미"
   },
   {
    "id": "3412666",
@@ -13194,13 +13180,13 @@
    "title": "株式会社レッドテーブル",
    "category": "attraction",
    "region": "seoul",
-   "city": "中区",
+   "city": "チュン(中)区",
    "addr": "ソウル特別市中区チョンゲチョンロ100シグネチャータワー西館10階",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.5675404193,
-   "lng": 126.9884367538,
+   "lat": 37.567724,
+   "lng": 126.988558,
    "title_ko": "주식회사 레드테이블"
   },
   {
@@ -18134,24 +18120,6 @@
    "ko": true
   },
   {
-   "id": "ko-2622167",
-   "title": "2026 경북사과홍보행사",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チュン(中)区",
-   "addr": "",
-   "tel": "대경사과원예농협 053-740-3033경상북도 스마트농업혁신과 054-880-3376",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/12/4132112_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/4132112_image3_1.jpg",
-   "lat": 37.565448355,
-   "lng": 126.9787818353,
-   "start": "20261102",
-   "end": "20261104",
-   "homepage": "",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "4116277",
    "title": "BEAUTY SUM水原",
    "category": "festival",
@@ -18184,24 +18152,6 @@
    "start": "20261107",
    "end": "20261107",
    "homepage": "https://jdlib.sen.go.kr/jdlib/board/index.do?menu_idx=242&manage_idx=2478",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-3401306",
-   "title": "김포 해병대 문화축제 in 대명항",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "キンポ(金浦)市",
-   "addr": "",
-   "tel": "031-980-5110",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/71/4131171_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/71/4131171_image3_1.jpg",
-   "lat": 37.6400140918,
-   "lng": 126.539451725,
-   "start": "20261107",
-   "end": "20261107",
-   "homepage": "https://www.gimpo.go.kr/u/53850",
    "source": "kor",
    "ko": true
   },
