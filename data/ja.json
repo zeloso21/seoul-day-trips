@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:16+09:00",
+ "updated": "2026-11-07T08:43+09:00",
  "places": [
   {
    "id": "4137320",
@@ -9877,13 +9877,13 @@
    "title": "ソウルクルーズ",
    "category": "attraction",
    "region": "seoul",
-   "city": "永登浦区",
+   "city": "ヨンドゥンポ(永登浦)区",
    "addr": "ソウル特別市ヨンドゥンポ区ヨイドハンガンゴンウォンギル231",
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/86/3564086_image2_1.JPG",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/86/3564086_image3_1.JPG",
-   "lat": 37.5296327325,
-   "lng": 126.933709479,
+   "lat": 37.5295790005,
+   "lng": 126.9336961161,
    "title_ko": "서울크루즈"
   },
   {
@@ -17293,6 +17293,20 @@
    "title_ko": "성수동 대림창고 갤러리"
   },
   {
+   "id": "4147372",
+   "title": "起承転鶏（弘大上水本店）",
+   "category": "food",
+   "region": "seoul",
+   "city": "マポ(麻浦)区",
+   "addr": "ソウル特別市マポ区ワウサンロ14ギル4（サンス洞） 1階",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/52/4146952_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/52/4146952_image3_1.jpg",
+   "lat": 37.5500619121,
+   "lng": 126.9233719908,
+   "title_ko": "기승전닭 홍대상수본점"
+  },
+  {
    "id": "1023382",
    "title": "里門ソルロンタン",
    "category": "food",
@@ -18055,12 +18069,12 @@
    "city": "カンドン(江東)区",
    "addr": "",
    "tel": "1644-6155",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/08/4124908_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/08/4124908_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/63/4147163_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/63/4147163_image3_1.jpg",
    "lat": 37.5452481279,
    "lng": 127.1179813872,
    "start": "20261018",
-   "end": "20261129",
+   "end": "20261122",
    "homepage": "https://www.siumsium-morning.com/",
    "source": "kor",
    "ko": true
