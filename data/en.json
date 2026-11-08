@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:45+09:00",
+ "updated": "2026-11-09T07:53+09:00",
  "places": [
   {
    "id": "1426597",
@@ -17091,24 +17091,6 @@
    "ko": true
   },
   {
-   "id": "ko-4120802",
-   "title": "양재천을 품은 양재도서관 「물길 따라 그림책 여행」",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Seocho-gu",
-   "addr": "",
-   "tel": "02-3486-4043",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/13/4120813_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/4120813_image3_1.jpg",
-   "lat": 37.4737013396,
-   "lng": 127.0336060294,
-   "start": "20261010",
-   "end": "20261108",
-   "homepage": "https://yangjae.seocholib.or.kr/NoticeInfoDetail/26288",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-2987791",
    "title": "2026 DMZ OPEN Festival",
    "category": "festival",
@@ -17124,24 +17106,6 @@
    "end": "20261129",
    "homepage": "https://www.instagram.com/dmzopen_official/",
    "source": "kor"
-  },
-  {
-   "id": "ko-2862358",
-   "title": "노원달빛산책",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Nowon-gu",
-   "addr": "",
-   "tel": "02-2289-346102-2116-7143",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/35/3547735_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/3547735_image3_1.jpg",
-   "lat": 37.6494434001,
-   "lng": 127.0656870873,
-   "start": "20261016",
-   "end": "20261108",
-   "homepage": "https://moonlightwalk.kr/",
-   "source": "kor",
-   "ko": true
   },
   {
    "id": "ko-4127713",
@@ -17230,42 +17194,6 @@
    "start": "20261031",
    "end": "20261231",
    "homepage": "https://www.pajucf.or.kr/business/02_3_view.php?no=182&page=1",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-4116982",
-   "title": "Sanbuk Kimjang (Kimchi-Making) Festival",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Yeoju-si",
-   "addr": "",
-   "tel": "031-883-0031",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/83/4116983_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/83/4116983_image3_1.jpg",
-   "lat": 37.4008741346,
-   "lng": 127.4451502631,
-   "start": "20261107",
-   "end": "20261108",
-   "homepage": "https://www.xn--4k0b720a3lcv6j.com/",
-   "source": "kor",
-   "title_ko": "산북AI김장문화축제"
-  },
-  {
-   "id": "ko-3555835",
-   "title": "안산사이언스밸리(ASV) 과학축제",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "Sangnok-gu, Ansan-si",
-   "addr": "",
-   "tel": "02-780-6881",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/13/4133513_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/13/4133513_image3_1.jpg",
-   "lat": 37.3001630571,
-   "lng": 126.8377108256,
-   "start": "20261107",
-   "end": "20261108",
-   "homepage": "https://asv-2026-delta.vercel.app/",
    "source": "kor",
    "ko": true
   },
