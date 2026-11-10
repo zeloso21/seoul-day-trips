@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:53+09:00",
+ "updated": "2026-11-10T11:08+09:00",
  "places": [
   {
    "id": "1426597",
@@ -9609,20 +9609,6 @@
    "title_ko": "하늘마음한의원 서초강남점"
   },
   {
-   "id": "1908468",
-   "title": "Haepungbuwongun Yun Taekyeong's Jaesil",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Jung-gu",
-   "addr": "28, Toegye-ro 34-gil, Jung-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/66/1569166_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/66/1569166_image3_1.jpg",
-   "lat": 37.5583638148,
-   "lng": 126.9944031366,
-   "title_ko": "해풍부원군윤택영댁재실"
-  },
-  {
    "id": "3539693",
    "title": "Hakeem Travel Korea",
    "category": "attraction",
@@ -12388,8 +12374,8 @@
    "tel": "",
    "img": "https://tong.visitkorea.or.kr/cms/resource/86/3564086_image2_1.JPG",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/86/3564086_image3_1.JPG",
-   "lat": 37.5296327325,
-   "lng": 126.933709479,
+   "lat": 37.5295790005,
+   "lng": 126.9336961161,
    "title_ko": "서울크루즈"
   },
   {
@@ -15598,6 +15584,20 @@
    "title_ko": "금돼지식당"
   },
   {
+   "id": "4149595",
+   "title": "Giseungjeon Dak - Hongdae Sangsu Main Branch",
+   "category": "food",
+   "region": "seoul",
+   "city": "Mapo-gu",
+   "addr": "4 Wausan-ro 14-gil, Mapo-gu, Seoul First Floor",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/52/4146952_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/52/4146952_image3_1.jpg",
+   "lat": 37.5500619121,
+   "lng": 126.9233719908,
+   "title_ko": "기승전닭 홍대상수본점"
+  },
+  {
    "id": "4071058",
    "title": "Goum",
    "category": "food",
@@ -17133,13 +17133,13 @@
    "city": "Gangdong-gu",
    "addr": "83-19 Seonsa-ro, Gangdong-gu, Seoul",
    "tel": "+82-1644-6155",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/08/4124908_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/08/4124908_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/63/4147163_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/63/4147163_image3_1.jpg",
    "lat": 37.5452481279,
    "lng": 127.1179813872,
    "title_ko": "쉬엄쉬엄모닝",
    "start": "20261018",
-   "end": "20261129",
+   "end": "20261122",
    "overview": "Sium Sium Morning, meaning a “leisurely morning,” is a weekend morning exercise event where everyone can enjoy themselves at their own pace in any way that suits their fitness level—whether walking, running, or biking, or even bringing a stroller or their dog. It’s a time to enjoy exercise and experience Seoul’s mornings without the pressure of times or rankings. Set against the backdrop of Seoul’s major bridges and Hangang Park, participants can walk or run along the cityscape and the Hangang River, discovering new charms in familiar places.\n\nOn-site, participants can also enjoy GX programs l",
    "homepage": ""
   },
@@ -17439,8 +17439,8 @@
    "city": "Jung-gu",
    "addr": "Taepyeongno 1(il)-ga, Jung-gu, Seoul",
    "tel": "+82-2-3788-8168",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/20/3563320_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/35/4147235_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/4147235_image3_1.jpg",
    "lat": 37.569204,
    "lng": 126.977633,
    "title_ko": "서울빛초롱축제",
