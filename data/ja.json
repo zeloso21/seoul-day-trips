@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:08+09:00",
+ "updated": "2026-11-11T09:02+09:00",
  "places": [
   {
    "id": "4137320",
@@ -18204,6 +18204,24 @@
    "homepage": "",
    "source": "kor",
    "title_ko": "경기미 디저트 페스타"
+  },
+  {
+   "id": "ko-3315407",
+   "title": "2026 제4차 제물포웨이브마켓",
+   "category": "festival",
+   "region": "incheon",
+   "city": "チェムルポ(済物浦)区",
+   "addr": "",
+   "tel": "010-9265-3796",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/10/4151210_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/10/4151210_image3_1.jpg",
+   "lat": 37.4760834131,
+   "lng": 126.6146527143,
+   "start": "20261121",
+   "end": "20261122",
+   "homepage": "https://www.instagram.com/jemulpowav_official",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-3367339",
