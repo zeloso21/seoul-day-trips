@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:02+09:00",
+ "updated": "2026-11-12T10:31+09:00",
  "places": [
   {
    "id": "1426597",
@@ -14697,8 +14697,8 @@
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.4996902526,
-   "lng": 127.0043094496,
+   "lat": 37.4996380026,
+   "lng": 127.0042945533,
    "title_ko": "가톨릭대학교 서울성모병원"
   },
   {
@@ -19752,8 +19752,8 @@
    "city": "Jung-gu",
    "addr": "",
    "tel": "054-630-8706",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/79/4139579_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/79/4139579_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4139585_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4139585_image3_1.jpg",
    "lat": 37.5690746935,
    "lng": 126.977592121,
    "start": "20261113",
@@ -19835,6 +19835,24 @@
    "source": "kor"
   },
   {
+   "id": "3507211",
+   "title": "Jemulpo Wave Market",
+   "category": "festival",
+   "region": "incheon",
+   "city": "Jemulpo-gu",
+   "addr": "33 Wolmi-ro, Jemulpo-gu, Incheon",
+   "tel": "+82-10-9265-3796",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/10/4151210_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/10/4151210_image3_1.jpg",
+   "lat": 37.4760834131,
+   "lng": 126.6146527143,
+   "title_ko": "제물포웨이브마켓",
+   "start": "20261121",
+   "end": "20261122",
+   "overview": "Jaemulpo Wave Market is a special festival where one can explore the many different local brands in Incheon. Various Incheon-based brands are participating to promote handmade products, home decor items, lifestyle  goods and more. Entertaining events are also planned, such as a DJ show, vintage auction, beer drinking contest, and more.",
+   "homepage": ""
+  },
+  {
    "id": "ko-2410727",
    "title": "2026 보드게임페스타(시즌2)",
    "category": "festival",
@@ -19869,24 +19887,6 @@
    "homepage": "",
    "source": "kor",
    "title_ko": "경기미 디저트 페스타"
-  },
-  {
-   "id": "ko-3315407",
-   "title": "2026 제4차 제물포웨이브마켓",
-   "category": "festival",
-   "region": "incheon",
-   "city": "Jemulpo-gu",
-   "addr": "",
-   "tel": "010-9265-3796",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/10/4151210_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/10/4151210_image3_1.jpg",
-   "lat": 37.4760834131,
-   "lng": 126.6146527143,
-   "start": "20261121",
-   "end": "20261122",
-   "homepage": "https://www.instagram.com/jemulpowav_official",
-   "source": "kor",
-   "ko": true
   },
   {
    "id": "ko-3367339",
