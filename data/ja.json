@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:31+09:00",
+ "updated": "2026-11-13T09:23+09:00",
  "places": [
   {
    "id": "4137320",
@@ -4131,20 +4131,6 @@
    "lat": 37.2682634008,
    "lng": 127.1086564838,
    "title_ko": "경기도박물관"
-  },
-  {
-   "id": "282387",
-   "title": "京畿道国楽堂",
-   "category": "culture",
-   "region": "gyeonggi",
-   "city": "龍仁市",
-   "addr": "京畿道 龍仁市 器興区 民俗村路89",
-   "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.2593867373,
-   "lng": 127.113511848,
-   "title_ko": "경기도국악당"
   },
   {
    "id": "2007124",
@@ -16354,6 +16340,20 @@
    "title_ko": "뉴오더클럽 한남"
   },
   {
+   "id": "4153837",
+   "title": "PASHA KEBAB",
+   "category": "food",
+   "region": "seoul",
+   "city": "ソデムン(西大門)区",
+   "addr": "ソウル特別市ソデムン区ヨンセロ7アンギル31（チャンチョン洞） 1階",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/27/4149327_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/27/4149327_image3_1.jpg",
+   "lat": 37.5580447272,
+   "lng": 126.9350538964,
+   "title_ko": "파샤케밥"
+  },
+  {
    "id": "3333575",
    "title": "PASSI0914",
    "category": "food",
@@ -17883,24 +17883,6 @@
    "title_ko": "2026 문화가 있는 날"
   },
   {
-   "id": "ko-3377038",
-   "title": "2026 국제선명상대회",
-   "category": "festival",
-   "region": "seoul",
-   "city": "カンナム(江南)区",
-   "addr": "",
-   "tel": "010-8441-2371",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/90/4054090_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/90/4054090_image3_1.jpg",
-   "lat": 37.5158257049833,
-   "lng": 127.057734484281,
-   "start": "20260403",
-   "end": "20261112",
-   "homepage": "https://seonmeditationsummit.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "3436117",
    "title": "コムベンイトッタ",
    "category": "festival",
@@ -18116,20 +18098,20 @@
    "ko": true
   },
   {
-   "id": "ko-3545306",
-   "title": "포천펫스타",
+   "id": "ko-4151220",
+   "title": "2026년 제7회 김치의 날 X 제4회 위킴 페스티벌",
    "category": "festival",
-   "region": "gyeonggi",
-   "city": "ポチョン(抱川)市",
+   "region": "seoul",
+   "city": "ソチョ(瑞草)区",
    "addr": "",
-   "tel": "0502-1949-0514",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
-   "lat": 37.9234466507,
-   "lng": 127.236500949,
-   "start": "20261114",
-   "end": "20261114",
-   "homepage": "https://p-petstar.imweb.me/",
+   "tel": "02-6405-3641",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/59/4155259_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/59/4155259_image3_1.jpg",
+   "lat": 37.4682787075,
+   "lng": 127.0391364334,
+   "start": "20261120",
+   "end": "20261120",
+   "homepage": "https://www.instagram.com/kimchiday_1122/",
    "source": "kor",
    "ko": true
   },
@@ -18240,6 +18222,24 @@
    "homepage": "https://www.k-ricefesta.co.kr/",
    "source": "kor",
    "title_ko": "2026 우리쌀 우리술 K-라이스페스타"
+  },
+  {
+   "id": "ko-3545306",
+   "title": "포천펫스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "ポチョン(抱川)市",
+   "addr": "",
+   "tel": "0502-1949-0514",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
+   "lat": 37.9234466507,
+   "lng": 127.236500949,
+   "start": "20261129",
+   "end": "20261129",
+   "homepage": "https://p-petstar.imweb.me/",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-3522322",

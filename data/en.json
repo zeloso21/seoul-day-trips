@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:31+09:00",
+ "updated": "2026-11-13T09:23+09:00",
  "places": [
   {
    "id": "1426597",
@@ -4909,12 +4909,12 @@
    "category": "culture",
    "region": "gyeonggi",
    "city": "Yeongtong-gu, Suwon-si",
-   "addr": "182, Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+   "addr": "182 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.2962866962,
-   "lng": 127.0513886872,
+   "lat": 37.2963440699,
+   "lng": 127.0514263103,
    "title_ko": "수원광교박물관"
   },
   {
@@ -9364,10 +9364,10 @@
    "city": "Jongno-gu",
    "addr": "Cheongun-dong, Jongno-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/57/1394557_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/57/1394557_image3_1.jpg",
-   "lat": 37.5928898572,
-   "lng": 126.9665491417,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/31/3590031_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/3590031_image3_1.jpg",
+   "lat": 37.5931,
+   "lng": 126.9737,
    "title_ko": "북악산"
   },
   {
@@ -10260,11 +10260,11 @@
    "city": "Gangbuk-gu",
    "addr": "173 Wolgye-ro, Gangbuk-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/86/2526686_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/86/2526686_image3_1.jpg",
-   "lat": 37.623332791,
-   "lng": 127.0407331926,
-   "title_ko": "북서울 꿈의숲"
+   "img": "https://tong.visitkorea.or.kr/cms/resource/44/3540144_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/44/3540144_image3_1.jpg",
+   "lat": 37.6196700876,
+   "lng": 127.0445293035,
+   "title_ko": "북서울꿈의숲"
   },
   {
    "id": "3367146",
@@ -10888,12 +10888,12 @@
    "category": "attraction",
    "region": "seoul",
    "city": "Gangdong-gu",
-   "addr": "83-66, Seonsa-ro, Gangdong-gu, Seoul",
+   "addr": "83-106 Seonsa-ro, Gangdong-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/01/1567801_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/01/1567801_image3_1.jpg",
-   "lat": 37.549969869,
-   "lng": 127.1222583979,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/11/3393811_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/11/3393811_image3_1.JPG",
+   "lat": 37.5499660244,
+   "lng": 127.1222485645,
    "title_ko": "광나루한강공원"
   },
   {
@@ -11608,6 +11608,20 @@
    "thumb": "",
    "lat": 37.5460923338,
    "lng": 126.9562291847
+  },
+  {
+   "id": "1398666",
+   "title": "Jangchung-dong Jokbal Street",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "176 Jangchungdan-ro, Jung-gu, Seoul",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/72/3589072_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/72/3589072_image3_1.jpg",
+   "lat": 37.5602398213,
+   "lng": 127.0058813456,
+   "title_ko": "장충동 족발 골목"
   },
   {
    "id": "1348558",
@@ -12735,12 +12749,12 @@
    "category": "attraction",
    "region": "seoul",
    "city": "Seocho-gu",
-   "addr": "59 Banpo-daero 37-gil, Seocho-gu, Seoul",
+   "addr": "San 59-1, Banpo-dong, Seocho-gu, Seoul",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.4954893726,
-   "lng": 127.0037237886,
+   "lat": 37.4964780457,
+   "lng": 127.0040419725,
    "title_ko": "몽마르뜨공원"
   },
   {
@@ -13085,12 +13099,12 @@
    "category": "attraction",
    "region": "seoul",
    "city": "Songpa-gu",
-   "addr": "363 Ogeum-ro, Songpa-gu, Seoul",
+   "addr": "51 Ogeum-dong, Songpa-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/07/755807_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/755807_image3_1.jpg",
-   "lat": 37.5052557863,
-   "lng": 127.1316810347,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/89/3526789_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/89/3526789_image3_1.jpg",
+   "lat": 37.5004259099,
+   "lng": 127.1316041275,
    "title_ko": "오금공원"
   },
   {
@@ -13505,13 +13519,13 @@
    "category": "attraction",
    "region": "seoul",
    "city": "Seongdong-gu",
-   "addr": "16-18 Sageundong-gil, Seongdong-gu, Seoul",
+   "addr": "209 Jungnangcheonseojajeongeo-gil, Seongdong-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/35/755735_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/35/755735_image3_1.jpg",
-   "lat": 37.5601877567,
-   "lng": 127.0431264348,
-   "title_ko": "살곶이 체육공원"
+   "img": "https://tong.visitkorea.or.kr/cms/resource/42/3564942_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/42/3564942_image3_1.jpg",
+   "lat": 37.5539764468,
+   "lng": 127.0504493505,
+   "title_ko": "살곶이체육공원"
   },
   {
    "id": "1030527",
@@ -14260,12 +14274,12 @@
    "category": "attraction",
    "region": "seoul",
    "city": "Jung-gu",
-   "addr": "10-18, Dasan-ro 33-gil, Jung-gu, Seoul",
+   "addr": "50 Toegye-ro 76-gil, Jung-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/49/2660049_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/49/2660049_image3_1.jpg",
-   "lat": 37.5630035632,
-   "lng": 127.0145930258,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/93/3589993_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/3589993_image3_1.jpg",
+   "lat": 37.5631438323,
+   "lng": 127.014739743,
    "title_ko": "신당동떡볶이골목"
   },
   {
@@ -14490,6 +14504,20 @@
    "lat": 37.4800458328,
    "lng": 126.8781298265,
    "title_ko": "㈜스타일82"
+  },
+  {
+   "id": "264623",
+   "title": "Sukjeongmun Gate",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Jongno-gu",
+   "addr": "Samcheong-dong, Jongno-gu, Seoul",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/41/3350341_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/41/3350341_image3_1.jpg",
+   "lat": 37.5955,
+   "lng": 126.9811,
+   "title_ko": "북악산 숙정문"
   },
   {
    "id": "264257",
@@ -15234,20 +15262,6 @@
    "title_ko": "서울 영휘원(순헌황귀비)과 숭인원(이진)"
   },
   {
-   "id": "264376",
-   "title": "Yeonsero (Yonsei University Street)",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "Seodaemun-gu",
-   "addr": "Area of Yeonse-ro, Sedaemun-gu, Seoul",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/05/1505605_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/05/1505605_image3_1.jpg",
-   "lat": 37.5557797448,
-   "lng": 126.9365529264,
-   "title_ko": "연세로"
-  },
-  {
    "id": "1064767",
    "title": "Yeouido Hangang Park",
    "category": "attraction",
@@ -15386,6 +15400,20 @@
    "lat": 37.5603598026,
    "lng": 126.9384859539,
    "title_ko": "연세대학교 치과대학병원"
+  },
+  {
+   "id": "264376",
+   "title": "Yonseiro (Yonsei University Street)",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "Seodaemun-gu",
+   "addr": "Area of Yonsei-ro, Seodaemun-gu, Seoul",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/73/3466373_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/3466373_image3_1.jpg",
+   "lat": 37.557587482,
+   "lng": 126.9369016745,
+   "title_ko": "연세로"
   },
   {
    "id": "3364593",
@@ -18482,6 +18510,20 @@
    "title_ko": "팔각도 본점"
   },
   {
+   "id": "4153742",
+   "title": "Pasha Kebab",
+   "category": "food",
+   "region": "seoul",
+   "city": "Seodaemun-gu",
+   "addr": "31 Yonsei-ro 7an-gil, Seodaemun-gu, Seoul",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/27/4149327_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/27/4149327_image3_1.jpg",
+   "lat": 37.5580447272,
+   "lng": 126.9350538964,
+   "title_ko": "파샤케밥"
+  },
+  {
    "id": "3340120",
    "title": "Passi 0914",
    "category": "food",
@@ -19548,24 +19590,6 @@
    "title_ko": "2026 문화가 있는 날"
   },
   {
-   "id": "ko-3377038",
-   "title": "2026 국제선명상대회",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Gangnam-gu",
-   "addr": "",
-   "tel": "010-8441-2371",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/90/4054090_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/90/4054090_image3_1.jpg",
-   "lat": 37.5158257049833,
-   "lng": 127.057734484281,
-   "start": "20260403",
-   "end": "20261112",
-   "homepage": "https://seonmeditationsummit.kr/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "3435521",
    "title": "Gombaengi Teotta",
    "category": "festival",
@@ -19745,22 +19769,22 @@
    "ko": true
   },
   {
-   "id": "ko-2613615",
-   "title": "영주 사과축제",
+   "id": "4149562",
+   "title": "MATERIALISM | Curated Exhibition by the Bjarke Ingels Group",
    "category": "festival",
    "region": "seoul",
    "city": "Jung-gu",
-   "addr": "",
-   "tel": "054-630-8706",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4139585_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4139585_image3_1.jpg",
-   "lat": 37.5690746935,
-   "lng": 126.977592121,
-   "start": "20261113",
-   "end": "20261115",
-   "homepage": "https://yctf.or.kr/aspf/",
-   "source": "kor",
-   "ko": true
+   "addr": "119 Sejong-daero, Jung-gu, Seoul",
+   "tel": "070-7178-5840",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/31/4144231_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/31/4144231_image3_1.jpg",
+   "lat": 37.5668837502,
+   "lng": 126.9767024196,
+   "title_ko": "MATERIALISM｜비야케 잉겔스 그룹 기획 전시",
+   "start": "20261107",
+   "end": "20270228",
+   "overview": "The first-ever exhibition in Korea featuring the world-renowned architectural design firm BIG is being held at the Seoul Urban Architecture Exhibition Hall. Bjarke Ingels, founder of BIG, is renowned for an architectural style that is both unique and experimental while also taking into account the user’s purpose and experience. This exhibition, which offers a glimpse into his creativity, features exhibits and models centered around 10 architectural materials, including stone, earth, concrete, metal, and wood. Visitors can explore the past and present of architecture as presented by the world-r",
+   "homepage": ""
   },
   {
    "id": "ko-2769990",
@@ -19781,20 +19805,20 @@
    "ko": true
   },
   {
-   "id": "ko-3545306",
-   "title": "포천펫스타",
+   "id": "ko-4151220",
+   "title": "2026년 제7회 김치의 날 X 제4회 위킴 페스티벌",
    "category": "festival",
-   "region": "gyeonggi",
-   "city": "Pocheon-si",
+   "region": "seoul",
+   "city": "Seocho-gu",
    "addr": "",
-   "tel": "0502-1949-0514",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
-   "lat": 37.9234466507,
-   "lng": 127.236500949,
-   "start": "20261114",
-   "end": "20261114",
-   "homepage": "https://p-petstar.imweb.me/",
+   "tel": "02-6405-3641",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/59/4155259_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/59/4155259_image3_1.jpg",
+   "lat": 37.4682787075,
+   "lng": 127.0391364334,
+   "start": "20261120",
+   "end": "20261120",
+   "homepage": "https://www.instagram.com/kimchiday_1122/",
    "source": "kor",
    "ko": true
   },
@@ -19907,6 +19931,24 @@
    "title_ko": "2026 우리쌀 우리술 K-라이스페스타"
   },
   {
+   "id": "ko-3545306",
+   "title": "포천펫스타",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Pocheon-si",
+   "addr": "",
+   "tel": "0502-1949-0514",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/07/4133507_image3_1.jpg",
+   "lat": 37.9234466507,
+   "lng": 127.236500949,
+   "start": "20261129",
+   "end": "20261129",
+   "homepage": "https://p-petstar.imweb.me/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "3536904",
    "title": "Oh Slow Vintage Christmas Market",
    "category": "festival",
@@ -19986,8 +20028,8 @@
    "city": "Jongno-gu",
    "addr": "B172 Sejong-daero, Jongno-gu, Seoul",
    "tel": "+82-2-3788-8105",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/80/4140180_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/78/4153378_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/78/4153378_image3_1.png",
    "lat": 37.5716249337,
    "lng": 126.9767679222,
    "title_ko": "광화문 마켓",
