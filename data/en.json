@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:23+09:00",
+ "updated": "2026-11-14T09:19+09:00",
  "places": [
   {
    "id": "1426597",
@@ -13281,12 +13281,12 @@
    "category": "attraction",
    "region": "seoul",
    "city": "Gangnam-gu",
-   "addr": "(#105, 10th Floor, WeWork Building), 507 Teheran-ro, Gangnam-gu, Seoul",
+   "addr": "(#106, 17th Floor, WeWork Tower), 427 Teheran-ro, Gangnam-gu, Seoul",
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.5077180576,
-   "lng": 127.0577404698,
+   "lat": 37.5063702427,
+   "lng": 127.0536417187,
    "title_ko": "레이비즈니스그룹(주)"
   },
   {
