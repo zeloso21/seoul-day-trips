@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:58+09:00",
+ "updated": "2026-11-16T08:22+09:00",
  "places": [
   {
    "id": "1426597",
@@ -19626,24 +19626,6 @@
    "source": "kor"
   },
   {
-   "id": "ko-3111722",
-   "title": "한강역사탐방",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Yeongdeungpo-gu",
-   "addr": "",
-   "tel": "02-6953-9239",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/49/4058449_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/49/4058449_image3_1.png",
-   "lat": 37.526347853294425,
-   "lng": 126.93359519306124,
-   "start": "20260420",
-   "end": "20261115",
-   "homepage": "",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-4082595",
    "title": "팔색찬란",
    "category": "festival",
@@ -19767,24 +19749,6 @@
    "end": "20270228",
    "overview": "The first-ever exhibition in Korea featuring the world-renowned architectural design firm BIG is being held at the Seoul Urban Architecture Exhibition Hall. Bjarke Ingels, founder of BIG, is renowned for an architectural style that is both unique and experimental while also taking into account the user’s purpose and experience. This exhibition, which offers a glimpse into his creativity, features exhibits and models centered around 10 architectural materials, including stone, earth, concrete, metal, and wood. Visitors can explore the past and present of architecture as presented by the world-r",
    "homepage": ""
-  },
-  {
-   "id": "ko-2769990",
-   "title": "2026 대한민국 우리술 대축제",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Seocho-gu",
-   "addr": "",
-   "tel": "02-6952-9498",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/38/4132038_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/38/4132038_image3_1.jpg",
-   "lat": 37.4673402849,
-   "lng": 127.040735573,
-   "start": "20261113",
-   "end": "20261115",
-   "homepage": "https://thesool.com/",
-   "source": "kor",
-   "ko": true
   },
   {
    "id": "ko-4151220",

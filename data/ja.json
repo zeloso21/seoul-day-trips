@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:58+09:00",
+ "updated": "2026-11-16T08:22+09:00",
  "places": [
   {
    "id": "4137320",
@@ -17919,24 +17919,6 @@
    "source": "kor"
   },
   {
-   "id": "ko-3111722",
-   "title": "한강역사탐방",
-   "category": "festival",
-   "region": "seoul",
-   "city": "ヨンドゥンポ(永登浦)区",
-   "addr": "",
-   "tel": "02-6953-9239",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/49/4058449_image2_1.png",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/49/4058449_image3_1.png",
-   "lat": 37.526347853294425,
-   "lng": 126.93359519306124,
-   "start": "20260420",
-   "end": "20261115",
-   "homepage": "",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "ko-4082595",
    "title": "팔색찬란",
    "category": "festival",
@@ -18040,42 +18022,6 @@
    "start": "20261031",
    "end": "20261231",
    "homepage": "https://www.pajucf.or.kr/business/02_3_view.php?no=182&page=1",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-2613615",
-   "title": "영주 사과축제",
-   "category": "festival",
-   "region": "seoul",
-   "city": "チュン(中)区",
-   "addr": "",
-   "tel": "054-630-8706",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4139585_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4139585_image3_1.jpg",
-   "lat": 37.5690746935,
-   "lng": 126.977592121,
-   "start": "20261113",
-   "end": "20261115",
-   "homepage": "https://yctf.or.kr/aspf/",
-   "source": "kor",
-   "ko": true
-  },
-  {
-   "id": "ko-2769990",
-   "title": "2026 대한민국 우리술 대축제",
-   "category": "festival",
-   "region": "seoul",
-   "city": "ソチョ(瑞草)区",
-   "addr": "",
-   "tel": "02-6952-9498",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/38/4132038_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/38/4132038_image3_1.jpg",
-   "lat": 37.4673402849,
-   "lng": 127.040735573,
-   "start": "20261113",
-   "end": "20261115",
-   "homepage": "https://thesool.com/",
    "source": "kor",
    "ko": true
   },
