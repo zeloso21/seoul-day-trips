@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:22+09:00",
+ "updated": "2026-11-18T10:37+09:00",
  "places": [
   {
    "id": "4137320",
@@ -18132,24 +18132,6 @@
    "homepage": "https://www.instagram.com/jemulpowav_official",
    "source": "kor",
    "ko": true
-  },
-  {
-   "id": "ko-3367339",
-   "title": "2026 Kライスフェスタ(韓国の米と酒)",
-   "category": "festival",
-   "region": "gyeonggi",
-   "city": "コヤン(高陽)市イルサンソ(一山西)区",
-   "addr": "",
-   "tel": "070-4681-5717",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/60/4111660_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/60/4111660_image3_1.jpg",
-   "lat": 37.6689334781,
-   "lng": 126.7458028497,
-   "start": "20261127",
-   "end": "20261129",
-   "homepage": "https://www.k-ricefesta.co.kr/",
-   "source": "kor",
-   "title_ko": "2026 우리쌀 우리술 K-라이스페스타"
   },
   {
    "id": "ko-3545306",
