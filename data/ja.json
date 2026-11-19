@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:37+09:00",
+ "updated": "2026-11-19T10:13+09:00",
  "places": [
   {
    "id": "4137320",
@@ -12380,16 +12380,16 @@
   },
   {
    "id": "1382959",
-   "title": "奨忠洞豚足通り",
+   "title": "奨忠洞豚足店通り",
    "category": "attraction",
    "region": "seoul",
-   "city": "中区",
-   "addr": "ソウル特別市チュン区チャンチュンダンロ176",
+   "city": "チュン(中)区",
+   "addr": "ソウル特別市チュン区チャンチュンダンロ174（チャンチュン洞1ガ）",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/97/2659597_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/97/2659597_image3_1.jpg",
-   "lat": 37.5604832175,
-   "lng": 127.0057825956,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/72/3589072_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/72/3589072_image3_1.jpg",
+   "lat": 37.5602398213,
+   "lng": 127.0058813456,
    "title_ko": "장충동 족발 골목"
   },
   {
@@ -18188,6 +18188,42 @@
    "ko": true
   },
   {
+   "id": "ko-1762432",
+   "title": "양평빙송어축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "ヤンピョン(楊平)郡",
+   "addr": "",
+   "tel": "031-775-5205",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/82/4164382_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/82/4164382_image3_1.JPG",
+   "lat": 37.5144962722,
+   "lng": 127.6573930025,
+   "start": "20261205",
+   "end": "20270307",
+   "homepage": "https://soomyland.com/main/main.php",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-2515174",
+   "title": "2026 전국민 AI 페스티벌",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チュン(中)区",
+   "addr": "",
+   "tel": "02-336-1876",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/18/4165118_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/18/4165118_image3_1.jpg",
+   "lat": 37.5680445877,
+   "lng": 127.0108903555,
+   "start": "20261211",
+   "end": "20261213",
+   "homepage": "https://www.ailearn4all.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "4135181",
    "title": "ソウルライト光化門",
    "category": "festival",
@@ -18256,6 +18292,24 @@
    "start": "20261216",
    "end": "20261227",
    "homepage": "https://www.quad.or.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-2802077",
+   "title": "2026 과학영재교육 페스티벌",
+   "category": "festival",
+   "region": "seoul",
+   "city": "カンナム(江南)区",
+   "addr": "",
+   "tel": "02-559-3887",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/12/4165112_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/4165112_image3_1.jpg",
+   "lat": 37.5007217702,
+   "lng": 127.030740311,
+   "start": "20261223",
+   "end": "20261223",
+   "homepage": "https://sgf.kosac.re.kr/sgf2026",
    "source": "kor",
    "ko": true
   },
