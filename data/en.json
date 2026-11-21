@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:13+09:00",
+ "updated": "2026-11-21T09:47+09:00",
  "places": [
   {
    "id": "1426597",
@@ -17348,6 +17348,20 @@
    "title_ko": "e스포츠 명예의 전당"
   },
   {
+   "id": "3390551",
+   "title": "10 Corso Como Cheongdam Branch",
+   "category": "food",
+   "region": "seoul",
+   "city": "Gangnam-gu",
+   "addr": "416, Apgujeong-ro, Gangnam-gu, Seoul",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/71/2778971_image2_1.png",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/71/2778971_image3_1.png",
+   "lat": 37.5269112443,
+   "lng": 127.0424302315,
+   "title_ko": "10꼬르소꼬모 청담점"
+  },
+  {
    "id": "3480531",
    "title": "105405 Magok",
    "category": "food",
@@ -19751,24 +19765,6 @@
    "homepage": ""
   },
   {
-   "id": "ko-4151220",
-   "title": "2026년 제7회 김치의 날 X 제4회 위킴 페스티벌",
-   "category": "festival",
-   "region": "seoul",
-   "city": "Seocho-gu",
-   "addr": "",
-   "tel": "02-6405-3641",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/59/4155259_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/59/4155259_image3_1.jpg",
-   "lat": 37.4682787075,
-   "lng": 127.0391364334,
-   "start": "20261120",
-   "end": "20261120",
-   "homepage": "https://www.instagram.com/kimchiday_1122/",
-   "source": "kor",
-   "ko": true
-  },
-  {
    "id": "3554627",
    "title": "The Souvenir Fair",
    "category": "festival",
@@ -19927,6 +19923,24 @@
    "start": "20261205",
    "end": "20261205",
    "homepage": "https://hugrun.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
+   "id": "ko-4144190",
+   "title": "2026 인천공항 온-아트 페스티벌",
+   "category": "festival",
+   "region": "incheon",
+   "city": "Yeongjong-gu",
+   "addr": "",
+   "tel": "02-2138-0094",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/92/4144192_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/92/4144192_image3_1.jpg",
+   "lat": 37.4476713343,
+   "lng": 126.4521719249,
+   "start": "20261205",
+   "end": "20261205",
+   "homepage": "https://www.instagram.com/onartschoolofficial/",
    "source": "kor",
    "ko": true
   },
