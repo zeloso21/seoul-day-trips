@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:18+09:00",
+ "updated": "2026-11-24T13:17+09:00",
  "places": [
   {
    "id": "1426597",
@@ -19593,8 +19593,8 @@
    "city": "Paju-si",
    "addr": "16 Heyri-ro, Tanhyeon-myeon, Paju-si, Gyeonggi-do",
    "tel": "+82-31-870-9110",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/50/4127750_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/50/4127750_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/22/4140222_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/22/4140222_image3_1.jpg",
    "lat": 37.7832839326,
    "lng": 126.6946859929,
    "title_ko": "국립극장 쏙쏙들이페스티벌",
@@ -19837,22 +19837,22 @@
    "ko": true
   },
   {
-   "id": "ko-1762432",
-   "title": "양평빙송어축제",
+   "id": "1876890",
+   "title": "Yangpyeong Icefish Festival",
    "category": "festival",
    "region": "gyeonggi",
    "city": "Yangpyeong-gun",
-   "addr": "",
-   "tel": "031-775-5205",
+   "addr": "55-2 Gopdani-gil, Yangpyeong-gun, Gyeonggi-do",
+   "tel": "+82-31-775-5205",
    "img": "https://tong.visitkorea.or.kr/cms/resource/82/4164382_image2_1.JPG",
    "thumb": "https://tong.visitkorea.or.kr/cms/resource/82/4164382_image3_1.JPG",
    "lat": 37.5144962722,
    "lng": 127.6573930025,
+   "title_ko": "양평빙송어축제",
    "start": "20261205",
    "end": "20270307",
-   "homepage": "https://soomyland.com/main/main.php",
-   "source": "kor",
-   "ko": true
+   "overview": "Yangpyeong Icefish Festival takes place in Soomy Village in winters. Residents are preparing for the festival to welcome all visitors including families, couples, groups and others. During the festival, visitors can eat warm fish cakes and roasted chestnuts. Aside from ice fishing, other traditional winter activities such as jjinbbang-making (steamed bun with red bean filling) are available, as well as ATV rides.",
+   "homepage": ""
   },
   {
    "id": "4135897",

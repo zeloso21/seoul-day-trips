@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:18+09:00",
+ "updated": "2026-11-24T13:17+09:00",
  "places": [
   {
    "id": "4137320",
@@ -9229,6 +9229,20 @@
    "title_ko": "올림픽공원"
   },
   {
+   "id": "1468742",
+   "title": "オンゴ・フード",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チョンノ区プクチョンロ137-11",
+   "tel": "",
+   "img": "",
+   "thumb": "",
+   "lat": 37.586960713,
+   "lng": 126.9827925836,
+   "title_ko": "온고푸드"
+  },
+  {
    "id": "3549129",
    "title": "オンヌリスマイル眼科医院",
    "category": "attraction",
@@ -10865,6 +10879,20 @@
    "lat": 37.5479742491,
    "lng": 127.0441516773,
    "title_ko": "주식회사 프렌트립"
+  },
+  {
+   "id": "1468482",
+   "title": "フード＆カルチャーコリア",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "チョンノ(鐘路)区",
+   "addr": "ソウル特別市チョンノ区サジクロ101 弼雲ビル3階",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/25/2541025_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/25/2541025_image3_1.jpg",
+   "lat": 37.5836474604,
+   "lng": 126.9699495696,
+   "title_ko": "푸드앤컬쳐 코리아"
   },
   {
    "id": "3547851",
