@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:17+09:00",
+ "updated": "2026-11-25T12:02+09:00",
  "places": [
   {
    "id": "1426597",
@@ -8428,8 +8428,8 @@
    "tel": "",
    "img": "",
    "thumb": "",
-   "lat": 37.43810421306548,
-   "lng": 126.72005900919874,
+   "lat": 37.4381042131,
+   "lng": 126.7200590092,
    "title_ko": "꽃게담다 by 블루베리팜"
   },
   {
@@ -13115,10 +13115,10 @@
    "city": "Mapo-gu",
    "addr": "87 Jeungsan-ro, Mapo-gu, Seoul",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/62/3340962_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/62/3340962_image3_1.jpg",
-   "lat": 37.5699856862,
-   "lng": 126.8951646315,
+   "img": "https://tong.visitkorea.or.kr/cms/resource/67/3340967_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/67/3340967_image3_1.jpg",
+   "lat": 37.5699317809,
+   "lng": 126.8951507515,
    "title_ko": "문화비축기지"
   },
   {
@@ -19961,6 +19961,24 @@
    "end": "20270213",
    "overview": "The Korea Grand Sale is Korea’s premier tourism festival for international visitors, combining shopping, culture, and travel. Held during the winter tourism off-season, the event aims to promote travel to Korea by offering a wide range of benefits for international visitors across various sectors, including flights and transportation, shopping, accommodation, food and beverages, beauty and wellness, experiences, and travel services. The event also features special promotions and hands-on programs, along with visitor services and exclusive benefits available at the Myeongdong Welcome Center. Mo",
    "homepage": ""
+  },
+  {
+   "id": "ko-3049823",
+   "title": "제4회 겨울엔 양평",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Yangpyeong-gun",
+   "addr": "",
+   "tel": "031-770-1072",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/63/4173763_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/63/4173763_image3_1.jpg",
+   "lat": 37.4898308439,
+   "lng": 127.4920824556,
+   "start": "20261231",
+   "end": "20261231",
+   "homepage": "https://겨울엔양평.kr",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "3390251",
