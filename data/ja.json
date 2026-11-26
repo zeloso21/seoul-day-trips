@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:02+09:00",
+ "updated": "2026-11-26T11:12+09:00",
  "places": [
   {
    "id": "4137320",
@@ -854,6 +854,20 @@
    "lat": 37.7904034907,
    "lng": 126.6849692838,
    "title_ko": "프로방스 마을"
+  },
+  {
+   "id": "4174160",
+   "title": "ヘイリバリアフリーノウル林道",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "パジュ(坡州)市",
+   "addr": "キョンギ道パジュ市タンヒョン面ポプフン里 1652-585",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/91/3011591_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/91/3011591_image3_1.jpg",
+   "lat": 37.7902,
+   "lng": 126.7024,
+   "title_ko": "헤이리무장애노을숲길"
   },
   {
    "id": "282075",
@@ -3979,6 +3993,20 @@
    "title_ko": "킨텍스"
   },
   {
+   "id": "4174117",
+   "title": "MIMESIS ART MUSEUM",
+   "category": "culture",
+   "region": "gyeonggi",
+   "city": "パジュ(坡州)市",
+   "addr": "キョンギ道パジュ市ムンバルロ253（ムンバル洞）",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/38/3505438_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/38/3505438_image3_1.jpg",
+   "lat": 37.716515598,
+   "lng": 126.6888745788,
+   "title_ko": "미메시스 아트 뮤지엄"
+  },
+  {
    "id": "3376827",
    "title": "MUSEUM HEI",
    "category": "culture",
@@ -6529,17 +6557,17 @@
   },
   {
    "id": "1989789",
-   "title": "月尾チャンランド（月尾テーマパーク）",
+   "title": "月尾チャンランド",
    "category": "attraction",
    "region": "incheon",
-   "city": "中区",
-   "addr": "インチョン広域市チュン区ウォルミムンファロ81",
+   "city": "チェムルポ(済物浦)区",
+   "addr": "インチョン広域市チェムルポ区ウォルミムンファロ81",
    "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/93/2766593_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/2766593_image3_1.jpg",
-   "lat": 37.4714834966,
-   "lng": 126.5960474521,
-   "title_ko": "월미짱랜드（월미테마파크）"
+   "img": "https://tong.visitkorea.or.kr/cms/resource/41/3518141_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/41/3518141_image3_1.jpg",
+   "lat": 37.4714,
+   "lng": 126.5963,
+   "title_ko": "월미짱랜드"
   },
   {
    "id": "1006563",
@@ -7340,6 +7368,20 @@
    "title_ko": "짜장면박물관"
   },
   {
+   "id": "4174225",
+   "title": "トライボウル",
+   "category": "culture",
+   "region": "incheon",
+   "city": "ヨンス(延寿)区",
+   "addr": "インチョン広域市ヨンス区インチョンタワーデロ250",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/12/3489612_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/3489612_image3_1.jpg",
+   "lat": 37.3941141211,
+   "lng": 126.6350294165,
+   "title_ko": "트라이보울"
+  },
+  {
    "id": "3502516",
    "title": "ヌードルプラットフォーム",
    "category": "culture",
@@ -7926,6 +7968,20 @@
    "lat": 37.5476,
    "lng": 126.6666,
    "title_ko": "인천아시아드주경기장"
+  },
+  {
+   "id": "4174419",
+   "title": "松島Komarine",
+   "category": "leisure",
+   "region": "incheon",
+   "city": "ヨンス(延寿)区",
+   "addr": "インチョン広域市ヨンス区コンベンシアデロ160",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/93/3497293_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/93/3497293_image3_1.jpg",
+   "lat": 37.3903457361,
+   "lng": 126.6435840854,
+   "title_ko": "송도 코마린"
   },
   {
    "id": "3099844",
@@ -12615,6 +12671,20 @@
    "lat": 37.554371328,
    "lng": 126.9227542239,
    "title_ko": "홍대"
+  },
+  {
+   "id": "4173962",
+   "title": "弘大歩きたい通り",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "マポ(麻浦)区",
+   "addr": "ソウル特別市マポ区ソギョ洞",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/99/3082399_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/99/3082399_image3_1.JPG",
+   "lat": 37.555999,
+   "lng": 126.924307,
+   "title_ko": "홍대걷고싶은거리"
   },
   {
    "id": "281238",
@@ -18260,6 +18330,24 @@
    "end": "20270213",
    "overview": "「コリアグランドセール」はショッピング、文化、観光が融合した外国人向けの観光フェスティバルで、観光オフシーズンである冬の訪韓旅行を促進するために開催されます。航空・交通、ショッピング、宿泊、グルメ、ビューティー、体験、便利なサービスなど、さまざまな分野で外国人観光客向けのお得な特典を提供します。特に今年は「グルメ」をスペシャルテーマに掲げ、韓国の食文化を実際に体験できるさまざまなプロモーションや体験プログラムを展開します。韓国ならではの多彩な味と食文化を楽しみながら、韓国旅行の新たな魅力を発見することができます。明洞ウェルカムセンターでは、外国人観光客向けの観光サービスを提供するほか、コリアグランドセール専用クーポンブックをはじめ、さまざまなイベント特典に関する情報を案内します。また、参加型イベントやさまざまな記念品のプレゼントなど、訪問者が楽しめる多彩なプログラムも実施します。「コリアグランドセール」の詳細は公式ホームページをご覧ください。",
    "homepage": "https://en.koreagrandsale.co.kr/"
+  },
+  {
+   "id": "ko-2802702",
+   "title": "포천백운계곡 동장군축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "ポチョン(抱川)市",
+   "addr": "",
+   "tel": "031-536-9917",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/21/3580521_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/21/3580521_image3_1.jpg",
+   "lat": 38.0734785425,
+   "lng": 127.4120415644,
+   "start": "20261224",
+   "end": "20270209",
+   "homepage": "https://dongjangkun.com/index.php",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-3049823",

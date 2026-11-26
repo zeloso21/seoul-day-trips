@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:02+09:00",
+ "updated": "2026-11-26T11:12+09:00",
  "places": [
   {
    "id": "1426597",
@@ -19961,6 +19961,24 @@
    "end": "20270213",
    "overview": "The Korea Grand Sale is Korea’s premier tourism festival for international visitors, combining shopping, culture, and travel. Held during the winter tourism off-season, the event aims to promote travel to Korea by offering a wide range of benefits for international visitors across various sectors, including flights and transportation, shopping, accommodation, food and beverages, beauty and wellness, experiences, and travel services. The event also features special promotions and hands-on programs, along with visitor services and exclusive benefits available at the Myeongdong Welcome Center. Mo",
    "homepage": ""
+  },
+  {
+   "id": "ko-2802702",
+   "title": "포천백운계곡 동장군축제",
+   "category": "festival",
+   "region": "gyeonggi",
+   "city": "Pocheon-si",
+   "addr": "",
+   "tel": "031-536-9917",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/21/3580521_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/21/3580521_image3_1.jpg",
+   "lat": 38.0734785425,
+   "lng": 127.4120415644,
+   "start": "20261224",
+   "end": "20270209",
+   "homepage": "https://dongjangkun.com/index.php",
+   "source": "kor",
+   "ko": true
   },
   {
    "id": "ko-3049823",
