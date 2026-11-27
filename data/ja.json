@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:12+09:00",
+ "updated": "2026-11-27T11:10+09:00",
  "places": [
   {
    "id": "4137320",
@@ -896,6 +896,20 @@
    "lat": 37.2853420378,
    "lng": 127.0127633314,
    "title_ko": "행리단길"
+  },
+  {
+   "id": "4177982",
+   "title": "マイアニマルストーリー in 平康ランド",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "ポチョン(抱川)市",
+   "addr": "キョンギ道ポチョン市ヨンブク面ウムルモクキル171-18",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/52/2713752_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/52/2713752_image3_1.jpg",
+   "lat": 38.0500333779,
+   "lng": 127.3062277926,
+   "title_ko": "마이애니멀스토리 in 평강랜드"
   },
   {
    "id": "3440568",
@@ -12813,6 +12827,20 @@
    "title_ko": "경희궁"
   },
   {
+   "id": "2593297",
+   "title": "文化備蓄基地",
+   "category": "attraction",
+   "region": "seoul",
+   "city": "マポ(麻浦)区",
+   "addr": "ソウル特別市マポ区チュンサンロ87",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/67/3340967_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/67/3340967_image3_1.jpg",
+   "lat": 37.5699317809,
+   "lng": 126.8951507515,
+   "title_ko": "문화비축기지"
+  },
+  {
    "id": "1562554",
    "title": "文化駅ソウル284",
    "category": "attraction",
@@ -14546,20 +14574,6 @@
    "lat": 37.5471796096,
    "lng": 127.0281781551,
    "title_ko": "응봉산（서울）"
-  },
-  {
-   "id": "2593297",
-   "title": "麻浦 文化備蓄基地",
-   "category": "attraction",
-   "region": "seoul",
-   "city": "麻浦区",
-   "addr": "ソウル特別市マポ区チュンサンロ87",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/45/2932945_image2_1.bmp",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/45/2932945_image3_1.bmp",
-   "lat": 37.5703995248,
-   "lng": 126.8950451862,
-   "title_ko": "마포 문화비축기지"
   },
   {
    "id": "281207",
@@ -18224,6 +18238,24 @@
    "ko": true
   },
   {
+   "id": "ko-4178037",
+   "title": "서울한국춤페스티벌",
+   "category": "festival",
+   "region": "seoul",
+   "city": "チュン(中)区",
+   "addr": "",
+   "tel": "1800-4746",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/40/4178040_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/40/4178040_image3_1.JPG",
+   "lat": 37.55954227,
+   "lng": 126.9947387353,
+   "start": "20261207",
+   "end": "20261208",
+   "homepage": "https://www.moveseoul.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "4135181",
    "title": "ソウルライト光化門",
    "category": "festival",
@@ -18303,8 +18335,8 @@
    "city": "カンナム(江南)区",
    "addr": "",
    "tel": "02-559-3887",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/12/4165112_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/4165112_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/16/4176716_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/16/4176716_image3_1.jpg",
    "lat": 37.5007217702,
    "lng": 127.030740311,
    "start": "20261223",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:12+09:00",
+ "updated": "2026-11-27T11:10+09:00",
  "places": [
   {
    "id": "1426597",
@@ -19855,6 +19855,24 @@
    "homepage": ""
   },
   {
+   "id": "ko-4178037",
+   "title": "서울한국춤페스티벌",
+   "category": "festival",
+   "region": "seoul",
+   "city": "Jung-gu",
+   "addr": "",
+   "tel": "1800-4746",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/40/4178040_image2_1.JPG",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/40/4178040_image3_1.JPG",
+   "lat": 37.55954227,
+   "lng": 126.9947387353,
+   "start": "20261207",
+   "end": "20261208",
+   "homepage": "https://www.moveseoul.kr/",
+   "source": "kor",
+   "ko": true
+  },
+  {
    "id": "4135897",
    "title": "Seoul Light Gwanghwamun",
    "category": "festival",
@@ -19934,8 +19952,8 @@
    "city": "Gangnam-gu",
    "addr": "",
    "tel": "02-559-3887",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/12/4165112_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/12/4165112_image3_1.jpg",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/16/4176716_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/16/4176716_image3_1.jpg",
    "lat": 37.5007217702,
    "lng": 127.030740311,
    "start": "20261223",
