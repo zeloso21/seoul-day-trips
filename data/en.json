@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:10+09:00",
+ "updated": "2026-11-28T10:59+09:00",
  "places": [
   {
    "id": "1426597",
@@ -2422,6 +2422,20 @@
    "lat": 37.3828312648,
    "lng": 126.8301258058,
    "title_ko": "물왕호수"
+  },
+  {
+   "id": "4178467",
+   "title": "My Animal Story in Pyunggang Land",
+   "category": "attraction",
+   "region": "gyeonggi",
+   "city": "Pocheon-si",
+   "addr": "171-18 Umulmok-gil, Yeongbuk-myeon, Pocheon-si, Gyeonggi-do",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/52/2713752_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/52/2713752_image3_1.jpg",
+   "lat": 38.0500333779,
+   "lng": 127.3062277926,
+   "title_ko": "마이애니멀스토리 in 평강랜드"
   },
   {
    "id": "3098279",
@@ -17670,6 +17684,20 @@
    "title_ko": "충무로 부산복집"
   },
   {
+   "id": "4179633",
+   "title": "Daegawon Seoul Main Branch",
+   "category": "food",
+   "region": "seoul",
+   "city": "Gangseo-gu",
+   "addr": "209 Gonghang-daero, Gangseo-gu, Seoul #401-405, 4F, GMG Elstar",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/73/4167373_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/4167373_image3_1.jpg",
+   "lat": 37.5597506476,
+   "lng": 126.8308888242,
+   "title_ko": "대가원 서울 본점"
+  },
+  {
    "id": "2364040",
    "title": "Daejanggeum",
    "category": "food",
@@ -19068,6 +19096,34 @@
    "lat": 37.5266090791,
    "lng": 127.0354219841,
    "title_ko": "우모크"
+  },
+  {
+   "id": "4179454",
+   "title": "Yeongtong Baekhap Kalguksu Gangnam Branch",
+   "category": "food",
+   "region": "seoul",
+   "city": "Seocho-gu",
+   "addr": "7 Gangnam-daero 53-gil, Seocho-gu, Seoul 2F, Gangnam Ani Tower",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4164585_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4164585_image3_1.jpg",
+   "lat": 37.4942643848,
+   "lng": 127.0282598394,
+   "title_ko": "영통백합칼국수 강남점"
+  },
+  {
+   "id": "4179392",
+   "title": "Yeouidogam",
+   "category": "food",
+   "region": "seoul",
+   "city": "Yeongdeungpo-gu",
+   "addr": "19 Yeouidaebang-ro 69-gil, Yeongdeungpo-gu, Seoul #201, 2F, Shopping Center Building",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4164485_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4164485_image3_1.jpg",
+   "lat": 37.5205992353,
+   "lng": 126.9304242106,
+   "title_ko": "여의도감"
   },
   {
    "id": "2438216",

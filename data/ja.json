@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:10+09:00",
+ "updated": "2026-11-28T10:59+09:00",
  "places": [
   {
    "id": "4137320",
@@ -4943,20 +4943,6 @@
    "lat": 37.2779138428,
    "lng": 127.0406068312,
    "title_ko": "본수원갈비"
-  },
-  {
-   "id": "3105247",
-   "title": "ミドヒャン",
-   "category": "food",
-   "region": "gyeonggi",
-   "city": "高陽市",
-   "addr": "キョンギ道コヤン市イルサンソ区テサンロ223ボンギル8-4",
-   "tel": "",
-   "img": "https://tong.visitkorea.or.kr/cms/resource/14/401614_image2_1.jpg",
-   "thumb": "https://tong.visitkorea.or.kr/cms/resource/14/401614_image3_1.jpg",
-   "lat": 37.6786094075,
-   "lng": 126.7534995025,
-   "title_ko": "미도향"
   },
   {
    "id": "3413765",
@@ -16984,18 +16970,18 @@
    "title_ko": "티테라피"
   },
   {
-   "id": "349206",
-   "title": "テリム山菜定食",
+   "id": "4179846",
+   "title": "テガウォン（ソウル本店）",
    "category": "food",
    "region": "seoul",
-   "city": "道峰区",
-   "addr": "ソウル特別市 道峰区 蘆海路60キル 32 （双門洞）",
+   "city": "カンソ(江西)区",
+   "addr": "ソウル特別市カンソ区コンハンデロ209 GMG L STAR 4階 401-405号",
    "tel": "",
-   "img": "",
-   "thumb": "",
-   "lat": 37.6499761029,
-   "lng": 127.0342413467,
-   "title_ko": "태림산채정식"
+   "img": "https://tong.visitkorea.or.kr/cms/resource/73/4167373_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/73/4167373_image3_1.jpg",
+   "lat": 37.5597506476,
+   "lng": 126.8308888242,
+   "title_ko": "대가원 서울 본점"
   },
   {
    "id": "3553041",
@@ -17335,6 +17321,20 @@
    "title_ko": "봉피양"
   },
   {
+   "id": "4179588",
+   "title": "汝矣島感",
+   "category": "food",
+   "region": "seoul",
+   "city": "ヨンドゥンポ(永登浦)区",
+   "addr": "ソウル特別市ヨンドゥンポ区ヨイデバンロ69ギル19（ヨイド洞） 商街棟2階201号",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4164485_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4164485_image3_1.jpg",
+   "lat": 37.5205992353,
+   "lng": 126.9304242106,
+   "title_ko": "여의도감"
+  },
+  {
    "id": "4141550",
    "title": "益善洞ゴギチプ",
    "category": "food",
@@ -17515,6 +17515,20 @@
    "lat": 37.5729544923847,
    "lng": 126.982530999773,
    "title_ko": "운종가"
+  },
+  {
+   "id": "4179754",
+   "title": "霊通ハマグリカルグクス（江南店）",
+   "category": "food",
+   "region": "seoul",
+   "city": "ソチョ(瑞草)区",
+   "addr": "ソウル特別市ソチョ区カンナムデロ53ギル7（ソチョ洞） 2階",
+   "tel": "",
+   "img": "https://tong.visitkorea.or.kr/cms/resource/85/4164585_image2_1.jpg",
+   "thumb": "https://tong.visitkorea.or.kr/cms/resource/85/4164585_image3_1.jpg",
+   "lat": 37.4942643848,
+   "lng": 127.0282598394,
+   "title_ko": "영통백합칼국수 강남점"
   },
   {
    "id": "3333557",
